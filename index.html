@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="home">
+
+{% for page in site.data["network"]["nodes"] %}
+<li>{{ page.id }}</li>
+{% endfor %}
+
+</div>

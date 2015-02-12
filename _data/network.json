@@ -1,0 +1,170 @@
+{
+  "adjacency": [
+    [], 
+    [
+      {
+        "id": "Social network"
+      }
+    ], 
+    [
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Radio network"
+      }, 
+      {
+        "id": "Telecommunications network"
+      }
+    ], 
+    [
+      {
+        "id": "Television network"
+      }, 
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Social network"
+      }, 
+      {
+        "id": "Radio network"
+      }, 
+      {
+        "id": "Biological network"
+      }, 
+      {
+        "id": "Artificial neural network"
+      }, 
+      {
+        "id": "Telecommunications network"
+      }
+    ], 
+    [
+      {
+        "id": "Telecommunications network"
+      }, 
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Biological network"
+      }, 
+      {
+        "id": "Artificial neural network"
+      }, 
+      {
+        "id": "Business networking"
+      }
+    ], 
+    [
+      {
+        "id": "Television network"
+      }, 
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Telecommunications network"
+      }
+    ], 
+    [
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Social network"
+      }, 
+      {
+        "id": "Artificial neural network"
+      }, 
+      {
+        "id": "Telecommunications network"
+      }
+    ], 
+    [], 
+    [
+      {
+        "id": "Neural network"
+      }, 
+      {
+        "id": "Artificial neural network"
+      }
+    ], 
+    [
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Biological network"
+      }, 
+      {
+        "id": "Neural network"
+      }, 
+      {
+        "id": "Telecommunications network"
+      }, 
+      {
+        "id": "Social network"
+      }
+    ], 
+    [
+      {
+        "id": "Television network"
+      }, 
+      {
+        "id": "Computer network"
+      }, 
+      {
+        "id": "Social network"
+      }, 
+      {
+        "id": "Radio network"
+      }, 
+      {
+        "id": "Biological network"
+      }, 
+      {
+        "id": "Artificial neural network"
+      }
+    ]
+  ], 
+  "directed": false, 
+  "graph": [], 
+  "multigraph": false, 
+  "nodes": [
+    {
+      "id": "Universities network"
+    }, 
+    {
+      "id": "Business networking"
+    }, 
+    {
+      "id": "Television network"
+    }, 
+    {
+      "id": "Computer network"
+    }, 
+    {
+      "id": "Social network"
+    }, 
+    {
+      "id": "Radio network"
+    }, 
+    {
+      "id": "Biological network"
+    }, 
+    {
+      "id": "Electrical network"
+    }, 
+    {
+      "id": "Neural network"
+    }, 
+    {
+      "id": "Artificial neural network"
+    }, 
+    {
+      "id": "Telecommunications network"
+    }
+  ]
+}
