@@ -5,13 +5,17 @@ $slope-green: #5cb85c;
 
 .slope-indicator {
   display:inline-block;
-  width: 24px;
-  height: 24px;
+  width: 18px;
+  height: 18px;
   background-color: $slope-green;
-  -moz-border-radius: 12px;
-  -webkit-border-radius: 12px;
-  border-radius: 12px;
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+  border-radius: 9px;
   vertical-align: middle;
 }
 
-#path li { line-height: 24px; }
+#path li {
+  line-height: 24px;
+  vertical-align: middle;
+  text-transform: lowercase;
+}
