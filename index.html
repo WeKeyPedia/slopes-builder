@@ -2,10 +2,32 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" class="container-fluid">
 
-{% for page in site.data["network"]["nodes"] %}
-<li>{{ page.id }}</li>
-{% endfor %}
+<div class="col-md-2">
+
+<div class="panel panel-default" id="path">
+  <div class="panel-heading">path <span class="glyphicon glyphicon-tasks pull-right" aria-hidden="true"></span></div>
+
+  <ul class="list-group">
+  {% for page in site.data["network"]["nodes"] %}
+    <li class="list-group-item"><span class="slope-indicator"></span> {{ page.id }}</li>
+  {% endfor %}
+  </ul>
+
+</div>
+
+
+<div class="panel panel-default" id="path">
+  <div class="panel-heading">metadata</div>
+</div>
+
+</div>
+
+<div class="col-md-10">
+  
+<h1>current media title</h1>
+
+</div>
 
 </div>
