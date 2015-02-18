@@ -23,3 +23,13 @@ $slope-green: #5cb85c;
   vertical-align: middle;
   text-transform: lowercase;
 }
+
+#path {
+  height: 600px;
+  overflow: hidden;
+}
+
+#path ul {
+  height: 572px;
+  overflow: scroll;
+}
