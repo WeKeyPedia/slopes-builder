@@ -393,16 +393,25 @@
     ], 
     [
       {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Convex hull"
+        "id": "Triangle inequality"
+      }, 
+      {
+        "id": "Kissing number problem"
+      }, 
+      {
+        "id": "Quadrilateral"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Triangle"
+      }, 
+      {
+        "id": "Reticular geometry"
       }
     ], 
     [
@@ -1103,9 +1112,6 @@
         "id": "Isometry"
       }, 
       {
-        "id": "Non-Euclidean geometry"
-      }, 
-      {
         "id": "Reticular geometry"
       }, 
       {
@@ -1157,7 +1163,7 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Non-Euclidean geometry"
       }, 
       {
         "id": "Stereographic projection"
@@ -1743,7 +1749,7 @@
         "id": "Archimedean solid"
       }, 
       {
-        "id": "Geometry"
+        "id": "Prism (geometry)"
       }, 
       {
         "id": "Tetrahedron"
@@ -1758,7 +1764,7 @@
         "id": "Parallelepiped"
       }, 
       {
-        "id": "Prism (geometry)"
+        "id": "Geometry"
       }, 
       {
         "id": "Hyperplane"
@@ -1781,28 +1787,49 @@
     ], 
     [
       {
+        "id": "Combinatorial geometry"
+      }, 
+      {
+        "id": "Crystal system"
+      }, 
+      {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Isosceles triangle"
+        "id": "Archimedean solid"
       }, 
       {
-        "id": "Angle trisection"
+        "id": "Penrose tiling"
       }, 
       {
-        "id": "List of triangle topics"
+        "id": "Conic section"
       }, 
       {
-        "id": "Geometry"
+        "id": "Wang tile"
+      }, 
+      {
+        "id": "Crystal"
+      }, 
+      {
+        "id": "Tessellation"
+      }, 
+      {
+        "id": "Aperiodic tiling"
+      }, 
+      {
+        "id": "Hyperplane"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
+        "id": "Translational symmetry"
+      }, 
+      {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Pythagorean theorem"
+        "id": "Discrete geometry"
       }
     ], 
     [
@@ -1872,13 +1899,13 @@
     ], 
     [
       {
-        "id": "Geometry"
-      }, 
-      {
         "id": "Reticular geometry"
       }, 
       {
         "id": "Parametric patch"
+      }, 
+      {
+        "id": "Geometry"
       }, 
       {
         "id": "Prism (geometry)"
@@ -1939,64 +1966,187 @@
     ], 
     [
       {
+        "id": "Computational geometry"
+      }, 
+      {
+        "id": "Supplementary angles"
+      }, 
+      {
         "id": "Projective geometry"
       }, 
       {
-        "id": "Projective transformation"
+        "id": "Point (geometry)"
       }, 
       {
-        "id": "Finite geometry"
+        "id": "Angle"
       }, 
       {
-        "id": "Parametric patch"
+        "id": "Polygon"
       }, 
       {
-        "id": "Ordered geometry"
+        "id": "Deltahedron"
       }, 
       {
-        "id": "Inversive geometry"
+        "id": "Kepler-Poinsot polyhedra"
       }, 
       {
-        "id": "Geometry"
+        "id": "Euclidean shortest path"
       }, 
       {
-        "id": "Reticular geometry"
+        "id": "Topology"
       }, 
       {
-        "id": "Euclidean geometry"
+        "id": "Roman surface"
       }, 
       {
-        "id": "Absolute geometry"
+        "id": "Star polygon"
       }, 
       {
-        "id": "Synthetic geometry"
+        "id": "Voronoi tessellation"
       }, 
       {
-        "id": "Euclidean plane geometry"
+        "id": "Heronian tetrahedron"
       }, 
       {
-        "id": "Incidence (geometry)"
+        "id": "Regular Polytopes (book)"
       }, 
       {
-        "id": "Plane geometry"
+        "id": "Rhombus"
       }, 
       {
-        "id": "Projective plane"
+        "id": "Tessellation"
       }, 
       {
-        "id": "Fundamental theorem of projective geometry"
+        "id": "Pyramid (geometry)"
       }, 
       {
-        "id": "Curve interpolation"
+        "id": "Parallelepiped"
       }, 
       {
-        "id": "Mathematics"
+        "id": "Shape dissection"
+      }, 
+      {
+        "id": "Group action"
+      }, 
+      {
+        "id": "Polyhedral compound"
+      }, 
+      {
+        "id": "Adjacent angles"
+      }, 
+      {
+        "id": "Prismatoid"
+      }, 
+      {
+        "id": "Pick's theorem"
+      }, 
+      {
+        "id": "Convex hull"
+      }, 
+      {
+        "id": "Zonotope"
+      }, 
+      {
+        "id": "Defect (geometry)"
+      }, 
+      {
+        "id": "Schl\u00e4fli symbol"
+      }, 
+      {
+        "id": "Combinatorial geometry"
+      }, 
+      {
+        "id": "Honeycomb (geometry)"
+      }, 
+      {
+        "id": "Polytope"
+      }, 
+      {
+        "id": "Archimedean solid"
+      }, 
+      {
+        "id": "Torus"
+      }, 
+      {
+        "id": "Tetrahedron"
+      }, 
+      {
+        "id": "Symmetry"
+      }, 
+      {
+        "id": "Complementary angles"
       }, 
       {
         "id": "Line (mathematics)"
       }, 
       {
-        "id": "Projective space"
+        "id": "Uniform polyhedron"
+      }, 
+      {
+        "id": "Hilbert's third problem"
+      }, 
+      {
+        "id": "Geometric shape"
+      }, 
+      {
+        "id": "Bolyai\u2013Gerwien theorem"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Parametric patch"
+      }, 
+      {
+        "id": "Lattice (group)"
+      }, 
+      {
+        "id": "Discrete geometry"
+      }, 
+      {
+        "id": "Johnson solid"
+      }, 
+      {
+        "id": "Isometry"
+      }, 
+      {
+        "id": "Regular polytope"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Four-dimensional space"
+      }, 
+      {
+        "id": "Chirality (mathematics)"
+      }, 
+      {
+        "id": "Cross section (geometry)"
+      }, 
+      {
+        "id": "Crystal"
+      }, 
+      {
+        "id": "Prism (geometry)"
+      }, 
+      {
+        "id": "Affine space"
+      }, 
+      {
+        "id": "Point groups in three dimensions"
+      }, 
+      {
+        "id": "Equilateral triangle"
+      }, 
+      {
+        "id": "Coxeter group"
+      }, 
+      {
+        "id": "Platonic solid"
+      }, 
+      {
+        "id": "Symmetry group"
       }
     ], 
     [
@@ -2423,9 +2573,6 @@
       }, 
       {
         "id": "Supplementary angles"
-      }, 
-      {
-        "id": "Inversive geometry"
       }, 
       {
         "id": "Geometry"
@@ -3057,73 +3204,31 @@
     ], 
     [
       {
-        "id": "Point (geometry)"
-      }, 
-      {
-        "id": "Ellipsoid"
-      }, 
-      {
-        "id": "Packing and covering"
-      }, 
-      {
-        "id": "M\u00f6bius transformation"
-      }, 
-      {
-        "id": "Mathematics"
-      }, 
-      {
-        "id": "Circle"
-      }, 
-      {
-        "id": "Sphere packing"
+        "id": "Combinatorial geometry"
       }, 
       {
         "id": "3-sphere"
       }, 
       {
+        "id": "Four-dimensional space"
+      }, 
+      {
+        "id": "Ellipsoid"
+      }, 
+      {
         "id": "Ball (mathematics)"
-      }, 
-      {
-        "id": "Conformal geometry"
-      }, 
-      {
-        "id": "Discrete geometry"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Topology"
-      }, 
-      {
-        "id": "Combinatorial geometry"
-      }, 
-      {
-        "id": "Polytope"
       }, 
       {
         "id": "Inversive geometry"
       }, 
       {
-        "id": "Delaunay triangulation"
+        "id": "Geometry"
       }, 
       {
-        "id": "Curve interpolation"
+        "id": "Packing and covering"
       }, 
       {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Projective space"
-      }, 
-      {
-        "id": "Hypersphere"
-      }, 
-      {
-        "id": "Four-dimensional space"
-      }, 
-      {
-        "id": "Affine space"
+        "id": "Point (geometry)"
       }, 
       {
         "id": "Lie sphere geometry"
@@ -3132,48 +3237,7 @@
         "id": "Sphere"
       }, 
       {
-        "id": "Hyperplane"
-      }, 
-      {
-        "id": "Complex projective line"
-      }, 
-      {
-        "id": "Stereographic projection"
-      }, 
-      {
-        "id": "Leech lattice"
-      }
-    ], 
-    [
-      {
-        "id": "Combinatorial geometry"
-      }, 
-      {
-        "id": "Crystal system"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Archimedean solid"
-      }, 
-      {
-        "id": "Penrose tiling"
-      }, 
-      {
-        "id": "Conic section"
-      }, 
-      {
-        "id": "Wang tile"
-      }, 
-      {
-        "id": "Crystal"
-      }, 
-      {
-        "id": "Tessellation"
-      }, 
-      {
-        "id": "Aperiodic tiling"
+        "id": "Delaunay triangulation"
       }, 
       {
         "id": "Hyperplane"
@@ -3182,198 +3246,110 @@
         "id": "Curve interpolation"
       }, 
       {
-        "id": "Translational symmetry"
+        "id": "Parametric patch"
       }, 
       {
         "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Discrete geometry"
-      }
-    ], 
-    [
-      {
-        "id": "Computational geometry"
-      }, 
-      {
-        "id": "Supplementary angles"
-      }, 
-      {
-        "id": "Projective geometry"
-      }, 
-      {
-        "id": "Point (geometry)"
-      }, 
-      {
-        "id": "Angle"
-      }, 
-      {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Deltahedron"
-      }, 
-      {
-        "id": "Kepler-Poinsot polyhedra"
-      }, 
-      {
-        "id": "Euclidean shortest path"
-      }, 
-      {
-        "id": "Topology"
-      }, 
-      {
-        "id": "Roman surface"
-      }, 
-      {
-        "id": "Star polygon"
-      }, 
-      {
-        "id": "Voronoi tessellation"
-      }, 
-      {
-        "id": "Heronian tetrahedron"
-      }, 
-      {
-        "id": "Regular Polytopes (book)"
-      }, 
-      {
-        "id": "Rhombus"
-      }, 
-      {
-        "id": "Tessellation"
-      }, 
-      {
-        "id": "Pyramid (geometry)"
-      }, 
-      {
-        "id": "Parallelepiped"
-      }, 
-      {
-        "id": "Shape dissection"
-      }, 
-      {
-        "id": "Group action"
-      }, 
-      {
-        "id": "Polyhedral compound"
-      }, 
-      {
-        "id": "Adjacent angles"
-      }, 
-      {
-        "id": "Prismatoid"
-      }, 
-      {
-        "id": "Pick's theorem"
-      }, 
-      {
-        "id": "Convex hull"
-      }, 
-      {
-        "id": "Zonotope"
-      }, 
-      {
-        "id": "Defect (geometry)"
-      }, 
-      {
-        "id": "Schl\u00e4fli symbol"
-      }, 
-      {
-        "id": "Combinatorial geometry"
-      }, 
-      {
-        "id": "Honeycomb (geometry)"
       }, 
       {
         "id": "Polytope"
       }, 
       {
-        "id": "Archimedean solid"
-      }, 
-      {
-        "id": "Torus"
-      }, 
-      {
-        "id": "Tetrahedron"
-      }, 
-      {
-        "id": "Symmetry"
-      }, 
-      {
-        "id": "Complementary angles"
-      }, 
-      {
-        "id": "Line (mathematics)"
-      }, 
-      {
-        "id": "Uniform polyhedron"
-      }, 
-      {
-        "id": "Hilbert's third problem"
-      }, 
-      {
-        "id": "Geometric shape"
-      }, 
-      {
-        "id": "Bolyai\u2013Gerwien theorem"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Lattice (group)"
+        "id": "Projective space"
       }, 
       {
         "id": "Discrete geometry"
       }, 
       {
-        "id": "Johnson solid"
+        "id": "Sphere packing"
+      }
+    ], 
+    [
+      {
+        "id": "Parametric patch"
       }, 
       {
-        "id": "Isometry"
+        "id": "Isosceles triangle"
       }, 
       {
-        "id": "Regular polytope"
+        "id": "Angle trisection"
+      }, 
+      {
+        "id": "List of triangle topics"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "Curve interpolation"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Four-dimensional space"
+        "id": "Pythagorean theorem"
+      }
+    ], 
+    [
+      {
+        "id": "Projective geometry"
       }, 
       {
-        "id": "Chirality (mathematics)"
+        "id": "Projective transformation"
       }, 
       {
-        "id": "Cross section (geometry)"
+        "id": "Finite geometry"
       }, 
       {
-        "id": "Crystal"
+        "id": "Parametric patch"
       }, 
       {
-        "id": "Prism (geometry)"
+        "id": "Ordered geometry"
       }, 
       {
-        "id": "Affine space"
+        "id": "Inversive geometry"
       }, 
       {
-        "id": "Point groups in three dimensions"
+        "id": "Geometry"
       }, 
       {
-        "id": "Equilateral triangle"
+        "id": "Reticular geometry"
       }, 
       {
-        "id": "Coxeter group"
+        "id": "Euclidean geometry"
       }, 
       {
-        "id": "Platonic solid"
+        "id": "Absolute geometry"
       }, 
       {
-        "id": "Symmetry group"
+        "id": "Synthetic geometry"
+      }, 
+      {
+        "id": "Euclidean plane geometry"
+      }, 
+      {
+        "id": "Incidence (geometry)"
+      }, 
+      {
+        "id": "Plane geometry"
+      }, 
+      {
+        "id": "Projective plane"
+      }, 
+      {
+        "id": "Fundamental theorem of projective geometry"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
+        "id": "Line (mathematics)"
+      }, 
+      {
+        "id": "Projective space"
       }
     ], 
     [
@@ -3545,7 +3521,7 @@
         "id": "Projective geometry"
       }, 
       {
-        "id": "Packing and covering"
+        "id": "Fractal geometry"
       }, 
       {
         "id": "Euclidean plane geometry"
@@ -3608,7 +3584,7 @@
         "id": "Desargues' theorem"
       }, 
       {
-        "id": "Fractal geometry"
+        "id": "Packing and covering"
       }, 
       {
         "id": "Reticular geometry"
@@ -4076,7 +4052,7 @@
         "id": "Plane at infinity"
       }, 
       {
-        "id": "Analytic geometry"
+        "id": "Group action"
       }, 
       {
         "id": "Line at infinity"
@@ -4088,10 +4064,10 @@
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Group action"
+        "id": "Polytope"
       }, 
       {
-        "id": "Polytope"
+        "id": "Hyperplane"
       }, 
       {
         "id": "Hyperplane at infinity"
@@ -4112,9 +4088,6 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
-      }, 
-      {
         "id": "Polyhedron"
       }, 
       {
@@ -4130,7 +4103,7 @@
         "id": "Affine transformation"
       }, 
       {
-        "id": "Hyperplane"
+        "id": "Analytic geometry"
       }, 
       {
         "id": "Fundamental theorem of projective geometry"
@@ -4188,34 +4161,58 @@
     ], 
     [
       {
-        "id": "M\u00f6bius transformation"
+        "id": "Polygon"
+      }, 
+      {
+        "id": "Uniform tessellation"
+      }, 
+      {
+        "id": "Andreini tessellation"
+      }, 
+      {
+        "id": "Wang tile"
+      }, 
+      {
+        "id": "Regular polytope"
       }, 
       {
         "id": "Wallpaper group"
       }, 
       {
-        "id": "Point groups in two dimensions"
+        "id": "Regular Polytopes (book)"
       }, 
       {
-        "id": "Pyramid (geometry)"
+        "id": "Rectangle"
       }, 
       {
-        "id": "Group action"
+        "id": "Prototile"
+      }, 
+      {
+        "id": "Parallelepiped"
+      }, 
+      {
+        "id": "Aperiodic tiling"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Platonic solid"
+        "id": "Zonotope"
       }, 
       {
-        "id": "Polyhedron"
+        "id": "Schl\u00e4fli symbol"
       }, 
       {
-        "id": "Crystal system"
+        "id": "Polytope"
+      }, 
+      {
+        "id": "Tessellation"
       }, 
       {
         "id": "Geometry"
+      }, 
+      {
+        "id": "Euclidean geometry"
       }, 
       {
         "id": "Tetrahedron"
@@ -4224,46 +4221,40 @@
         "id": "Uniform polyhedron"
       }, 
       {
-        "id": "Symmetry group"
+        "id": "Hilbert's third problem"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
-        "id": "Point group"
+        "id": "Voronoi tessellation"
       }, 
       {
-        "id": "Projective space"
+        "id": "Polyhedron"
       }, 
       {
-        "id": "Frieze group"
+        "id": "Shape dissection"
       }, 
       {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Chirality (mathematics)"
-      }, 
-      {
-        "id": "Symmetry"
+        "id": "Crystal"
       }, 
       {
         "id": "Prism (geometry)"
       }, 
       {
-        "id": "Sphere"
+        "id": "Non-Euclidean geometry"
+      }, 
+      {
+        "id": "Penrose tiling"
+      }, 
+      {
+        "id": "Dihedral angle"
       }, 
       {
         "id": "Coxeter group"
-      }, 
-      {
-        "id": "Isometry"
-      }, 
-      {
-        "id": "Translational symmetry"
-      }, 
-      {
-        "id": "Space group"
       }
     ], 
     [
@@ -4724,40 +4715,19 @@
     ], 
     [
       {
-        "id": "Projective geometry"
-      }, 
-      {
-        "id": "M\u00f6bius transformation"
-      }, 
-      {
-        "id": "Mathematics"
-      }, 
-      {
-        "id": "Projective transformation"
-      }, 
-      {
         "id": "Homogeneous coordinates"
       }, 
       {
         "id": "Point at infinity"
       }, 
       {
+        "id": "Projective transformation"
+      }, 
+      {
         "id": "Projective line"
       }, 
       {
-        "id": "Algebraic geometry"
-      }, 
-      {
-        "id": "Conformal geometry"
-      }, 
-      {
-        "id": "Inversive ring geometry"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Topology"
+        "id": "Parametric patch"
       }, 
       {
         "id": "Inversive geometry"
@@ -4766,28 +4736,46 @@
         "id": "Geometry"
       }, 
       {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Algebraic geometry"
+      }, 
+      {
+        "id": "M\u00f6bius transformation"
+      }, 
+      {
+        "id": "Projective geometry"
+      }, 
+      {
+        "id": "Conformal geometry"
+      }, 
+      {
+        "id": "Topology"
+      }, 
+      {
         "id": "Cross-ratio"
       }, 
       {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Projective space"
-      }, 
-      {
-        "id": "Hypersphere"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Complex projective plane"
+        "id": "Inversive ring geometry"
       }, 
       {
         "id": "Fundamental theorem of projective geometry"
       }, 
       {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
         "id": "Stereographic projection"
+      }, 
+      {
+        "id": "Projective space"
+      }, 
+      {
+        "id": "Complex projective plane"
       }
     ], 
     [
@@ -5297,7 +5285,7 @@
         "id": "Tangential quadrilateral"
       }, 
       {
-        "id": "Inscribed angle"
+        "id": "List of trigonometry topics"
       }, 
       {
         "id": "Pi"
@@ -5366,7 +5354,7 @@
         "id": "Annulus (mathematics)"
       }, 
       {
-        "id": "List of trigonometry topics"
+        "id": "Inscribed angle"
       }, 
       {
         "id": "Power center (geometry)"
@@ -5585,13 +5573,73 @@
     ], 
     [
       {
-        "id": "Curve interpolation"
+        "id": "Ellipsoid"
+      }, 
+      {
+        "id": "Compass and straightedge constructions"
+      }, 
+      {
+        "id": "M\u00f6bius transformation"
+      }, 
+      {
+        "id": "Similarity (geometry)"
+      }, 
+      {
+        "id": "Quadric"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
+        "id": "Circle"
+      }, 
+      {
+        "id": "Borromean rings"
+      }, 
+      {
+        "id": "Similarity transformation (geometry)"
+      }, 
+      {
+        "id": "Parabola"
+      }, 
+      {
+        "id": "Conic section"
+      }, 
+      {
+        "id": "Dandelin spheres"
+      }, 
+      {
+        "id": "Semi-major axis"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
+        "id": "Cone (geometry)"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Steiner chain"
+      }, 
+      {
         "id": "Parametric patch"
+      }, 
+      {
+        "id": "Cross section (geometry)"
+      }, 
+      {
+        "id": "Congruence (geometry)"
+      }, 
+      {
+        "id": "Spheroid"
+      }, 
+      {
+        "id": "Hyperbola"
+      }, 
+      {
+        "id": "Ellipse"
       }
     ], 
     [
@@ -6380,25 +6428,82 @@
     ], 
     [
       {
-        "id": "Parametric patch"
+        "id": "M\u00f6bius transformation"
       }, 
       {
-        "id": "Triangle inequality"
+        "id": "Wallpaper group"
       }, 
       {
-        "id": "Kissing number problem"
+        "id": "Point groups in two dimensions"
       }, 
       {
-        "id": "Quadrilateral"
+        "id": "Pyramid (geometry)"
+      }, 
+      {
+        "id": "Group action"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Platonic solid"
+      }, 
+      {
+        "id": "Polyhedron"
+      }, 
+      {
+        "id": "Crystal system"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "Tetrahedron"
+      }, 
+      {
+        "id": "Uniform polyhedron"
+      }, 
+      {
+        "id": "Symmetry group"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
-        "id": "Triangle"
+        "id": "Point group"
       }, 
       {
-        "id": "Reticular geometry"
+        "id": "Projective space"
+      }, 
+      {
+        "id": "Frieze group"
+      }, 
+      {
+        "id": "Parametric patch"
+      }, 
+      {
+        "id": "Chirality (mathematics)"
+      }, 
+      {
+        "id": "Symmetry"
+      }, 
+      {
+        "id": "Prism (geometry)"
+      }, 
+      {
+        "id": "Sphere"
+      }, 
+      {
+        "id": "Coxeter group"
+      }, 
+      {
+        "id": "Isometry"
+      }, 
+      {
+        "id": "Translational symmetry"
+      }, 
+      {
+        "id": "Space group"
       }
     ], 
     [
@@ -6541,9 +6646,6 @@
         "id": "B\u00e9zier curve"
       }, 
       {
-        "id": "Discrete geometry"
-      }, 
-      {
         "id": "Concyclic"
       }, 
       {
@@ -6553,7 +6655,7 @@
         "id": "Euclidean geometry"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Discrete geometry"
       }, 
       {
         "id": "Congruence (geometry)"
@@ -7223,37 +7325,34 @@
     ], 
     [
       {
-        "id": "Mirror image"
+        "id": "Angle"
       }, 
       {
-        "id": "M\u00f6bius transformation"
+        "id": "Hyperbolic geometry"
       }, 
       {
-        "id": "Invariant (mathematics)"
+        "id": "Spherical geometry"
       }, 
       {
-        "id": "Wallpaper group"
+        "id": "Euclidean plane geometry"
       }, 
       {
         "id": "Similarity (geometry)"
       }, 
       {
-        "id": "Translation (geometry)"
+        "id": "Affine geometry"
       }, 
       {
-        "id": "Root system"
+        "id": "Elliptic geometry"
       }, 
       {
-        "id": "Mathematics"
+        "id": "Pythagorean theorem"
       }, 
       {
-        "id": "Point groups in two dimensions"
+        "id": "Triangle"
       }, 
       {
-        "id": "2D computer graphics"
-      }, 
-      {
-        "id": "Similarity transformation (geometry)"
+        "id": "Absolute geometry"
       }, 
       {
         "id": "Reticular geometry"
@@ -7262,64 +7361,40 @@
         "id": "Erlangen program"
       }, 
       {
-        "id": "Platonic solid"
+        "id": "Parallel (geometry)"
       }, 
       {
-        "id": "Isometry"
+        "id": "Geometry"
       }, 
       {
-        "id": "Inversive geometry"
+        "id": "Euclidean geometry"
+      }, 
+      {
+        "id": "Line (mathematics)"
+      }, 
+      {
+        "id": "Ordered geometry"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
-        "id": "Ray tracing (graphics)"
-      }, 
-      {
-        "id": "Point group"
-      }, 
-      {
-        "id": "Taxicab geometry"
-      }, 
-      {
-        "id": "Frieze group"
-      }, 
-      {
         "id": "Parametric patch"
-      }, 
-      {
-        "id": "Transformation geometry"
-      }, 
-      {
-        "id": "Symmetry"
       }, 
       {
         "id": "Congruence (geometry)"
       }, 
       {
-        "id": "Affine transformation"
+        "id": "Non-Euclidean geometry"
       }, 
       {
-        "id": "Hyperplane"
+        "id": "Quadrilateral"
       }, 
       {
-        "id": "Coxeter group"
+        "id": "Plane geometry"
       }, 
       {
-        "id": "Glide reflection"
-      }, 
-      {
-        "id": "Hyperbola"
-      }, 
-      {
-        "id": "Space group"
-      }, 
-      {
-        "id": "Coordinate rotations and reflections"
-      }, 
-      {
-        "id": "Rotation (mathematics)"
+        "id": "Sphere"
       }
     ], 
     [
@@ -7530,22 +7605,22 @@
         "id": "3D projection"
       }, 
       {
-        "id": "Constructive solid geometry"
-      }, 
-      {
-        "id": "Minkowski addition"
+        "id": "2D computer graphics"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
-        "id": "Mathematics"
+        "id": "Minkowski addition"
+      }, 
+      {
+        "id": "Constructive solid geometry"
       }, 
       {
         "id": "Binary space partitioning"
       }, 
       {
-        "id": "2D computer graphics"
+        "id": "Mathematics"
       }, 
       {
         "id": "Reticular geometry"
@@ -7746,16 +7821,37 @@
     ], 
     [
       {
-        "id": "Homothetic center"
+        "id": "Circumcircle"
+      }, 
+      {
+        "id": "Altitude (triangle)"
       }, 
       {
         "id": "Parametric patch"
       }, 
       {
-        "id": "List of circle topics"
+        "id": "Incircle and excircles of a triangle"
+      }, 
+      {
+        "id": "Congruence (geometry)"
       }, 
       {
         "id": "Geometry"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Point (geometry)"
+      }, 
+      {
+        "id": "Euler's line"
+      }, 
+      {
+        "id": "List of triangle topics"
+      }, 
+      {
+        "id": "Locus (mathematics)"
       }, 
       {
         "id": "Curve interpolation"
@@ -7764,10 +7860,13 @@
         "id": "Triangle"
       }, 
       {
-        "id": "Circle"
+        "id": "Nine-point circle"
       }, 
       {
-        "id": "Reticular geometry"
+        "id": "Hyperbola"
+      }, 
+      {
+        "id": "Homothetic transformation"
       }
     ], 
     [
@@ -8307,10 +8406,10 @@
     ], 
     [
       {
-        "id": "Isometry"
+        "id": "Frieze group"
       }, 
       {
-        "id": "Frieze group"
+        "id": "Isometry"
       }, 
       {
         "id": "Reticular geometry"
@@ -8950,7 +9049,7 @@
         "id": "Angle"
       }, 
       {
-        "id": "Parallelogram law"
+        "id": "Riemannian geometry"
       }, 
       {
         "id": "Tangential quadrilateral"
@@ -9007,9 +9106,6 @@
         "id": "Rectangle"
       }, 
       {
-        "id": "Riemannian geometry"
-      }, 
-      {
         "id": "Prismatoid"
       }, 
       {
@@ -9062,6 +9158,9 @@
       }, 
       {
         "id": "Congruence (geometry)"
+      }, 
+      {
+        "id": "Parallelogram law"
       }, 
       {
         "id": "Point (geometry)"
@@ -9940,7 +10039,7 @@
         "id": "Polygon"
       }, 
       {
-        "id": "Ellipsoid"
+        "id": "Mirror image"
       }, 
       {
         "id": "Fractal geometry"
@@ -9973,7 +10072,7 @@
         "id": "2D computer graphics"
       }, 
       {
-        "id": "Mirror image"
+        "id": "Ellipsoid"
       }, 
       {
         "id": "Parabola"
@@ -10389,9 +10488,6 @@
         "id": "Root system"
       }, 
       {
-        "id": "Pythagorean triangle"
-      }, 
-      {
         "id": "Curve interpolation"
       }, 
       {
@@ -10404,7 +10500,7 @@
         "id": "Sphere packing"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Pythagorean triangle"
       }
     ], 
     [
@@ -10705,6 +10801,17 @@
       }, 
       {
         "id": "2D geometric model"
+      }
+    ], 
+    [
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Parametric patch"
       }
     ], 
     [
@@ -11193,46 +11300,51 @@
     ], 
     [
       {
-        "id": "Digital geometry"
+        "id": "Cyclic quadrilateral"
       }, 
       {
-        "id": "Coordinate rotations and reflections"
+        "id": "Parametric patch"
       }, 
       {
-        "id": "Systolic geometry"
+        "id": "Polygon"
       }, 
       {
-        "id": "Triangle inequality"
+        "id": "Geometry"
       }, 
       {
-        "id": "Deltahedron"
+        "id": "Quadrilateral"
       }, 
       {
-        "id": "Kepler-Poinsot polyhedra"
+        "id": "Sphere"
       }, 
       {
-        "id": "Orthodiagonal quadrilateral"
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }
+    ], 
+    [
+      {
+        "id": "Projective geometry"
+      }, 
+      {
+        "id": "M\u00f6bius transformation"
+      }, 
+      {
+        "id": "Hadwiger's theorem"
       }, 
       {
         "id": "Invariant (mathematics)"
       }, 
       {
-        "id": "Archimedes' use of infinitesimals"
+        "id": "Similarity (geometry)"
       }, 
       {
-        "id": "Information geometry"
+        "id": "Affine geometry"
       }, 
       {
-        "id": "Elliptic geometry"
-      }, 
-      {
-        "id": "Incidence (geometry)"
-      }, 
-      {
-        "id": "Complex geometry"
-      }, 
-      {
-        "id": "Borromean rings"
+        "id": "Rectangle"
       }, 
       {
         "id": "Homogeneous coordinates"
@@ -11244,986 +11356,19 @@
         "id": "Similarity transformation (geometry)"
       }, 
       {
-        "id": "Bicentric quadrilateral"
-      }, 
-      {
-        "id": "Absolute geometry"
-      }, 
-      {
-        "id": "Str\u00e4hle construction"
-      }, 
-      {
-        "id": "Plane at infinity"
-      }, 
-      {
-        "id": "Pyramid (geometry)"
-      }, 
-      {
-        "id": "Shear mapping"
-      }, 
-      {
-        "id": "Epipolar geometry"
-      }, 
-      {
         "id": "B\u00e9zier curve"
-      }, 
-      {
-        "id": "Cuisenaire rods"
-      }, 
-      {
-        "id": "Inversive ring geometry"
-      }, 
-      {
-        "id": "Prismatoid"
-      }, 
-      {
-        "id": "Quasicrystal"
-      }, 
-      {
-        "id": "Concyclic"
-      }, 
-      {
-        "id": "Pythagorean triangle"
-      }, 
-      {
-        "id": "Quantum geometry"
-      }, 
-      {
-        "id": "Isometry"
-      }, 
-      {
-        "id": "Ruppeiner geometry"
-      }, 
-      {
-        "id": "Central angle"
-      }, 
-      {
-        "id": "Altitude (triangle)"
-      }, 
-      {
-        "id": "Matrix representation of conic sections"
-      }, 
-      {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "Equidiagonal quadrilateral"
-      }, 
-      {
-        "id": "Integral geometry"
-      }, 
-      {
-        "id": "Chirality (mathematics)"
-      }, 
-      {
-        "id": "Ordered geometry"
-      }, 
-      {
-        "id": "2D geometric model"
-      }, 
-      {
-        "id": "Hidden line removal"
-      }, 
-      {
-        "id": "Trapezoid"
-      }, 
-      {
-        "id": "Lattice (group)"
-      }, 
-      {
-        "id": "Steiner chain"
-      }, 
-      {
-        "id": "Discrete geometry"
-      }, 
-      {
-        "id": "Pons asinorum"
-      }, 
-      {
-        "id": "Girard Desargues"
-      }, 
-      {
-        "id": "Oval (projective plane)"
-      }, 
-      {
-        "id": "Desarguesian plane"
-      }, 
-      {
-        "id": "Symmetry"
-      }, 
-      {
-        "id": "Kissing number problem"
-      }, 
-      {
-        "id": "Congruence (geometry)"
-      }, 
-      {
-        "id": "Polyhedron"
-      }, 
-      {
-        "id": "Affine space"
-      }, 
-      {
-        "id": "Burmester's theory"
-      }, 
-      {
-        "id": "Point groups in three dimensions"
-      }, 
-      {
-        "id": "Annulus (mathematics)"
-      }, 
-      {
-        "id": "Isosceles trapezoid"
-      }, 
-      {
-        "id": "Napkin ring problem"
-      }, 
-      {
-        "id": "Regular Polytopes (book)"
-      }, 
-      {
-        "id": "Affine transformation"
-      }, 
-      {
-        "id": "Prototile"
-      }, 
-      {
-        "id": "Equilateral triangle"
-      }, 
-      {
-        "id": "Complex projective line"
-      }, 
-      {
-        "id": "Quadrilateral"
-      }, 
-      {
-        "id": "Glide reflection"
-      }, 
-      {
-        "id": "Hyperbola"
-      }, 
-      {
-        "id": "Rotation (mathematics)"
-      }, 
-      {
-        "id": "Robot control"
-      }, 
-      {
-        "id": "Circle points segments proof"
-      }, 
-      {
-        "id": "List of circle topics"
-      }, 
-      {
-        "id": "Enumerative geometry"
-      }, 
-      {
-        "id": "B-spline"
-      }, 
-      {
-        "id": "Pattern"
-      }, 
-      {
-        "id": "Tetrahedron"
-      }, 
-      {
-        "id": "Combinatorial geometry"
-      }, 
-      {
-        "id": "Euclidean plane geometry"
-      }, 
-      {
-        "id": "Klein geometry"
-      }, 
-      {
-        "id": "List of triangle topics"
-      }, 
-      {
-        "id": "Polar sine"
-      }, 
-      {
-        "id": "Similarity (geometry)"
-      }, 
-      {
-        "id": "Affine geometry"
-      }, 
-      {
-        "id": "Mathematics and fiber arts"
-      }, 
-      {
-        "id": "Symplectic geometry"
-      }, 
-      {
-        "id": "Root system"
-      }, 
-      {
-        "id": "Ptolemaios' theorem"
-      }, 
-      {
-        "id": "Circle"
-      }, 
-      {
-        "id": "Pi"
-      }, 
-      {
-        "id": "Ehrhart polynomial"
-      }, 
-      {
-        "id": "Point in polygon"
-      }, 
-      {
-        "id": "Desargues' theorem"
-      }, 
-      {
-        "id": "Lie sphere geometry"
-      }, 
-      {
-        "id": "Point at infinity"
-      }, 
-      {
-        "id": "3-sphere"
-      }, 
-      {
-        "id": "Parallel postulate"
-      }, 
-      {
-        "id": "Incircle and excircles of a triangle"
-      }, 
-      {
-        "id": "Point (geometry)"
-      }, 
-      {
-        "id": "Prism (geometry)"
-      }, 
-      {
-        "id": "Dandelin spheres"
-      }, 
-      {
-        "id": "Isosceles triangle"
-      }, 
-      {
-        "id": "Semi-major axis"
-      }, 
-      {
-        "id": "3D computer graphics"
-      }, 
-      {
-        "id": "List of trigonometry topics"
-      }, 
-      {
-        "id": "Paraboloid"
-      }, 
-      {
-        "id": "Thurston's conjecture"
-      }, 
-      {
-        "id": "Right circular cone"
-      }, 
-      {
-        "id": "Pappus's centroid theorem"
-      }, 
-      {
-        "id": "Power center (geometry)"
-      }, 
-      {
-        "id": "Concurrent lines"
-      }, 
-      {
-        "id": "Astronomy"
-      }, 
-      {
-        "id": "Erlangen program"
-      }, 
-      {
-        "id": "Convex hull"
-      }, 
-      {
-        "id": "Platonic solid"
-      }, 
-      {
-        "id": "Descriptive geometry"
-      }, 
-      {
-        "id": "Roman surface"
-      }, 
-      {
-        "id": "Poncelet\u2013Steiner theorem"
-      }, 
-      {
-        "id": "Coordinate-free treatment"
-      }, 
-      {
-        "id": "Duality (projective geometry)"
-      }, 
-      {
-        "id": "Fundamental theorem of projective geometry"
-      }, 
-      {
-        "id": "Point groups in two dimensions"
-      }, 
-      {
-        "id": "Line (mathematics)"
-      }, 
-      {
-        "id": "Parametric surface"
-      }, 
-      {
-        "id": "Monge's theorem"
-      }, 
-      {
-        "id": "Incidence geometry"
-      }, 
-      {
-        "id": "Rhombus"
-      }, 
-      {
-        "id": "Contact geometry"
-      }, 
-      {
-        "id": "Translational symmetry"
-      }, 
-      {
-        "id": "Taxicab geometry"
-      }, 
-      {
-        "id": "Sangaku"
-      }, 
-      {
-        "id": "Homothetic center"
-      }, 
-      {
-        "id": "Square"
-      }, 
-      {
-        "id": "Cross-ratio"
-      }, 
-      {
-        "id": "Holditch's theorem"
-      }, 
-      {
-        "id": "Mathematical morphology"
-      }, 
-      {
-        "id": "Andreini tessellation"
-      }, 
-      {
-        "id": "Euler's line"
-      }, 
-      {
-        "id": "Star polygon"
-      }, 
-      {
-        "id": "Plane geometry"
-      }, 
-      {
-        "id": "Squaring the circle"
-      }, 
-      {
-        "id": "Shape"
-      }, 
-      {
-        "id": "Parametric curve"
-      }, 
-      {
-        "id": "Polygon triangulation"
-      }, 
-      {
-        "id": "Dihedral angle"
-      }, 
-      {
-        "id": "Infinitesimal transformation"
-      }, 
-      {
-        "id": "Coxeter group"
-      }, 
-      {
-        "id": "Focus (geometry)"
-      }, 
-      {
-        "id": "Integer triangle"
-      }, 
-      {
-        "id": "Leech lattice"
-      }, 
-      {
-        "id": "Delaunay triangulation"
-      }, 
-      {
-        "id": "Golden angle"
-      }, 
-      {
-        "id": "Solid geometry"
-      }, 
-      {
-        "id": "Computational geometry"
-      }, 
-      {
-        "id": "Ellipsoid"
-      }, 
-      {
-        "id": "Cavalieri's principle"
-      }, 
-      {
-        "id": "Compass and straightedge constructions"
-      }, 
-      {
-        "id": "Tropical geometry"
-      }, 
-      {
-        "id": "Pappus's hexagon theorem"
-      }, 
-      {
-        "id": "Tangential quadrilateral"
-      }, 
-      {
-        "id": "Synthetic geometry"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Translation (geometry)"
-      }, 
-      {
-        "id": "Symmedian"
-      }, 
-      {
-        "id": "Voronoi tessellation"
-      }, 
-      {
-        "id": "Wallpaper group"
-      }, 
-      {
-        "id": "Arc (projective geometry)"
-      }, 
-      {
-        "id": "Sphere packing"
-      }, 
-      {
-        "id": "Pythagorean theorem"
-      }, 
-      {
-        "id": "Rectangle"
-      }, 
-      {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Parabolic reflector"
-      }, 
-      {
-        "id": "Surface normal"
-      }, 
-      {
-        "id": "Internal angle"
-      }, 
-      {
-        "id": "Straightedge"
-      }, 
-      {
-        "id": "Algebraic geometry"
-      }, 
-      {
-        "id": "Uniform tessellation"
-      }, 
-      {
-        "id": "Birational geometry"
-      }, 
-      {
-        "id": "3D projection"
-      }, 
-      {
-        "id": "Mrs. Miniver's problem"
-      }, 
-      {
-        "id": "Hyperbolic geometry"
-      }, 
-      {
-        "id": "Soddy's hexlet"
-      }, 
-      {
-        "id": "Group action"
-      }, 
-      {
-        "id": "Spline (mathematics)"
-      }, 
-      {
-        "id": "Line at infinity"
-      }, 
-      {
-        "id": "Adjacent angles"
-      }, 
-      {
-        "id": "Kepler conjecture"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Parallel (geometry)"
+        "id": "Erlangen program"
       }, 
       {
-        "id": "Defect (geometry)"
-      }, 
-      {
-        "id": "Bretschneider's formula"
-      }, 
-      {
-        "id": "Polyhedral compound"
-      }, 
-      {
-        "id": "Honeycomb (geometry)"
-      }, 
-      {
-        "id": "Reuleaux triangle"
-      }, 
-      {
-        "id": "Pedal triangle"
+        "id": "Isometry"
       }, 
       {
         "id": "Inversive geometry"
-      }, 
-      {
-        "id": "Geometry"
-      }, 
-      {
-        "id": "List of triangle inequalities"
-      }, 
-      {
-        "id": "Cone (geometry)"
-      }, 
-      {
-        "id": "Complementary angles"
-      }, 
-      {
-        "id": "Spherical geometry"
-      }, 
-      {
-        "id": "Uniform polyhedron"
-      }, 
-      {
-        "id": "Hilbert's third problem"
-      }, 
-      {
-        "id": "Geometry of numbers"
-      }, 
-      {
-        "id": "Parabolic microphone"
-      }, 
-      {
-        "id": "Wang tile"
-      }, 
-      {
-        "id": "Van Hiele model"
-      }, 
-      {
-        "id": "Four-dimensional space"
-      }, 
-      {
-        "id": "Trigonometry"
-      }, 
-      {
-        "id": "Hadwiger's theorem"
-      }, 
-      {
-        "id": "Parabolic geometry (differential geometry)"
-      }, 
-      {
-        "id": "Schl\u00e4fli symbol"
-      }, 
-      {
-        "id": "Regular polytope"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Transformation geometry"
-      }, 
-      {
-        "id": "Brahmagupta's formula"
-      }, 
-      {
-        "id": "Sphericon"
-      }, 
-      {
-        "id": "Non-Euclidean geometry"
-      }, 
-      {
-        "id": "Thales' theorem"
-      }, 
-      {
-        "id": "Distance geometry"
-      }, 
-      {
-        "id": "Projective line"
-      }, 
-      {
-        "id": "Polytope"
-      }, 
-      {
-        "id": "Projective plane"
-      }, 
-      {
-        "id": "Archimedean solid"
-      }, 
-      {
-        "id": "Heronian triangle"
-      }, 
-      {
-        "id": "Pedoe's inequality"
-      }, 
-      {
-        "id": "Complex projective plane"
-      }, 
-      {
-        "id": "Binary space partitioning"
-      }, 
-      {
-        "id": "Nine-point circle"
-      }, 
-      {
-        "id": "Supplementary angles"
-      }, 
-      {
-        "id": "Space group"
-      }, 
-      {
-        "id": "Interactive geometry software"
-      }, 
-      {
-        "id": "Projective geometry"
-      }, 
-      {
-        "id": "Computer graphics"
-      }, 
-      {
-        "id": "Angle"
-      }, 
-      {
-        "id": "Heron's formula"
-      }, 
-      {
-        "id": "Mirror image"
-      }, 
-      {
-        "id": "Pseudosphere"
-      }, 
-      {
-        "id": "Packing and covering"
-      }, 
-      {
-        "id": "Handedness"
-      }, 
-      {
-        "id": "M\u00f6bius transformation"
-      }, 
-      {
-        "id": "Minkowski space"
-      }, 
-      {
-        "id": "Higher-order spline"
-      }, 
-      {
-        "id": "Angle trisection"
-      }, 
-      {
-        "id": "Euclidean shortest path"
-      }, 
-      {
-        "id": "Relative direction"
-      }, 
-      {
-        "id": "Minkowski addition"
-      }, 
-      {
-        "id": "Inscribed angle"
-      }, 
-      {
-        "id": "Minkowski's theorem"
-      }, 
-      {
-        "id": "Quadric"
-      }, 
-      {
-        "id": "Tractricoid"
-      }, 
-      {
-        "id": "Differential geometry"
-      }, 
-      {
-        "id": "Mathematics"
-      }, 
-      {
-        "id": "Johnson solid"
-      }, 
-      {
-        "id": "Heronian tetrahedron"
-      }, 
-      {
-        "id": "Analytic geometry"
-      }, 
-      {
-        "id": "Topology"
-      }, 
-      {
-        "id": "Riemannian geometry"
-      }, 
-      {
-        "id": "Projective transformation"
-      }, 
-      {
-        "id": "Triangle"
-      }, 
-      {
-        "id": "Angle excess"
-      }, 
-      {
-        "id": "NURBS"
-      }, 
-      {
-        "id": "Fractal geometry"
-      }, 
-      {
-        "id": "Noncommutative geometry"
-      }, 
-      {
-        "id": "Tessellation"
-      }, 
-      {
-        "id": "Conic section"
-      }, 
-      {
-        "id": "Graham scan"
-      }, 
-      {
-        "id": "Parallelepiped"
-      }, 
-      {
-        "id": "Conformal geometry"
-      }, 
-      {
-        "id": "Locus (mathematics)"
-      }, 
-      {
-        "id": "Aperiodic tiling"
-      }, 
-      {
-        "id": "Right triangle"
-      }, 
-      {
-        "id": "Constructive solid geometry"
-      }, 
-      {
-        "id": "Pascal's theorem"
-      }, 
-      {
-        "id": "Pick's theorem"
-      }, 
-      {
-        "id": "Hypersphere"
-      }, 
-      {
-        "id": "Beta spline"
-      }, 
-      {
-        "id": "Stereographic projection"
-      }, 
-      {
-        "id": "Isoperimetric theorem"
-      }, 
-      {
-        "id": "Cyclic quadrilateral"
-      }, 
-      {
-        "id": "Euclidean distance"
-      }, 
-      {
-        "id": "Spheroid"
-      }, 
-      {
-        "id": "Convex geometry"
-      }, 
-      {
-        "id": "Torus"
-      }, 
-      {
-        "id": "Penrose tiling"
-      }, 
-      {
-        "id": "Ray tracing (graphics)"
-      }, 
-      {
-        "id": "Image analysis"
-      }, 
-      {
-        "id": "Hyperplane at infinity"
-      }, 
-      {
-        "id": "Shape dissection"
-      }, 
-      {
-        "id": "Crystal system"
-      }, 
-      {
-        "id": "Hermite spline"
-      }, 
-      {
-        "id": "Bolyai\u2013Gerwien theorem"
-      }, 
-      {
-        "id": "Toric geometry"
-      }, 
-      {
-        "id": "Eccentricity (mathematics)"
-      }, 
-      {
-        "id": "Reflection (mathematics)"
-      }, 
-      {
-        "id": "Zonotope"
-      }, 
-      {
-        "id": "Point group"
-      }, 
-      {
-        "id": "Projective space"
-      }, 
-      {
-        "id": "Frieze group"
-      }, 
-      {
-        "id": "Point location"
-      }, 
-      {
-        "id": "Hilbert's axioms"
-      }, 
-      {
-        "id": "Finite geometry"
-      }, 
-      {
-        "id": "Parabola"
-      }, 
-      {
-        "id": "Cross section (geometry)"
-      }, 
-      {
-        "id": "Crystal"
-      }, 
-      {
-        "id": "Parallelogram law"
-      }, 
-      {
-        "id": "Orthocentric system"
-      }, 
-      {
-        "id": "Kite (geometry)"
-      }, 
-      {
-        "id": "Sphere"
-      }, 
-      {
-        "id": "Stereometry"
-      }, 
-      {
-        "id": "Geometric shape"
-      }, 
-      {
-        "id": "Circumcircle"
-      }, 
-      {
-        "id": "Hyperplane"
-      }, 
-      {
-        "id": "Hyperboloid"
-      }, 
-      {
-        "id": "Ball (mathematics)"
-      }, 
-      {
-        "id": "Homothetic transformation"
-      }, 
-      {
-        "id": "Curve of constant width"
-      }, 
-      {
-        "id": "Ellipse"
-      }, 
-      {
-        "id": "Acute and obtuse triangles"
-      }, 
-      {
-        "id": "Symmetry group"
-      }
-    ], 
-    [
-      {
-        "id": "Cyclic quadrilateral"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Geometry"
-      }, 
-      {
-        "id": "Quadrilateral"
-      }, 
-      {
-        "id": "Sphere"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }
-    ], 
-    [
-      {
-        "id": "Projective geometry"
-      }, 
-      {
-        "id": "M\u00f6bius transformation"
-      }, 
-      {
-        "id": "Hadwiger's theorem"
-      }, 
-      {
-        "id": "Invariant (mathematics)"
-      }, 
-      {
-        "id": "Similarity (geometry)"
-      }, 
-      {
-        "id": "Affine geometry"
-      }, 
-      {
-        "id": "Rectangle"
-      }, 
-      {
-        "id": "Homogeneous coordinates"
-      }, 
-      {
-        "id": "2D computer graphics"
-      }, 
-      {
-        "id": "Similarity transformation (geometry)"
-      }, 
-      {
-        "id": "B\u00e9zier curve"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Erlangen program"
-      }, 
-      {
-        "id": "Isometry"
       }, 
       {
         "id": "Euclidean geometry"
@@ -13079,6 +12224,9 @@
         "id": "Similarity (geometry)"
       }, 
       {
+        "id": "Translation (geometry)"
+      }, 
+      {
         "id": "Circle"
       }, 
       {
@@ -13116,9 +12264,6 @@
       }, 
       {
         "id": "Duality (projective geometry)"
-      }, 
-      {
-        "id": "Euclidean geometry"
       }, 
       {
         "id": "Line (mathematics)"
@@ -13208,41 +12353,6 @@
       }, 
       {
         "id": "NURBS"
-      }
-    ], 
-    [
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Symmetry"
-      }, 
-      {
-        "id": "Geometry"
-      }, 
-      {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "Crystal"
-      }, 
-      {
-        "id": "Shape"
-      }, 
-      {
-        "id": "Affine transformation"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Mathematics"
-      }, 
-      {
-        "id": "Reticular geometry"
       }
     ], 
     [
@@ -15280,9 +14390,6 @@
         "id": "Quantum geometry"
       }, 
       {
-        "id": "Discrete geometry"
-      }, 
-      {
         "id": "Inversive ring geometry"
       }, 
       {
@@ -15325,7 +14432,7 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Discrete geometry"
       }, 
       {
         "id": "Polyhedron"
@@ -15899,7 +15006,7 @@
         "id": "Cone (geometry)"
       }, 
       {
-        "id": "Complementary angles"
+        "id": "Bolyai\u2013Gerwien theorem"
       }, 
       {
         "id": "Hilbert's third problem"
@@ -16028,6 +15135,9 @@
         "id": "Str\u00e4hle construction"
       }, 
       {
+        "id": "Hypersphere"
+      }, 
+      {
         "id": "Stereographic projection"
       }, 
       {
@@ -16055,7 +15165,7 @@
         "id": "Shape dissection"
       }, 
       {
-        "id": "Bolyai\u2013Gerwien theorem"
+        "id": "Complementary angles"
       }, 
       {
         "id": "Curve interpolation"
@@ -17053,10 +16163,10 @@
         "id": "Heron's formula"
       }, 
       {
-        "id": "Euler's line"
+        "id": "Thales' theorem"
       }, 
       {
-        "id": "Similarity (geometry)"
+        "id": "List of trigonometry topics"
       }, 
       {
         "id": "Acute and obtuse triangles"
@@ -17080,7 +16190,7 @@
         "id": "Symmedian"
       }, 
       {
-        "id": "List of trigonometry topics"
+        "id": "Heronian triangle"
       }, 
       {
         "id": "Reuleaux triangle"
@@ -17122,13 +16232,13 @@
         "id": "Congruence (geometry)"
       }, 
       {
-        "id": "Thales' theorem"
+        "id": "Euler's line"
       }, 
       {
         "id": "Orthocentric system"
       }, 
       {
-        "id": "Heronian triangle"
+        "id": "Similarity (geometry)"
       }, 
       {
         "id": "Equilateral triangle"
@@ -20388,9 +19498,6 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
-      }, 
-      {
         "id": "Isometry"
       }, 
       {
@@ -20746,187 +19853,25 @@
     ], 
     [
       {
-        "id": "Projective geometry"
-      }, 
-      {
-        "id": "Circle points segments proof"
-      }, 
-      {
-        "id": "Angle"
-      }, 
-      {
-        "id": "Heron's formula"
-      }, 
-      {
-        "id": "Hyperbolic geometry"
-      }, 
-      {
-        "id": "Parallelogram law"
-      }, 
-      {
-        "id": "Tangential quadrilateral"
-      }, 
-      {
-        "id": "Euclidean plane geometry"
-      }, 
-      {
-        "id": "Orthodiagonal quadrilateral"
-      }, 
-      {
-        "id": "Star polygon"
-      }, 
-      {
-        "id": "Symplectic geometry"
-      }, 
-      {
-        "id": "Trapezoid"
-      }, 
-      {
-        "id": "Differential geometry"
-      }, 
-      {
-        "id": "Pythagorean theorem"
-      }, 
-      {
-        "id": "Analytic geometry"
-      }, 
-      {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Parallel postulate"
-      }, 
-      {
-        "id": "Incircle and excircles of a triangle"
-      }, 
-      {
-        "id": "Thales' theorem"
-      }, 
-      {
-        "id": "Internal angle"
-      }, 
-      {
-        "id": "Algebraic geometry"
-      }, 
-      {
-        "id": "Brahmagupta's formula"
-      }, 
-      {
-        "id": "Bicentric quadrilateral"
-      }, 
-      {
-        "id": "Rectangle"
-      }, 
-      {
-        "id": "Reuleaux triangle"
-      }, 
-      {
-        "id": "Riemannian geometry"
-      }, 
-      {
-        "id": "Adjacent angles"
-      }, 
-      {
-        "id": "Concurrent lines"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Concyclic"
-      }, 
-      {
-        "id": "Parallel (geometry)"
-      }, 
-      {
-        "id": "Supplementary angles"
-      }, 
-      {
-        "id": "Bretschneider's formula"
-      }, 
-      {
-        "id": "Cyclic quadrilateral"
-      }, 
-      {
-        "id": "Tetrahedron"
-      }, 
-      {
-        "id": "Tessellation"
-      }, 
-      {
-        "id": "Geometry"
-      }, 
-      {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "List of triangle inequalities"
-      }, 
-      {
-        "id": "Equidiagonal quadrilateral"
-      }, 
-      {
-        "id": "Complementary angles"
-      }, 
-      {
-        "id": "Line (mathematics)"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Triangle"
-      }, 
-      {
-        "id": "Rhombus"
-      }, 
-      {
-        "id": "Prismatoid"
-      }, 
-      {
-        "id": "Schl\u00e4fli symbol"
-      }, 
-      {
-        "id": "Homothetic center"
-      }, 
-      {
-        "id": "Square"
+        "id": "Pick's theorem"
       }, 
       {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Point (geometry)"
+        "id": "Reticular geometry"
       }, 
       {
-        "id": "Non-Euclidean geometry"
+        "id": "Geometry of numbers"
       }, 
       {
-        "id": "Euler's line"
+        "id": "Curve interpolation"
       }, 
       {
-        "id": "Distance geometry"
+        "id": "Mathematics"
       }, 
       {
-        "id": "Plane geometry"
-      }, 
-      {
-        "id": "Isosceles trapezoid"
-      }, 
-      {
-        "id": "Shape"
-      }, 
-      {
-        "id": "Equilateral triangle"
-      }, 
-      {
-        "id": "Quadrilateral"
-      }, 
-      {
-        "id": "Nine-point circle"
-      }, 
-      {
-        "id": "Kite (geometry)"
+        "id": "Lattice (group)"
       }
     ], 
     [
@@ -21252,9 +20197,6 @@
         "id": "Projective line"
       }, 
       {
-        "id": "Discrete geometry"
-      }, 
-      {
         "id": "Inversive ring geometry"
       }, 
       {
@@ -21273,7 +20215,7 @@
         "id": "Lattice (group)"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Discrete geometry"
       }, 
       {
         "id": "Incidence geometry"
@@ -21624,7 +20566,7 @@
         "id": "Projective geometry"
       }, 
       {
-        "id": "Affine space"
+        "id": "Point (geometry)"
       }, 
       {
         "id": "Angle"
@@ -21750,7 +20692,7 @@
         "id": "Congruence (geometry)"
       }, 
       {
-        "id": "Point (geometry)"
+        "id": "Affine space"
       }, 
       {
         "id": "Non-Euclidean geometry"
@@ -22201,16 +21143,28 @@
     ], 
     [
       {
-        "id": "Pick's theorem"
-      }, 
-      {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Reticular geometry"
+        "id": "Polygon"
       }, 
       {
-        "id": "Geometry of numbers"
+        "id": "Symmetry"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "Euclidean geometry"
+      }, 
+      {
+        "id": "Crystal"
+      }, 
+      {
+        "id": "Shape"
+      }, 
+      {
+        "id": "Affine transformation"
       }, 
       {
         "id": "Curve interpolation"
@@ -22219,7 +21173,7 @@
         "id": "Mathematics"
       }, 
       {
-        "id": "Lattice (group)"
+        "id": "Reticular geometry"
       }
     ], 
     [
@@ -22557,58 +21511,16 @@
     ], 
     [
       {
-        "id": "Four-dimensional space"
-      }, 
-      {
-        "id": "Parametric patch"
-      }, 
-      {
-        "id": "Triangle inequality"
-      }, 
-      {
-        "id": "Congruence (geometry)"
-      }, 
-      {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "Non-Euclidean geometry"
-      }, 
-      {
-        "id": "Similarity transformation (geometry)"
-      }, 
-      {
-        "id": "Euclidean plane geometry"
-      }, 
-      {
-        "id": "Line (mathematics)"
-      }, 
-      {
-        "id": "Plane geometry"
-      }, 
-      {
-        "id": "Similarity (geometry)"
-      }, 
-      {
-        "id": "Affine transformation"
-      }, 
-      {
-        "id": "Voronoi tessellation"
-      }, 
-      {
         "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Mathematics"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Pythagorean theorem"
+        "id": "Parametric patch"
       }, 
       {
-        "id": "Rotation (mathematics)"
+        "id": "Convex hull"
       }
     ], 
     [
@@ -23112,9 +22024,6 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
-      }, 
-      {
         "id": "Isometry"
       }, 
       {
@@ -23277,100 +22186,58 @@
     ], 
     [
       {
-        "id": "Polygon"
-      }, 
-      {
-        "id": "Uniform tessellation"
-      }, 
-      {
-        "id": "Andreini tessellation"
-      }, 
-      {
-        "id": "Wang tile"
-      }, 
-      {
-        "id": "Regular polytope"
-      }, 
-      {
-        "id": "Wallpaper group"
-      }, 
-      {
-        "id": "Regular Polytopes (book)"
-      }, 
-      {
-        "id": "Rectangle"
-      }, 
-      {
-        "id": "Prototile"
-      }, 
-      {
-        "id": "Parallelepiped"
-      }, 
-      {
-        "id": "Aperiodic tiling"
-      }, 
-      {
-        "id": "Reticular geometry"
-      }, 
-      {
-        "id": "Zonotope"
-      }, 
-      {
-        "id": "Schl\u00e4fli symbol"
-      }, 
-      {
-        "id": "Polytope"
-      }, 
-      {
-        "id": "Tessellation"
-      }, 
-      {
-        "id": "Geometry"
-      }, 
-      {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "Tetrahedron"
-      }, 
-      {
-        "id": "Uniform polyhedron"
-      }, 
-      {
-        "id": "Hilbert's third problem"
-      }, 
-      {
-        "id": "Curve interpolation"
-      }, 
-      {
-        "id": "Voronoi tessellation"
-      }, 
-      {
-        "id": "Polyhedron"
-      }, 
-      {
-        "id": "Shape dissection"
+        "id": "Four-dimensional space"
       }, 
       {
         "id": "Parametric patch"
       }, 
       {
-        "id": "Crystal"
+        "id": "Triangle inequality"
       }, 
       {
-        "id": "Prism (geometry)"
+        "id": "Congruence (geometry)"
+      }, 
+      {
+        "id": "Euclidean geometry"
       }, 
       {
         "id": "Non-Euclidean geometry"
       }, 
       {
-        "id": "Penrose tiling"
+        "id": "Similarity transformation (geometry)"
       }, 
       {
-        "id": "Dihedral angle"
+        "id": "Euclidean plane geometry"
       }, 
       {
-        "id": "Coxeter group"
+        "id": "Line (mathematics)"
+      }, 
+      {
+        "id": "Plane geometry"
+      }, 
+      {
+        "id": "Similarity (geometry)"
+      }, 
+      {
+        "id": "Affine transformation"
+      }, 
+      {
+        "id": "Voronoi tessellation"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Pythagorean theorem"
+      }, 
+      {
+        "id": "Rotation (mathematics)"
       }
     ], 
     [
@@ -23547,6 +22414,32 @@
       }, 
       {
         "id": "Ellipse"
+      }
+    ], 
+    [
+      {
+        "id": "Homothetic center"
+      }, 
+      {
+        "id": "Parametric patch"
+      }, 
+      {
+        "id": "List of circle topics"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Triangle"
+      }, 
+      {
+        "id": "Circle"
+      }, 
+      {
+        "id": "Reticular geometry"
       }
     ], 
     [
@@ -23811,7 +22704,7 @@
         "id": "Cyclic quadrilateral"
       }, 
       {
-        "id": "List of triangle inequalities"
+        "id": "Tetrahedron"
       }, 
       {
         "id": "Pedal triangle"
@@ -23820,7 +22713,7 @@
         "id": "Isosceles triangle"
       }, 
       {
-        "id": "Tetrahedron"
+        "id": "List of triangle inequalities"
       }, 
       {
         "id": "Rhombus"
@@ -23967,87 +22860,253 @@
     ], 
     [
       {
-        "id": "Ellipsoid"
+        "id": "Digital geometry"
       }, 
       {
-        "id": "Compass and straightedge constructions"
+        "id": "Coordinate rotations and reflections"
       }, 
       {
-        "id": "M\u00f6bius transformation"
+        "id": "Systolic geometry"
       }, 
       {
-        "id": "Similarity (geometry)"
+        "id": "Triangle inequality"
       }, 
       {
-        "id": "Quadric"
+        "id": "Deltahedron"
       }, 
       {
-        "id": "Mathematics"
+        "id": "Kepler-Poinsot polyhedra"
       }, 
       {
-        "id": "Circle"
+        "id": "Orthodiagonal quadrilateral"
+      }, 
+      {
+        "id": "Invariant (mathematics)"
+      }, 
+      {
+        "id": "Archimedes' use of infinitesimals"
+      }, 
+      {
+        "id": "Information geometry"
+      }, 
+      {
+        "id": "Elliptic geometry"
+      }, 
+      {
+        "id": "Incidence (geometry)"
+      }, 
+      {
+        "id": "Complex geometry"
       }, 
       {
         "id": "Borromean rings"
       }, 
       {
+        "id": "Homogeneous coordinates"
+      }, 
+      {
+        "id": "2D computer graphics"
+      }, 
+      {
         "id": "Similarity transformation (geometry)"
       }, 
       {
-        "id": "Parabola"
+        "id": "Bicentric quadrilateral"
       }, 
       {
-        "id": "Conic section"
+        "id": "Absolute geometry"
       }, 
       {
-        "id": "Dandelin spheres"
+        "id": "Str\u00e4hle construction"
       }, 
       {
-        "id": "Semi-major axis"
+        "id": "Plane at infinity"
       }, 
       {
-        "id": "Reticular geometry"
+        "id": "Pyramid (geometry)"
       }, 
       {
-        "id": "Cone (geometry)"
+        "id": "Shear mapping"
       }, 
       {
-        "id": "Curve interpolation"
+        "id": "Epipolar geometry"
+      }, 
+      {
+        "id": "B\u00e9zier curve"
+      }, 
+      {
+        "id": "Cuisenaire rods"
+      }, 
+      {
+        "id": "Inversive ring geometry"
+      }, 
+      {
+        "id": "Prismatoid"
+      }, 
+      {
+        "id": "Quasicrystal"
+      }, 
+      {
+        "id": "Concyclic"
+      }, 
+      {
+        "id": "Pythagorean triangle"
+      }, 
+      {
+        "id": "Quantum geometry"
+      }, 
+      {
+        "id": "Isometry"
+      }, 
+      {
+        "id": "Ruppeiner geometry"
+      }, 
+      {
+        "id": "Central angle"
+      }, 
+      {
+        "id": "Altitude (triangle)"
+      }, 
+      {
+        "id": "Matrix representation of conic sections"
+      }, 
+      {
+        "id": "Euclidean geometry"
+      }, 
+      {
+        "id": "Equidiagonal quadrilateral"
+      }, 
+      {
+        "id": "Integral geometry"
+      }, 
+      {
+        "id": "Chirality (mathematics)"
+      }, 
+      {
+        "id": "Ordered geometry"
+      }, 
+      {
+        "id": "2D geometric model"
+      }, 
+      {
+        "id": "Hidden line removal"
+      }, 
+      {
+        "id": "Trapezoid"
+      }, 
+      {
+        "id": "Lattice (group)"
       }, 
       {
         "id": "Steiner chain"
       }, 
       {
-        "id": "Parametric patch"
+        "id": "Discrete geometry"
       }, 
       {
-        "id": "Cross section (geometry)"
+        "id": "Pons asinorum"
+      }, 
+      {
+        "id": "Girard Desargues"
+      }, 
+      {
+        "id": "Oval (projective plane)"
+      }, 
+      {
+        "id": "Desarguesian plane"
+      }, 
+      {
+        "id": "Symmetry"
+      }, 
+      {
+        "id": "Kissing number problem"
       }, 
       {
         "id": "Congruence (geometry)"
       }, 
       {
-        "id": "Spheroid"
+        "id": "Polyhedron"
+      }, 
+      {
+        "id": "Affine space"
+      }, 
+      {
+        "id": "Burmester's theory"
+      }, 
+      {
+        "id": "Point groups in three dimensions"
+      }, 
+      {
+        "id": "Annulus (mathematics)"
+      }, 
+      {
+        "id": "Isosceles trapezoid"
+      }, 
+      {
+        "id": "Napkin ring problem"
+      }, 
+      {
+        "id": "Regular Polytopes (book)"
+      }, 
+      {
+        "id": "Affine transformation"
+      }, 
+      {
+        "id": "Prototile"
+      }, 
+      {
+        "id": "Equilateral triangle"
+      }, 
+      {
+        "id": "Complex projective line"
+      }, 
+      {
+        "id": "Quadrilateral"
+      }, 
+      {
+        "id": "Glide reflection"
       }, 
       {
         "id": "Hyperbola"
       }, 
       {
-        "id": "Ellipse"
-      }
-    ], 
-    [
-      {
-        "id": "Angle"
+        "id": "Rotation (mathematics)"
       }, 
       {
-        "id": "Hyperbolic geometry"
+        "id": "Robot control"
       }, 
       {
-        "id": "Spherical geometry"
+        "id": "Circle points segments proof"
+      }, 
+      {
+        "id": "List of circle topics"
+      }, 
+      {
+        "id": "Enumerative geometry"
+      }, 
+      {
+        "id": "B-spline"
+      }, 
+      {
+        "id": "Pattern"
+      }, 
+      {
+        "id": "Tetrahedron"
+      }, 
+      {
+        "id": "Combinatorial geometry"
       }, 
       {
         "id": "Euclidean plane geometry"
+      }, 
+      {
+        "id": "Klein geometry"
+      }, 
+      {
+        "id": "List of triangle topics"
+      }, 
+      {
+        "id": "Polar sine"
       }, 
       {
         "id": "Similarity (geometry)"
@@ -24056,16 +23115,747 @@
         "id": "Affine geometry"
       }, 
       {
-        "id": "Elliptic geometry"
+        "id": "Mathematics and fiber arts"
+      }, 
+      {
+        "id": "Symplectic geometry"
+      }, 
+      {
+        "id": "Root system"
+      }, 
+      {
+        "id": "Ptolemaios' theorem"
+      }, 
+      {
+        "id": "Circle"
+      }, 
+      {
+        "id": "Pi"
+      }, 
+      {
+        "id": "Ehrhart polynomial"
+      }, 
+      {
+        "id": "Point in polygon"
+      }, 
+      {
+        "id": "Desargues' theorem"
+      }, 
+      {
+        "id": "Lie sphere geometry"
+      }, 
+      {
+        "id": "Point at infinity"
+      }, 
+      {
+        "id": "3-sphere"
+      }, 
+      {
+        "id": "Parallel postulate"
+      }, 
+      {
+        "id": "Incircle and excircles of a triangle"
+      }, 
+      {
+        "id": "Point (geometry)"
+      }, 
+      {
+        "id": "Prism (geometry)"
+      }, 
+      {
+        "id": "Dandelin spheres"
+      }, 
+      {
+        "id": "Isosceles triangle"
+      }, 
+      {
+        "id": "Semi-major axis"
+      }, 
+      {
+        "id": "3D computer graphics"
+      }, 
+      {
+        "id": "List of trigonometry topics"
+      }, 
+      {
+        "id": "Paraboloid"
+      }, 
+      {
+        "id": "Thurston's conjecture"
+      }, 
+      {
+        "id": "Right circular cone"
+      }, 
+      {
+        "id": "Pappus's centroid theorem"
+      }, 
+      {
+        "id": "Power center (geometry)"
+      }, 
+      {
+        "id": "Concurrent lines"
+      }, 
+      {
+        "id": "Astronomy"
+      }, 
+      {
+        "id": "Erlangen program"
+      }, 
+      {
+        "id": "Convex hull"
+      }, 
+      {
+        "id": "Platonic solid"
+      }, 
+      {
+        "id": "Descriptive geometry"
+      }, 
+      {
+        "id": "Roman surface"
+      }, 
+      {
+        "id": "Poncelet\u2013Steiner theorem"
+      }, 
+      {
+        "id": "Coordinate-free treatment"
+      }, 
+      {
+        "id": "Duality (projective geometry)"
+      }, 
+      {
+        "id": "Fundamental theorem of projective geometry"
+      }, 
+      {
+        "id": "Point groups in two dimensions"
+      }, 
+      {
+        "id": "Line (mathematics)"
+      }, 
+      {
+        "id": "Parametric surface"
+      }, 
+      {
+        "id": "Monge's theorem"
+      }, 
+      {
+        "id": "Incidence geometry"
+      }, 
+      {
+        "id": "Rhombus"
+      }, 
+      {
+        "id": "Contact geometry"
+      }, 
+      {
+        "id": "Translational symmetry"
+      }, 
+      {
+        "id": "Taxicab geometry"
+      }, 
+      {
+        "id": "Sangaku"
+      }, 
+      {
+        "id": "Homothetic center"
+      }, 
+      {
+        "id": "Square"
+      }, 
+      {
+        "id": "Cross-ratio"
+      }, 
+      {
+        "id": "Holditch's theorem"
+      }, 
+      {
+        "id": "Mathematical morphology"
+      }, 
+      {
+        "id": "Andreini tessellation"
+      }, 
+      {
+        "id": "Euler's line"
+      }, 
+      {
+        "id": "Star polygon"
+      }, 
+      {
+        "id": "Plane geometry"
+      }, 
+      {
+        "id": "Squaring the circle"
+      }, 
+      {
+        "id": "Shape"
+      }, 
+      {
+        "id": "Parametric curve"
+      }, 
+      {
+        "id": "Polygon triangulation"
+      }, 
+      {
+        "id": "Dihedral angle"
+      }, 
+      {
+        "id": "Infinitesimal transformation"
+      }, 
+      {
+        "id": "Coxeter group"
+      }, 
+      {
+        "id": "Focus (geometry)"
+      }, 
+      {
+        "id": "Integer triangle"
+      }, 
+      {
+        "id": "Leech lattice"
+      }, 
+      {
+        "id": "Delaunay triangulation"
+      }, 
+      {
+        "id": "Golden angle"
+      }, 
+      {
+        "id": "Solid geometry"
+      }, 
+      {
+        "id": "Computational geometry"
+      }, 
+      {
+        "id": "Ellipsoid"
+      }, 
+      {
+        "id": "Cavalieri's principle"
+      }, 
+      {
+        "id": "Compass and straightedge constructions"
+      }, 
+      {
+        "id": "Tropical geometry"
+      }, 
+      {
+        "id": "Pappus's hexagon theorem"
+      }, 
+      {
+        "id": "Tangential quadrilateral"
+      }, 
+      {
+        "id": "Synthetic geometry"
+      }, 
+      {
+        "id": "Curve interpolation"
+      }, 
+      {
+        "id": "Translation (geometry)"
+      }, 
+      {
+        "id": "Symmedian"
+      }, 
+      {
+        "id": "Voronoi tessellation"
+      }, 
+      {
+        "id": "Wallpaper group"
+      }, 
+      {
+        "id": "Arc (projective geometry)"
+      }, 
+      {
+        "id": "Sphere packing"
       }, 
       {
         "id": "Pythagorean theorem"
       }, 
       {
+        "id": "Rectangle"
+      }, 
+      {
+        "id": "Polygon"
+      }, 
+      {
+        "id": "Parabolic reflector"
+      }, 
+      {
+        "id": "Surface normal"
+      }, 
+      {
+        "id": "Internal angle"
+      }, 
+      {
+        "id": "Straightedge"
+      }, 
+      {
+        "id": "Algebraic geometry"
+      }, 
+      {
+        "id": "Uniform tessellation"
+      }, 
+      {
+        "id": "Birational geometry"
+      }, 
+      {
+        "id": "3D projection"
+      }, 
+      {
+        "id": "Mrs. Miniver's problem"
+      }, 
+      {
+        "id": "Hyperbolic geometry"
+      }, 
+      {
+        "id": "Soddy's hexlet"
+      }, 
+      {
+        "id": "Group action"
+      }, 
+      {
+        "id": "Spline (mathematics)"
+      }, 
+      {
+        "id": "Line at infinity"
+      }, 
+      {
+        "id": "Adjacent angles"
+      }, 
+      {
+        "id": "Kepler conjecture"
+      }, 
+      {
+        "id": "Reticular geometry"
+      }, 
+      {
+        "id": "Parallel (geometry)"
+      }, 
+      {
+        "id": "Defect (geometry)"
+      }, 
+      {
+        "id": "Bretschneider's formula"
+      }, 
+      {
+        "id": "Polyhedral compound"
+      }, 
+      {
+        "id": "Honeycomb (geometry)"
+      }, 
+      {
+        "id": "Reuleaux triangle"
+      }, 
+      {
+        "id": "Pedal triangle"
+      }, 
+      {
+        "id": "Inversive geometry"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "List of triangle inequalities"
+      }, 
+      {
+        "id": "Cone (geometry)"
+      }, 
+      {
+        "id": "Complementary angles"
+      }, 
+      {
+        "id": "Spherical geometry"
+      }, 
+      {
+        "id": "Uniform polyhedron"
+      }, 
+      {
+        "id": "Hilbert's third problem"
+      }, 
+      {
+        "id": "Geometry of numbers"
+      }, 
+      {
+        "id": "Parabolic microphone"
+      }, 
+      {
+        "id": "Wang tile"
+      }, 
+      {
+        "id": "Van Hiele model"
+      }, 
+      {
+        "id": "Four-dimensional space"
+      }, 
+      {
+        "id": "Trigonometry"
+      }, 
+      {
+        "id": "Hadwiger's theorem"
+      }, 
+      {
+        "id": "Parabolic geometry (differential geometry)"
+      }, 
+      {
+        "id": "Schl\u00e4fli symbol"
+      }, 
+      {
+        "id": "Regular polytope"
+      }, 
+      {
+        "id": "Parametric patch"
+      }, 
+      {
+        "id": "Transformation geometry"
+      }, 
+      {
+        "id": "Brahmagupta's formula"
+      }, 
+      {
+        "id": "Sphericon"
+      }, 
+      {
+        "id": "Non-Euclidean geometry"
+      }, 
+      {
+        "id": "Thales' theorem"
+      }, 
+      {
+        "id": "Distance geometry"
+      }, 
+      {
+        "id": "Projective line"
+      }, 
+      {
+        "id": "Polytope"
+      }, 
+      {
+        "id": "Projective plane"
+      }, 
+      {
+        "id": "Archimedean solid"
+      }, 
+      {
+        "id": "Heronian triangle"
+      }, 
+      {
+        "id": "Pedoe's inequality"
+      }, 
+      {
+        "id": "Complex projective plane"
+      }, 
+      {
+        "id": "Binary space partitioning"
+      }, 
+      {
+        "id": "Nine-point circle"
+      }, 
+      {
+        "id": "Supplementary angles"
+      }, 
+      {
+        "id": "Space group"
+      }, 
+      {
+        "id": "Interactive geometry software"
+      }, 
+      {
+        "id": "Projective geometry"
+      }, 
+      {
+        "id": "Computer graphics"
+      }, 
+      {
+        "id": "Angle"
+      }, 
+      {
+        "id": "Heron's formula"
+      }, 
+      {
+        "id": "Mirror image"
+      }, 
+      {
+        "id": "Pseudosphere"
+      }, 
+      {
+        "id": "Packing and covering"
+      }, 
+      {
+        "id": "Handedness"
+      }, 
+      {
+        "id": "M\u00f6bius transformation"
+      }, 
+      {
+        "id": "Minkowski space"
+      }, 
+      {
+        "id": "Higher-order spline"
+      }, 
+      {
+        "id": "Angle trisection"
+      }, 
+      {
+        "id": "Euclidean shortest path"
+      }, 
+      {
+        "id": "Relative direction"
+      }, 
+      {
+        "id": "Minkowski addition"
+      }, 
+      {
+        "id": "Inscribed angle"
+      }, 
+      {
+        "id": "Minkowski's theorem"
+      }, 
+      {
+        "id": "Quadric"
+      }, 
+      {
+        "id": "Tractricoid"
+      }, 
+      {
+        "id": "Differential geometry"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
+        "id": "Johnson solid"
+      }, 
+      {
+        "id": "Heronian tetrahedron"
+      }, 
+      {
+        "id": "Analytic geometry"
+      }, 
+      {
+        "id": "Topology"
+      }, 
+      {
+        "id": "Riemannian geometry"
+      }, 
+      {
+        "id": "Projective transformation"
+      }, 
+      {
         "id": "Triangle"
       }, 
       {
-        "id": "Absolute geometry"
+        "id": "Angle excess"
+      }, 
+      {
+        "id": "NURBS"
+      }, 
+      {
+        "id": "Fractal geometry"
+      }, 
+      {
+        "id": "Noncommutative geometry"
+      }, 
+      {
+        "id": "Tessellation"
+      }, 
+      {
+        "id": "Conic section"
+      }, 
+      {
+        "id": "Graham scan"
+      }, 
+      {
+        "id": "Parallelepiped"
+      }, 
+      {
+        "id": "Conformal geometry"
+      }, 
+      {
+        "id": "Locus (mathematics)"
+      }, 
+      {
+        "id": "Aperiodic tiling"
+      }, 
+      {
+        "id": "Right triangle"
+      }, 
+      {
+        "id": "Constructive solid geometry"
+      }, 
+      {
+        "id": "Pascal's theorem"
+      }, 
+      {
+        "id": "Pick's theorem"
+      }, 
+      {
+        "id": "Hypersphere"
+      }, 
+      {
+        "id": "Beta spline"
+      }, 
+      {
+        "id": "Stereographic projection"
+      }, 
+      {
+        "id": "Isoperimetric theorem"
+      }, 
+      {
+        "id": "Cyclic quadrilateral"
+      }, 
+      {
+        "id": "Euclidean distance"
+      }, 
+      {
+        "id": "Spheroid"
+      }, 
+      {
+        "id": "Convex geometry"
+      }, 
+      {
+        "id": "Torus"
+      }, 
+      {
+        "id": "Penrose tiling"
+      }, 
+      {
+        "id": "Ray tracing (graphics)"
+      }, 
+      {
+        "id": "Image analysis"
+      }, 
+      {
+        "id": "Hyperplane at infinity"
+      }, 
+      {
+        "id": "Shape dissection"
+      }, 
+      {
+        "id": "Crystal system"
+      }, 
+      {
+        "id": "Hermite spline"
+      }, 
+      {
+        "id": "Bolyai\u2013Gerwien theorem"
+      }, 
+      {
+        "id": "Toric geometry"
+      }, 
+      {
+        "id": "Eccentricity (mathematics)"
+      }, 
+      {
+        "id": "Reflection (mathematics)"
+      }, 
+      {
+        "id": "Zonotope"
+      }, 
+      {
+        "id": "Point group"
+      }, 
+      {
+        "id": "Projective space"
+      }, 
+      {
+        "id": "Frieze group"
+      }, 
+      {
+        "id": "Point location"
+      }, 
+      {
+        "id": "Hilbert's axioms"
+      }, 
+      {
+        "id": "Finite geometry"
+      }, 
+      {
+        "id": "Parabola"
+      }, 
+      {
+        "id": "Cross section (geometry)"
+      }, 
+      {
+        "id": "Crystal"
+      }, 
+      {
+        "id": "Parallelogram law"
+      }, 
+      {
+        "id": "Orthocentric system"
+      }, 
+      {
+        "id": "Kite (geometry)"
+      }, 
+      {
+        "id": "Sphere"
+      }, 
+      {
+        "id": "Stereometry"
+      }, 
+      {
+        "id": "Geometric shape"
+      }, 
+      {
+        "id": "Circumcircle"
+      }, 
+      {
+        "id": "Hyperplane"
+      }, 
+      {
+        "id": "Hyperboloid"
+      }, 
+      {
+        "id": "Ball (mathematics)"
+      }, 
+      {
+        "id": "Homothetic transformation"
+      }, 
+      {
+        "id": "Curve of constant width"
+      }, 
+      {
+        "id": "Ellipse"
+      }, 
+      {
+        "id": "Acute and obtuse triangles"
+      }, 
+      {
+        "id": "Symmetry group"
+      }
+    ], 
+    [
+      {
+        "id": "Mirror image"
+      }, 
+      {
+        "id": "M\u00f6bius transformation"
+      }, 
+      {
+        "id": "Invariant (mathematics)"
+      }, 
+      {
+        "id": "Wallpaper group"
+      }, 
+      {
+        "id": "Similarity (geometry)"
+      }, 
+      {
+        "id": "Translation (geometry)"
+      }, 
+      {
+        "id": "Root system"
+      }, 
+      {
+        "id": "Mathematics"
+      }, 
+      {
+        "id": "Point groups in two dimensions"
+      }, 
+      {
+        "id": "2D computer graphics"
+      }, 
+      {
+        "id": "Similarity transformation (geometry)"
       }, 
       {
         "id": "Reticular geometry"
@@ -24074,40 +23864,64 @@
         "id": "Erlangen program"
       }, 
       {
-        "id": "Parallel (geometry)"
+        "id": "Platonic solid"
       }, 
       {
-        "id": "Geometry"
+        "id": "Isometry"
       }, 
       {
-        "id": "Euclidean geometry"
-      }, 
-      {
-        "id": "Line (mathematics)"
-      }, 
-      {
-        "id": "Ordered geometry"
+        "id": "Inversive geometry"
       }, 
       {
         "id": "Curve interpolation"
       }, 
       {
+        "id": "Ray tracing (graphics)"
+      }, 
+      {
+        "id": "Point group"
+      }, 
+      {
+        "id": "Taxicab geometry"
+      }, 
+      {
+        "id": "Frieze group"
+      }, 
+      {
         "id": "Parametric patch"
+      }, 
+      {
+        "id": "Transformation geometry"
+      }, 
+      {
+        "id": "Symmetry"
       }, 
       {
         "id": "Congruence (geometry)"
       }, 
       {
-        "id": "Non-Euclidean geometry"
+        "id": "Affine transformation"
       }, 
       {
-        "id": "Quadrilateral"
+        "id": "Hyperplane"
       }, 
       {
-        "id": "Plane geometry"
+        "id": "Coxeter group"
       }, 
       {
-        "id": "Sphere"
+        "id": "Glide reflection"
+      }, 
+      {
+        "id": "Hyperbola"
+      }, 
+      {
+        "id": "Space group"
+      }, 
+      {
+        "id": "Coordinate rotations and reflections"
+      }, 
+      {
+        "id": "Rotation (mathematics)"
       }
     ], 
     [
@@ -24831,37 +24645,130 @@
     ], 
     [
       {
-        "id": "Circumcircle"
+        "id": "Projective geometry"
       }, 
       {
-        "id": "Altitude (triangle)"
+        "id": "Circle points segments proof"
       }, 
       {
-        "id": "Parametric patch"
+        "id": "Angle"
+      }, 
+      {
+        "id": "Heron's formula"
+      }, 
+      {
+        "id": "Hyperbolic geometry"
+      }, 
+      {
+        "id": "Parallelogram law"
+      }, 
+      {
+        "id": "Tangential quadrilateral"
+      }, 
+      {
+        "id": "Euclidean plane geometry"
+      }, 
+      {
+        "id": "Orthodiagonal quadrilateral"
+      }, 
+      {
+        "id": "Star polygon"
+      }, 
+      {
+        "id": "Symplectic geometry"
+      }, 
+      {
+        "id": "Trapezoid"
+      }, 
+      {
+        "id": "Differential geometry"
+      }, 
+      {
+        "id": "Pythagorean theorem"
+      }, 
+      {
+        "id": "Analytic geometry"
+      }, 
+      {
+        "id": "Polygon"
+      }, 
+      {
+        "id": "Parallel postulate"
       }, 
       {
         "id": "Incircle and excircles of a triangle"
       }, 
       {
-        "id": "Congruence (geometry)"
+        "id": "Thales' theorem"
       }, 
       {
-        "id": "Geometry"
+        "id": "Internal angle"
+      }, 
+      {
+        "id": "Algebraic geometry"
+      }, 
+      {
+        "id": "Brahmagupta's formula"
+      }, 
+      {
+        "id": "Bicentric quadrilateral"
+      }, 
+      {
+        "id": "Rectangle"
+      }, 
+      {
+        "id": "Reuleaux triangle"
+      }, 
+      {
+        "id": "Riemannian geometry"
+      }, 
+      {
+        "id": "Adjacent angles"
+      }, 
+      {
+        "id": "Concurrent lines"
       }, 
       {
         "id": "Reticular geometry"
       }, 
       {
-        "id": "Point (geometry)"
+        "id": "Concyclic"
       }, 
       {
-        "id": "Euler's line"
+        "id": "Parallel (geometry)"
       }, 
       {
-        "id": "List of triangle topics"
+        "id": "Supplementary angles"
       }, 
       {
-        "id": "Locus (mathematics)"
+        "id": "Bretschneider's formula"
+      }, 
+      {
+        "id": "Cyclic quadrilateral"
+      }, 
+      {
+        "id": "Tetrahedron"
+      }, 
+      {
+        "id": "Tessellation"
+      }, 
+      {
+        "id": "Geometry"
+      }, 
+      {
+        "id": "Euclidean geometry"
+      }, 
+      {
+        "id": "List of triangle inequalities"
+      }, 
+      {
+        "id": "Equidiagonal quadrilateral"
+      }, 
+      {
+        "id": "Complementary angles"
+      }, 
+      {
+        "id": "Line (mathematics)"
       }, 
       {
         "id": "Curve interpolation"
@@ -24870,13 +24777,55 @@
         "id": "Triangle"
       }, 
       {
+        "id": "Rhombus"
+      }, 
+      {
+        "id": "Prismatoid"
+      }, 
+      {
+        "id": "Schl\u00e4fli symbol"
+      }, 
+      {
+        "id": "Homothetic center"
+      }, 
+      {
+        "id": "Square"
+      }, 
+      {
+        "id": "Parametric patch"
+      }, 
+      {
+        "id": "Point (geometry)"
+      }, 
+      {
+        "id": "Non-Euclidean geometry"
+      }, 
+      {
+        "id": "Euler's line"
+      }, 
+      {
+        "id": "Distance geometry"
+      }, 
+      {
+        "id": "Plane geometry"
+      }, 
+      {
+        "id": "Isosceles trapezoid"
+      }, 
+      {
+        "id": "Shape"
+      }, 
+      {
+        "id": "Equilateral triangle"
+      }, 
+      {
+        "id": "Quadrilateral"
+      }, 
+      {
         "id": "Nine-point circle"
       }, 
       {
-        "id": "Hyperbola"
-      }, 
-      {
-        "id": "Homothetic transformation"
+        "id": "Kite (geometry)"
       }
     ], 
     [
@@ -25030,9 +24979,6 @@
         "id": "Packing and covering"
       }, 
       {
-        "id": "Wallpaper group"
-      }, 
-      {
         "id": "M\u00f6bius transformation"
       }, 
       {
@@ -25048,7 +24994,7 @@
         "id": "Regular polytope"
       }, 
       {
-        "id": "Topology"
+        "id": "Wallpaper group"
       }, 
       {
         "id": "Quadric"
@@ -25120,7 +25066,7 @@
         "id": "Soddy's hexlet"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Paraboloid"
       }, 
       {
         "id": "Line at infinity"
@@ -25138,10 +25084,13 @@
         "id": "Reticular geometry"
       }, 
       {
+        "id": "Hypersphere"
+      }, 
+      {
         "id": "Parallel (geometry)"
       }, 
       {
-        "id": "Paraboloid"
+        "id": "Platonic solid"
       }, 
       {
         "id": "Combinatorial geometry"
@@ -25240,7 +25189,7 @@
         "id": "Hyperboloid"
       }, 
       {
-        "id": "Platonic solid"
+        "id": "Topology"
       }, 
       {
         "id": "Riemannian geometry"
@@ -25766,7 +25715,7 @@
         "id": "Stereographic projection"
       }, 
       {
-        "id": "Discrete geometry"
+        "id": "Hypersphere"
       }, 
       {
         "id": "Prismatoid"
@@ -25781,10 +25730,10 @@
         "id": "Zonotope"
       }, 
       {
-        "id": "Platonic solid"
+        "id": "Topology"
       }, 
       {
-        "id": "Schl\u00e4fli symbol"
+        "id": "Polyhedron"
       }, 
       {
         "id": "Combinatorial geometry"
@@ -25820,10 +25769,10 @@
         "id": "Projective space"
       }, 
       {
-        "id": "Hypersphere"
+        "id": "Discrete geometry"
       }, 
       {
-        "id": "Polyhedron"
+        "id": "Schl\u00e4fli symbol"
       }, 
       {
         "id": "Shape dissection"
@@ -25853,7 +25802,7 @@
         "id": "Coxeter group"
       }, 
       {
-        "id": "Topology"
+        "id": "Platonic solid"
       }
     ], 
     [
@@ -26064,7 +26013,7 @@
       "id": "Archimedes' use of infinitesimals"
     }, 
     {
-      "id": "Graham scan"
+      "id": "Distance geometry"
     }, 
     {
       "id": "Elliptic geometry"
@@ -26130,7 +26079,7 @@
       "id": "Prismatoid"
     }, 
     {
-      "id": "Pons asinorum"
+      "id": "Quasicrystal"
     }, 
     {
       "id": "Concyclic"
@@ -26142,7 +26091,7 @@
       "id": "Quantum geometry"
     }, 
     {
-      "id": "Incidence geometry"
+      "id": "Polyhedron"
     }, 
     {
       "id": "Ruppeiner geometry"
@@ -26193,10 +26142,10 @@
       "id": "Hypersphere"
     }, 
     {
-      "id": "Quasicrystal"
+      "id": "Pons asinorum"
     }, 
     {
-      "id": "Polyhedron"
+      "id": "Incidence geometry"
     }, 
     {
       "id": "Oval (projective plane)"
@@ -26226,7 +26175,7 @@
       "id": "Squaring the circle"
     }, 
     {
-      "id": "Point groups in three dimensions"
+      "id": "Honeycomb (geometry)"
     }, 
     {
       "id": "Chirality (mathematics)"
@@ -26274,7 +26223,7 @@
       "id": "Hyperbolic geometry"
     }, 
     {
-      "id": "Burmester's theory"
+      "id": "Eccentricity (mathematics)"
     }, 
     {
       "id": "Tetrahedron"
@@ -26301,7 +26250,7 @@
       "id": "Affine geometry"
     }, 
     {
-      "id": "Distance geometry"
+      "id": "Point groups in three dimensions"
     }, 
     {
       "id": "Acute and obtuse triangles"
@@ -26337,7 +26286,7 @@
       "id": "3-sphere"
     }, 
     {
-      "id": "Reflection (mathematics)"
+      "id": "Parallel postulate"
     }, 
     {
       "id": "Ball (mathematics)"
@@ -26370,7 +26319,7 @@
       "id": "Pappus's centroid theorem"
     }, 
     {
-      "id": "Power center (geometry)"
+      "id": "Orthocentric system"
     }, 
     {
       "id": "Concurrent lines"
@@ -26508,6 +26457,9 @@
       "id": "Computational geometry"
     }, 
     {
+      "id": "Burmester's theory"
+    }, 
+    {
       "id": "Heronian triangle"
     }, 
     {
@@ -26530,9 +26482,6 @@
     }, 
     {
       "id": "Synthetic geometry"
-    }, 
-    {
-      "id": "Curve interpolation"
     }, 
     {
       "id": "Circle points segments proof"
@@ -26575,9 +26524,6 @@
     }, 
     {
       "id": "Ray tracing (graphics)"
-    }, 
-    {
-      "id": "Fractal geometry"
     }, 
     {
       "id": "Internal angle"
@@ -26808,7 +26754,7 @@
       "id": "Inscribed angle"
     }, 
     {
-      "id": "Quadrilateral"
+      "id": "Minkowski's theorem"
     }, 
     {
       "id": "Quadric"
@@ -26844,7 +26790,7 @@
       "id": "Angle excess"
     }, 
     {
-      "id": "Minkowski's theorem"
+      "id": "Fractal geometry"
     }, 
     {
       "id": "Ehrhart polynomial"
@@ -26856,7 +26802,7 @@
       "id": "Conic section"
     }, 
     {
-      "id": "Euclidean distance"
+      "id": "Graham scan"
     }, 
     {
       "id": "Parallelepiped"
@@ -26892,7 +26838,7 @@
       "id": "Cyclic quadrilateral"
     }, 
     {
-      "id": "Honeycomb (geometry)"
+      "id": "Euclidean distance"
     }, 
     {
       "id": "Hermite spline"
@@ -26905,6 +26851,9 @@
     }, 
     {
       "id": "Isosceles triangle"
+    }, 
+    {
+      "id": "Power center (geometry)"
     }, 
     {
       "id": "Torus"
@@ -26928,10 +26877,10 @@
       "id": "Toric geometry"
     }, 
     {
-      "id": "Eccentricity (mathematics)"
+      "id": "Curve interpolation"
     }, 
     {
-      "id": "Parallel postulate"
+      "id": "Reflection (mathematics)"
     }, 
     {
       "id": "Point group"
@@ -26964,7 +26913,7 @@
       "id": "Defect (geometry)"
     }, 
     {
-      "id": "Orthocentric system"
+      "id": "Quadrilateral"
     }, 
     {
       "id": "Kite (geometry)"
