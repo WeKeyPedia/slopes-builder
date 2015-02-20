@@ -4,6 +4,6 @@ title: ski slopes prototype
 # Build settings
 markdown: kramdown
 
-collections:
-  path_points:
-    output: true
+# collections:
+#   path_points:
+#     output: true

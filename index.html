@@ -11,7 +11,7 @@ layout: default
 
   <ul class="list-group">
   {% for page in site.data["network"]["nodes"] %}
-    <li class="list-group-item"><span class="slope-indicator"></span> {{ page.id }}</li>
+    <li class="list-group-item" data-point-id="{{ page.id }}" ><span class="slope-indicator"></span> {{ page.id }}</li>
   {% endfor %}
   </ul>
 
@@ -25,8 +25,11 @@ layout: default
 </div>
 
 <div class="col-md-10">
-  
-<h1>current media title</h1>
+
+<article>  
+  <h1></h1>
+  <div class="body"></div>
+</article>
 
 </div>
 
