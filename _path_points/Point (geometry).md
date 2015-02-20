@@ -1,0 +1,304 @@
+﻿---
+lastrevid: 645596862
+pageid: 593693
+canonicalurl: http://en.wikipedia.org/wiki/Point_(geometry)
+title: Point (geometry)
+editurl: http://en.wikipedia.org/w/index.php?title=Point_(geometry)&action=edit
+length: 9519
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-12T20:33:38Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Point_(geometry)
+---
+
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;background:white;"><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Geometry" title="Geometry">Geometry</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:P._Oxy._I_29.jpg" class="image" title="A fragment of Euclid&#39;s &quot;Elements&quot; on part of the Oxyrhynchus papyri"><img alt="A fragment of Euclid&#39;s &quot;Elements&quot; on part of the Oxyrhynchus papyri" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/220px-P._Oxy._I_29.jpg" width="220" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/330px-P._Oxy._I_29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/440px-P._Oxy._I_29.jpg 2x" data-file-width="1694" data-file-height="1032" /></a><div style="padding-top:0.2em;line-height:1.2em;font-size:90%; display:block;margin-bottom:0.5em;"><a href="/wiki/Papyrus_Oxyrhynchus_29" title="Papyrus Oxyrhynchus 29">P. Oxy. I 29</a>, one of the <a href="/wiki/Oxyrhynchus_Papyri" title="Oxyrhynchus Papyri">Oxyrhynchus papyri</a>, includes a fragment of <a href="/wiki/Euclid" title="Euclid">Euclid</a>'s <i><a href="/wiki/Euclid%27s_Elements" title="Euclid&#39;s Elements">Elements</a></i>.</div></td></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none; background:#ddf;padding:0 0 0.15em;text-align:center; display:block;margin:0 1px 0.4em;">
+<a href="/wiki/History_of_geometry" title="History of geometry">History</a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Branches</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li> <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean</a></li>
+<li> <a href="/wiki/Non-Euclidean_geometry" title="Non-Euclidean geometry">Non-Euclidean</a></li>
+<li> <a href="/wiki/Analytic_geometry" title="Analytic geometry">Analytic</a></li>
+<li> <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian</a></li>
+<li> <a href="/wiki/Differential_geometry" title="Differential geometry">Differential</a>
+<ul><li> <a href="/wiki/Symplectic_geometry" title="Symplectic geometry">Symplectic</a></li></ul></li>
+<li> <a href="/wiki/Projective_geometry" title="Projective geometry">Projective</a></li>
+<li> <a href="/wiki/Algebraic_geometry" title="Algebraic geometry">Algebraic</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><div class="hlist"><ul><li>Concepts</li><li>Features</li></ul></div></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Dimension" title="Dimension">Dimension</a>
+<ul><li> <a href="/wiki/Angle" title="Angle">Angle</a></li>
+<li> <a href="/wiki/Curve" title="Curve">Curve</a></li>
+<li> <a href="/wiki/Diagonal" title="Diagonal">Diagonal</a></li>
+<li> <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">Parallel</a></li>
+<li> <a href="/wiki/Perpendicular" title="Perpendicular">Perpendicular</a></li>
+<li> <a href="/wiki/Vertex_(geometry)" title="Vertex (geometry)">Vertex</a></li></ul>
+<ul><li> <a href="/wiki/Congruence_(geometry)" title="Congruence (geometry)">Congruence</a></li>
+<li> <a href="/wiki/Similarity_(geometry)" title="Similarity (geometry)">Similarity</a></li>
+<li> <a href="/wiki/Symmetry" title="Symmetry">Symmetry</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Zero&#160;/&#32;<a href="/wiki/One-dimensional_space" title="One-dimensional space">One-dimensional</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li> <strong class="selflink">Point</strong></li>
+<li> <a href="/wiki/Line_(geometry)" title="Line (geometry)">Line</a>
+<ul><li> <a href="/wiki/Line_segment" title="Line segment">segment</a></li>
+<li> <a href="/wiki/Ray_(geometry)" title="Ray (geometry)" class="mw-redirect">ray</a></li></ul></li>
+<li> <a href="/wiki/Length" title="Length">Length</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Two-dimensional_space" title="Two-dimensional space">Two-dimensional</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-bottom:0;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li> <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">Plane</a></li>
+<li> <a href="/wiki/Area" title="Area">Area</a></li>
+<li> <a href="/wiki/Polygon" title="Polygon">Polygon</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+<a href="/wiki/Triangle" title="Triangle">Triangle</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li> <a href="/wiki/Altitude_(triangle)" title="Altitude (triangle)">Altitude</a></li>
+<li> <a href="/wiki/Hypotenuse" title="Hypotenuse">Hypotenuse</a></li>
+<li> <a href="/wiki/Pythagorean_theorem" title="Pythagorean theorem">Pythagorean theorem</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+<a href="/wiki/Parallelogram" title="Parallelogram">Parallelogram</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li> <a href="/wiki/Square" title="Square">Square</a></li>
+<li> <a href="/wiki/Rectangle" title="Rectangle">Rectangle</a></li>
+<li> <a href="/wiki/Rhombus" title="Rhombus">Rhombus</a></li>
+<li> <a href="/wiki/Rhomboid" title="Rhomboid">Rhomboid</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+<a href="/wiki/Quadrilateral" title="Quadrilateral">Quadrilateral</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li> <a href="/wiki/Trapezoid" title="Trapezoid">Trapezoid</a></li>
+<li> <a href="/wiki/Kite_(geometry)" title="Kite (geometry)">Kite</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+<a href="/wiki/Circle" title="Circle">Circle</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li> <a href="/wiki/Diameter" title="Diameter">Diameter</a></li>
+<li> <a href="/wiki/Circumference" title="Circumference">Circumference</a></li>
+<li> <a href="/wiki/Area_of_a_disk" title="Area of a disk">Area</a></td></li></ul>
+</tr></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Three-dimensional_space" title="Three-dimensional space">Three-dimensional</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li> <a href="/wiki/Volume" title="Volume">Volume</a></li></ul>
+<ul><li> <a href="/wiki/Cube" title="Cube">Cube</a>
+<ul><li> <a href="/wiki/Cuboid" title="Cuboid">cuboid</a></li></ul></li>
+<li> <a href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">Cylinder</a></li>
+<li> <a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">Pyramid</a></li>
+<li> <a href="/wiki/Sphere" title="Sphere">Sphere</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Four-dimensional_space" title="Four-dimensional space">Four</a>&#160;/&#32;other-dimensional</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li> <a href="/wiki/Tesseract" title="Tesseract">Tesseract</a></div></div></td></li></ul>
+</tr><tr><th style="padding:0.1em;padding-bottom:0.2em;">
+<a href="/wiki/List_of_geometers" title="List of geometers">Geometers</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">by name</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li> <a href="/wiki/Yasuaki_Aida" title="Yasuaki Aida">Aida</a></li>
+<li> <a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a></li>
+<li> <a href="/wiki/Ahmes" title="Ahmes">Ahmes</a></li>
+<li> <a href="/wiki/Alhazen" title="Alhazen">Alhazen</a></li>
+<li> <a href="/wiki/Apollonius_of_Perga" title="Apollonius of Perga">Apolonius</a></li>
+<li> <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a></li>
+<li> <a href="/wiki/Michael_Atiyah" title="Michael Atiyah">Atiyah</a></li>
+<li> <a href="/wiki/Baudhayana" title="Baudhayana">Baudhayana</a></li>
+<li> <a href="/wiki/J%C3%A1nos_Bolyai" title="János Bolyai">Bolyai</a></li>
+<li> <a href="/wiki/Brahmagupta" title="Brahmagupta">Brahmagupta</a></li>
+<li> <a href="/wiki/%C3%89lie_Cartan" title="Élie Cartan">Cartan</a></li>
+<li> <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a></li>
+<li> <a href="/wiki/Euclid" title="Euclid">Euclid</a></li>
+<li> <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li> <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></li>
+<li> <a href="/wiki/Mikhail_Leonidovich_Gromov" title="Mikhail Leonidovich Gromov">Gromov</a></li>
+<li> <a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li> <a href="/wiki/Jye%E1%B9%A3%E1%B9%ADhadeva" title="Jyeṣṭhadeva">Jyeṣṭhadeva</a></li>
+<li> <a href="/wiki/K%C4%81ty%C4%81yana" title="Kātyāyana">Kātyāyana</a></li>
+<li> <a href="/wiki/Omar_Khayy%C3%A1m" title="Omar Khayyám">Khayyám</a></li>
+<li> <a href="/wiki/Felix_Klein" title="Felix Klein">Klein</a></li>
+<li> <a href="/wiki/Nikolai_Lobachevsky" title="Nikolai Lobachevsky">Lobachevsky</a></li>
+<li> <a href="/wiki/Manava" title="Manava">Manava</a></li>
+<li> <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Minkowski</a></li>
+<li> <a href="/wiki/Minggatu" title="Minggatu">Minggatu</a></li>
+<li> <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal</a></li>
+<li> <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a></li>
+<li> <a href="/wiki/Parameshvara" title="Parameshvara">Parameshvara</a></li>
+<li> <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li> <a href="/wiki/Bernhard_Riemann" title="Bernhard Riemann">Riemann</a></li>
+<li> <a href="/wiki/Sakabe_K%C5%8Dhan" title="Sakabe Kōhan">Sakabe</a></li>
+<li> <a href="/wiki/Sijzi" title="Sijzi">Sijzi</a></li>
+<li> <a href="/wiki/Nasir_al-Din_al-Tusi" title="Nasir al-Din al-Tusi">al-Tusi</a></li>
+<li> <a href="/wiki/Oswald_Veblen" title="Oswald Veblen">Veblen</a></li>
+<li> <a href="/wiki/Virasena" title="Virasena">Virasena</a></li>
+<li> <a href="/wiki/Yang_Hui" title="Yang Hui">Yang Hui</a></li>
+<li> <a href="/wiki/Ibn_al-Yasamin" title="Ibn al-Yasamin">al-Yasamin</a></li>
+<li> <a href="/wiki/Zhang_Heng" title="Zhang Heng">Zhang</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">by period</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-bottom:0;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+<a href="/wiki/Before_Common_Era" title="Before Common Era" class="mw-redirect">BCE</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li>  <a href="/wiki/Ahmes" title="Ahmes">Ahmes</a></li>
+<li>  <a href="/wiki/Baudhayana" title="Baudhayana">Baudhayana</a></li>
+<li>  <a href="/wiki/Manava" title="Manava">Manava</a></li>
+<li>  <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a></li>
+<li>  <a href="/wiki/Euclid" title="Euclid">Euclid</a></li>
+<li>  <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a></li>
+<li>  <a href="/wiki/Apollonius_of_Perga" title="Apollonius of Perga">Apolonius</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+1–1400s</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li>  <a href="/wiki/Zhang_Heng" title="Zhang Heng">Zhang</a></li>
+<li>  <a href="/wiki/K%C4%81ty%C4%81yana" title="Kātyāyana">Kātyāyana</a></li>
+<li>  <a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a></li>
+<li>  <a href="/wiki/Brahmagupta" title="Brahmagupta">Brahmagupta</a></li>
+<li>  <a href="/wiki/Virasena" title="Virasena">Virasena</a></li>
+<li>  <a href="/wiki/Alhazen" title="Alhazen">Alhazen</a></li>
+<li>  <a href="/wiki/Sijzi" title="Sijzi">Sijzi</a></li>
+<li>  <a href="/wiki/Omar_Khayy%C3%A1m" title="Omar Khayyám">Khayyám</a></li>
+<li>  <a href="/wiki/Ibn_al-Yasamin" title="Ibn al-Yasamin">al-Yasamin</a></li>
+<li>  <a href="/wiki/Nasir_al-Din_al-Tusi" title="Nasir al-Din al-Tusi">al-Tusi</a></li>
+<li>  <a href="/wiki/Yang_Hui" title="Yang Hui">Yang Hui</a></li>
+<li>  <a href="/wiki/Parameshvara" title="Parameshvara">Parameshvara</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+1400s–1700s</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li>  <a href="/wiki/Jye%E1%B9%A3%E1%B9%ADhadeva" title="Jyeṣṭhadeva">Jyeṣṭhadeva</a></li>
+<li>  <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a></li>
+<li>  <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal</a></li>
+<li>  <a href="/wiki/Minggatu" title="Minggatu">Minggatu</a></li>
+<li>  <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li>  <a href="/wiki/Sakabe_K%C5%8Dhan" title="Sakabe Kōhan">Sakabe</a></li>
+<li>  <a href="/wiki/Yasuaki_Aida" title="Yasuaki Aida">Aida</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+1700s–1900s</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li>  <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></li>
+<li>  <a href="/wiki/Nikolai_Lobachevsky" title="Nikolai Lobachevsky">Lobachevsky</a></li>
+<li>  <a href="/wiki/J%C3%A1nos_Bolyai" title="János Bolyai">Bolyai</a></li>
+<li>  <a href="/wiki/Bernhard_Riemann" title="Bernhard Riemann">Riemann</a></li>
+<li>  <a href="/wiki/Felix_Klein" title="Felix Klein">Klein</a></li>
+<li>  <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li>  <a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li>  <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Minkowski</a></li>
+<li>  <a href="/wiki/%C3%89lie_Cartan" title="Élie Cartan">Cartan</a></li>
+<li>  <a href="/wiki/Oswald_Veblen" title="Oswald Veblen">Veblen</a></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">
+Present day</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul><li>  <a href="/wiki/Michael_Atiyah" title="Michael Atiyah">Atiyah</a></li>
+<li>  <a href="/wiki/Mikhail_Leonidovich_Gromov" title="Mikhail Leonidovich Gromov">Gromov</a></td></li></ul>
+</tr></table></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:General_geometry" title="Template:General geometry"><span title="View this template">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:General_geometry" title="Template talk:General geometry"><span title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:General_geometry&amp;action=edit"><span title="Edit this template">e</span></a></li></ul></div></td></tr></table>
+<p>In modern <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>point</b> refers usually to an <a href="/wiki/Element_(mathematics)" title="Element (mathematics)">element</a> of some <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">set</a> called a <a href="/wiki/Space_(mathematics)" title="Space (mathematics)">space</a>.
+</p><p>More specifically, in <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a>, a point is a <a href="/wiki/Primitive_notion" title="Primitive notion">primitive notion</a> upon which the geometry is built. Being a primitive notion means that a point cannot be defined in terms of previously defined objects. That is, a point is defined only by some properties, called <a href="/wiki/Axiom" title="Axiom">axioms</a>, that it must satisfy. In particular, the geometric points do not have any <a href="/wiki/Length" title="Length">length</a>, <a href="/wiki/Area" title="Area">area</a>, <a href="/wiki/Volume" title="Volume">volume</a>, or any other <a href="/wiki/Dimension" title="Dimension">dimensional</a> attribute. A common interpretation is that the concept of a point is meant to capture the notion of a unique location in <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Points_in_Euclidean_geometry"><span class="tocnumber">1</span> <span class="toctext">Points in Euclidean geometry</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Dimension_of_a_point"><span class="tocnumber">2</span> <span class="toctext">Dimension of a point</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Vector_space_dimension"><span class="tocnumber">2.1</span> <span class="toctext">Vector space dimension</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Topological_dimension"><span class="tocnumber">2.2</span> <span class="toctext">Topological dimension</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hausdorff_dimension"><span class="tocnumber">2.3</span> <span class="toctext">Hausdorff dimension</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Geometry_without_points"><span class="tocnumber">3</span> <span class="toctext">Geometry without points</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Point_masses_and_the_Dirac_delta_function"><span class="tocnumber">4</span> <span class="toctext">Point masses and the Dirac delta function</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Points_in_Euclidean_geometry">Points in Euclidean geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=1" title="Edit section: Points in Euclidean geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ACP_3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/ACP_3.svg/220px-ACP_3.svg.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/ACP_3.svg/330px-ACP_3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/ACP_3.svg/440px-ACP_3.svg.png 2x" data-file-width="300" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ACP_3.svg" class="internal" title="Enlarge"></a></div>A finite set of points (blue) in two-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>.</div></div></div>
+<p>Points, considered within the framework of <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a>, are one of the most fundamental objects. <a href="/wiki/Euclid" title="Euclid">Euclid</a> originally defined the point as "that which has no part". In two-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>, a point is represented by an <a href="/wiki/Ordered_pair" title="Ordered pair">ordered pair</a> (<span class="texhtml mvar" style="font-style:italic;">x</span>, <span class="texhtml mvar" style="font-style:italic;">y</span>) of numbers, where the first number <a href="/wiki/Convention_(norm)" title="Convention (norm)">conventionally</a> represents the <a href="/wiki/Horizontal_plane" title="Horizontal plane">horizontal</a> and is often denoted by <span class="texhtml mvar" style="font-style:italic;">x</span>, and the second number conventionally represents the <a href="/wiki/Vertical_direction" title="Vertical direction">vertical</a> and is often denoted by <span class="texhtml mvar" style="font-style:italic;">y</span>. This idea is easily generalized to three-dimensional Euclidean space, where a point is represented by an ordered triplet (<span class="texhtml mvar" style="font-style:italic;">x</span>, <span class="texhtml mvar" style="font-style:italic;">y</span>, <span class="texhtml mvar" style="font-style:italic;">z</span>) with the additional third number representing depth and often denoted by <span class="texhtml mvar" style="font-style:italic;">z</span>. Further generalizations are represented by an ordered <a href="/wiki/Tuple" title="Tuple">tuplet</a> of <span class="texhtml mvar" style="font-style:italic;">n</span> terms, <span class="texhtml">(<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, … , <i>a</i><sub><i>n</i></sub>)</span> where <span class="texhtml mvar" style="font-style:italic;">n</span> is the <a href="/wiki/Dimension_(mathematics)" title="Dimension (mathematics)" class="mw-redirect">dimension</a> of the space in which the point is located.
+</p><p>Many constructs within Euclidean geometry consist of an <a href="/wiki/Infinity" title="Infinity">infinite</a> collection of points that conform to certain axioms.  This is usually represented by a <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">set</a> of points; As an example, a <a href="/wiki/Line_(mathematics)" title="Line (mathematics)" class="mw-redirect">line</a> is an infinite set of points of the form <img class="mwe-math-fallback-image-inline tex" alt="\scriptstyle {L = \lbrace (a_1,a_2,...a_n)|a_1c_1 + a_2c_2 + ... a_nc_n = d \rbrace}" src="//upload.wikimedia.org/math/8/f/1/8f18b9c9a58016a4fedbd02cbb39042b.png" />, where <span class="texhtml"><i>c</i><sub>1</sub></span> through <span class="texhtml"><i>c<sub>n</sub></i></span> and <span class="texhtml mvar" style="font-style:italic;">d</span> are constants and <span class="texhtml mvar" style="font-style:italic;">n</span> is the dimension of the space. Similar constructions exist that define the <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">plane</a>, <a href="/wiki/Line_segment" title="Line segment">line segment</a> and other related concepts. By the way, a <a href="/wiki/Degeneracy_(mathematics)" title="Degeneracy (mathematics)">degenerate</a> line segment consists of only one point.
+</p><p>In addition to defining points and constructs related to points, Euclid also postulated a key idea about points; he claimed that any two points can be connected by a straight line. This is easily confirmed under modern expansions of Euclidean geometry, and had lasting consequences at its introduction, allowing the construction of almost all the geometric concepts of the time. However, Euclid's postulation of points was neither complete nor definitive, as he occasionally assumed facts about points that did not follow directly from his axioms, such as the ordering of points on the line or the existence of specific points. In spite of this, modern expansions of the system serve to remove these assumptions.
+</p>
+<h2><span class="mw-headline" id="Dimension_of_a_point">Dimension of a point</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=2" title="Edit section: Dimension of a point">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several inequivalent definitions of <a href="/wiki/Dimension_(mathematics_and_physics)" title="Dimension (mathematics and physics)" class="mw-redirect">dimension</a>  in mathematics. In all of the common definitions, a point is 0-dimensional.
+</p>
+<h3><span class="mw-headline" id="Vector_space_dimension">Vector space dimension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=3" title="Edit section: Vector space dimension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Dimension_(vector_space)" title="Dimension (vector space)">Dimension (vector space)</a></div>
+<p>The dimension of a vector space is the maximum size of a <a href="/wiki/Linearly_independent" title="Linearly independent" class="mw-redirect">linearly independent</a> subset. In a vector space consisting of a single point (which must be the zero vector <b>0</b>), there is no linearly independent subset. The zero vector is not itself linearly independent, because there is a non trivial linear combination making it zero: <img class="mwe-math-fallback-image-inline tex" alt="1 \cdot \mathbf{0}=\mathbf{0}" src="//upload.wikimedia.org/math/4/4/1/441f7aaa12a0e992a2ac58feff09e4ec.png" />.
+</p>
+<h3><span class="mw-headline" id="Topological_dimension">Topological dimension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=4" title="Edit section: Topological dimension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Lebesgue_covering_dimension" title="Lebesgue covering dimension">Lebesgue covering dimension</a></div>
+<p>The topological dimension of a topological space <i>X</i> is defined to be the minimum value of <i>n</i>, such that every finite <a href="/wiki/Open_cover" title="Open cover" class="mw-redirect">open cover</a> <img class="mwe-math-fallback-image-inline tex" alt="\mathcal{A}" src="//upload.wikimedia.org/math/8/4/c/84cc21a1ecbbe55e01e12e575a52cca2.png" /> of <i>X</i> admits a finite open cover <img class="mwe-math-fallback-image-inline tex" alt="\mathcal{B}" src="//upload.wikimedia.org/math/8/d/7/8d7c27e339945f6c96cc234d1248d3fc.png" /> of <i>X</i> which <a href="/wiki/Refinement_(topology)" title="Refinement (topology)" class="mw-redirect">refines</a> <img class="mwe-math-fallback-image-inline tex" alt="\mathcal{A}" src="//upload.wikimedia.org/math/8/4/c/84cc21a1ecbbe55e01e12e575a52cca2.png" /> in which no point is included in more than <i>n</i>+1 elements. If no such minimal <i>n</i> exists, the space is said to be of infinite covering dimension.
+</p><p>A point is <a href="/wiki/Zero-dimensional_space" title="Zero-dimensional space">zero-dimensional</a> with respect to the covering dimension because every open cover of the space has a refinement consisting of a single open set.
+</p>
+<h3><span class="mw-headline" id="Hausdorff_dimension">Hausdorff dimension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=5" title="Edit section: Hausdorff dimension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Let <i>X</i> be a <a href="/wiki/Metric_space" title="Metric space">metric space</a>. If <i>S</i> ⊂ <i>X</i> and <i>d</i> ∈ [0, ∞), the <i>d</i>-dimensional <b>Hausdorff content</b> of <i>S</i> is the <a href="/wiki/Infimum" title="Infimum" class="mw-redirect">infimum</a> of the set of numbers δ ≥ 0 such that there is some (indexed) collection of <a href="/wiki/Metric_space" title="Metric space">balls</a> <img class="mwe-math-fallback-image-inline tex" alt="\{B(x_i,r_i):i\in I\}" src="//upload.wikimedia.org/math/1/4/9/149c9badfb67da41034734e5d865ecaf.png" /> covering <i>S</i> with <i>r<sub>i</sub></i> &gt; 0 for each <i>i</i> ∈ <i>I</i> that satisfies <img class="mwe-math-fallback-image-inline tex" alt="\sum_{i\in I} r_i^d&lt;\delta " src="//upload.wikimedia.org/math/5/a/6/5a60d2ce0dea926c5ed5ddbddb837709.png" />.
+</p><p>The <b>Hausdorff dimension</b> of <i>X</i> is defined by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\operatorname{dim}_{\operatorname{H}}(X):=\inf\{d\ge 0: C_H^d(X)=0\}." src="//upload.wikimedia.org/math/d/b/9/db95e2fc4878c60ca5ffe32d84b69ed9.png" /></dd></dl>
+<p>A point has Hausdorff dimension 0 because it can be covered by a single ball of arbitrarily small radius.
+</p>
+<h2><span class="mw-headline" id="Geometry_without_points">Geometry without points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=6" title="Edit section: Geometry without points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the notion of a point is generally considered fundamental in mainstream geometry and topology, there are some systems that forgo it, e.g. <a href="/wiki/Noncommutative_geometry" title="Noncommutative geometry">noncommutative geometry</a> and <a href="/wiki/Pointless_topology" title="Pointless topology">pointless topology</a>. A "pointless" or "pointfree" space is defined not as a <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">set</a>, but via some structure (<a href="/wiki/C*-algebra" title="C*-algebra">algebraic</a> or <a href="/wiki/Complete_Heyting_algebra" title="Complete Heyting algebra">logical</a> respectively) which looks like a well-known function space on the set: an algebra of <a href="/wiki/Continuous_function" title="Continuous function">continuous functions</a> or an <a href="/wiki/Algebra_of_sets" title="Algebra of sets">algebra of sets</a> respectively. More precisely, such structures generalize well-known spaces of <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a> in a way that the operation "take a value at this point" may not be defined.
+A further tradition starts from some books of <a href="/wiki/A._N._Whitehead" title="A. N. Whitehead" class="mw-redirect">A. N. Whitehead</a> in which the notion of region is assumed as a primitive together with the one of <i>inclusion</i> or <i>connection</i>.
+</p>
+<h2><span class="mw-headline" id="Point_masses_and_the_Dirac_delta_function">Point masses and the Dirac delta function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=7" title="Edit section: Point masses and the Dirac delta function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Dirac_delta_function" title="Dirac delta function">Dirac delta function</a></div>
+<p>Often in physics and mathematics, it is useful to think of a point as having non-zero mass or charge (this is especially common in <a href="/wiki/Classical_electromagnetism" title="Classical electromagnetism">classical electromagnetism</a>, where electrons are idealized as points with non-zero charge). The <b>Dirac delta function</b>, or <b><span class="texhtml mvar" style="font-style:italic;">δ</span> function</b>, is (informally) a <a href="/wiki/Generalized_function" title="Generalized function">generalized function</a> on the real number line that is zero everywhere except at zero, with an <a href="/wiki/Integral" title="Integral">integral</a> of one over the entire real line.<sup id="cite_ref-Dirac1958p58_1-0" class="reference"><a href="#cite_note-Dirac1958p58-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup>  The delta function is sometimes thought of as an infinitely high, infinitely thin spike at the origin, with total area one under the spike, and physically represents an idealized <a href="/wiki/Point_mass" title="Point mass" class="mw-redirect">point mass</a> or <a href="/wiki/Point_charge" title="Point charge" class="mw-redirect">point charge</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup>  It was introduced by theoretical physicist <a href="/wiki/Paul_Dirac" title="Paul Dirac">Paul Dirac</a>.  In the context of <a href="/wiki/Signal_processing" title="Signal processing">signal processing</a> it is often referred to as the <b>unit impulse symbol</b> (or function).<sup id="cite_ref-Bracewell_1986_loc.3DChapter_5_5-0" class="reference"><a href="#cite_note-Bracewell_1986_loc.3DChapter_5-5"><span>[</span>5<span>]</span></a></sup>  Its discrete analog is the <a href="/wiki/Kronecker_delta" title="Kronecker delta">Kronecker delta</a> function which is usually defined on a finite domain and takes values 0 and 1.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Accumulation_point" title="Accumulation point" class="mw-redirect">Accumulation point</a></li>
+<li><a href="/wiki/Affine_space" title="Affine space">Affine space</a></li>
+<li><a href="/wiki/Boundary_point" title="Boundary point" class="mw-redirect">Boundary point</a></li>
+<li><a href="/wiki/Critical_point_(mathematics)" title="Critical point (mathematics)">Critical point</a></li>
+<li><a href="/wiki/Cusp_(singularity)" title="Cusp (singularity)">Cusp</a></li>
+<li><a href="/wiki/Foundations_of_geometry" title="Foundations of geometry">Foundations of geometry</a></li>
+<li><a href="/wiki/Position_(geometry)" title="Position (geometry)" class="mw-redirect">Position (geometry)</a></li>
+<li><a href="/wiki/Pointwise" title="Pointwise">Pointwise</a></li>
+<li><a href="/wiki/Singular_point_of_a_curve" title="Singular point of a curve">Singular point of a curve</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Dirac1958p58-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dirac1958p58_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDirac1958">Dirac 1958</a>, §15 The δ function, p. 58</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFGel.27fandShilov1968">Gel'fand &amp; Shilov 1968</a>, Volume I, §§1.1, 1.3</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFSchwartz1950">Schwartz 1950</a>, p.&#160;3</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFArfkenWeber2000">Arfken &amp; Weber 2000</a>, p.&#160;84</span>
+</li>
+<li id="cite_note-Bracewell_1986_loc.3DChapter_5-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bracewell_1986_loc.3DChapter_5_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBracewell1986">Bracewell 1986</a>, Chapter 5</span>
+</li>
+</ol></div>
+<ul><li> Clarke, Bowman, 1985, "<a rel="nofollow" class="external text" href="http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?view=body&amp;id=pdf_1&amp;handle=euclid.ndjfl/1093870761">Individuals and Points,</a>" <i>Notre Dame Journal of Formal Logic 26</i>: 61–75.</li>
+<li>De Laguna, T., 1922, "Point, line  and surface as sets of solids," <i>The Journal of Philosophy 19</i>: 449–61.</li>
+<li> Gerla, G., 1995, "<a rel="nofollow" class="external text" href="http://www.dmi.unisa.it/people/gerla/www/Down/point-free.pdf">Pointless Geometries</a>" in Buekenhout, F., Kantor, W. eds., <i>Handbook of incidence geometry: buildings and foundations</i>. North-Holland: 1015–31.</li>
+<li> Whitehead A. N., 1919. <i>An Enquiry Concerning the Principles of Natural Knowledge</i>. Cambridge Univ. Press. 2nd ed., 1925.</li>
+<li>--------, 1920. <i><a rel="nofollow" class="external text" href="http://www.gutenberg.org/files/18835/18835-h/18835-h.htm">The Concept of Nature</a></i>. Cambridge Univ. Press. 2004 paperback, Prometheus Books. Being the 1919 Tarner Lectures delivered at <a href="/wiki/Trinity_College,_Cambridge" title="Trinity College, Cambridge">Trinity College</a>.</li>
+<li>--------, 1979 (1929). <i><a href="/wiki/Process_and_Reality" title="Process and Reality">Process and Reality</a></i>. Free Press.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Point_(geometry)&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Points_(mathematics)" class="extiw" title="commons:Category:Points (mathematics)">Points (mathematics)</a></b></i>.</td></tr></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mathopenref.com/point.html">Definition of Point</a> with interactive applet</li>
+<li><a rel="nofollow" class="external text" href="http://www.mathopenref.com/tocs/pointstoc.html">Points definition pages</a>, with interactive animations that are also useful in a classroom setting. Math Open Reference</li>
+<li><a rel="nofollow" class="external text" href="http://planetmath.org/?op=getobj&amp;from=objects&amp;id=8173">Point</a> at <a href="/wiki/PlanetMath" title="PlanetMath">PlanetMath.org</a>. </li>
+<li><span class="citation mathworld" id="Reference-Mathworld-Point"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Point.html">"Point"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Dimension_topics" title="Template:Dimension topics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dimension_topics" title="Template talk:Dimension topics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dimension_topics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%"><a href="/wiki/Dimension" title="Dimension">Dimension</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Dimensional spaces</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dimension_(vector_space)" title="Dimension (vector space)">Vector space</a></li>
+<li><a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a></li>
+<li><a href="/wiki/Affine_space" title="Affine space">Affine space</a></li>
+<li><a href="/wiki/Projective_space" title="Projective space">Projective space</a></li>
+<li><a href="/wiki/Free_module" title="Free module">Free module</a></li>
+<li><a href="/wiki/Manifold" title="Manifold">Manifold</a></li>
+<li><a href="/wiki/Dimension_of_an_algebraic_variety" title="Dimension of an algebraic variety">Algebraic variety</a></li>
+<li><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Tesseract.gif" class="image" title="Animated tesseract"><img alt="Animated tesseract" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/75px-Tesseract.gif" width="75" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/113px-Tesseract.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/150px-Tesseract.gif 2x" data-file-width="256" data-file-height="256" /></a></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Other dimensions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Krull_dimension" title="Krull dimension">Krull</a></li>
+<li><a href="/wiki/Homological_dimension_(disambiguation)" title="Homological dimension (disambiguation)" class="mw-redirect">Homological</a></li>
+<li><a href="/wiki/Lebesgue_covering_dimension" title="Lebesgue covering dimension">Lebesgue covering</a></li>
+<li><a href="/wiki/Inductive_dimension" title="Inductive dimension">Inductive</a></li>
+<li><a href="/wiki/Hausdorff_dimension" title="Hausdorff dimension">Hausdorff</a></li>
+<li><a href="/wiki/Minkowski_dimension" title="Minkowski dimension" class="mw-redirect">Minkowski</a></li>
+<li><a href="/wiki/Fractal_dimension" title="Fractal dimension">Fractal</a></li>
+<li><a href="/wiki/Degrees_of_freedom" title="Degrees of freedom">Degrees of freedom</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/Polytope" title="Polytope">Polytopes</a> and shapes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Hyperplane" title="Hyperplane">Hyperplane</a> </li>
+<li> <a href="/wiki/Hypersurface" title="Hypersurface">Hypersurface</a></li>
+<li> <a href="/wiki/Hypercube" title="Hypercube">Hypercube</a></li>
+<li> <a href="/wiki/Hypersphere" title="Hypersphere">Hypersphere</a> </li>
+<li> <a href="/wiki/Hyperrectangle" title="Hyperrectangle">Hyperrectangle</a></li>
+<li> <a href="/wiki/Demihypercube" title="Demihypercube">Demihypercube</a></li>
+<li> <a href="/wiki/Cross-polytope" title="Cross-polytope">Cross-polytope</a></li>
+<li> <a href="/wiki/Simplex" title="Simplex">Simplex</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Dimensions by number</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Zero-dimensional_space" title="Zero-dimensional space">Zero</a></li>
+<li> <a href="/wiki/One-dimensional_space" title="One-dimensional space">One</a></li>
+<li> <a href="/wiki/Two-dimensional_space" title="Two-dimensional space">Two</a></li>
+<li> <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">Three</a></li>
+<li> <a href="/wiki/Four-dimensional_space" title="Four-dimensional space">Four</a></li>
+<li> <a href="/wiki/Five-dimensional_space" title="Five-dimensional space">Five</a></li>
+<li> <a href="/wiki/Six-dimensional_space" title="Six-dimensional space">Six</a>&#160;(<a href="/wiki/Six_degrees_of_freedom" title="Six degrees of freedom">degrees of freedom</a>)</li>
+<li> <a href="/wiki/Seven-dimensional_space" title="Seven-dimensional space">Seven</a></li>
+<li> <a href="/wiki/Eight-dimensional_space" title="Eight-dimensional space">Eight</a></li>
+<li> <a href="/wiki/Dimension" title="Dimension"><i>n</i>-dimensions</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><b><a href="/wiki/Category:Dimension" title="Category:Dimension">Category</a></b></div></td></tr></table></td></tr></table>

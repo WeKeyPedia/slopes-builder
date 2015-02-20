@@ -1,0 +1,217 @@
+﻿---
+lastrevid: 630358156
+pageid: 39372
+canonicalurl: http://en.wikipedia.org/wiki/Prototile
+title: Prototile
+editurl: http://en.wikipedia.org/w/index.php?title=Prototile&action=edit
+length: 3038
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-18T22:12:11Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Prototile
+---
+
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Penrose_Tiling_(Rhombi).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/240px-Penrose_Tiling_%28Rhombi%29.svg.png" width="240" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/360px-Penrose_Tiling_%28Rhombi%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/480px-Penrose_Tiling_%28Rhombi%29.svg.png 2x" data-file-width="500" data-file-height="500" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Penrose_Tiling_(Rhombi).svg" class="internal" title="Enlarge"></a></div>This form of the <a href="/wiki/Aperiodic_tiling" title="Aperiodic tiling">aperiodic</a> <a href="/wiki/Penrose_tiling" title="Penrose tiling">Penrose tiling</a> has two prototiles, a fat <a href="/wiki/Rhombus" title="Rhombus">rhombus</a> (shown blue in the figure) and a thin rhombus (green).</div></div></div>
+<p>In the mathematical theory of <a href="/wiki/Tessellation" title="Tessellation">tessellations</a>, a <b>prototile</b> is one of the shapes of a tile in a tessellation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+</p><p>A tessellation of the plane or of any other space is a cover of the space by <a href="/wiki/Closed_set" title="Closed set">closed</a> shapes, called tiles, that have <a href="/wiki/Disjoint_sets" title="Disjoint sets">disjoint</a> <a href="/wiki/Interior_(topology)" title="Interior (topology)">interiors</a>. Some of the tiles may be <a href="/wiki/Congruence_(geometry)" title="Congruence (geometry)">congruent</a> to one or more others. If <span class="texhtml mvar" style="font-style:italic;">S</span> is the set of tiles in a tessellation, a set <span class="texhtml mvar" style="font-style:italic;">R</span> of shapes is called a set of prototiles if no two shapes in <span class="texhtml mvar" style="font-style:italic;">R</span> are congruent to each other, and every tile in <span class="texhtml mvar" style="font-style:italic;">S</span> is congruent to one of the shapes in <span class="texhtml mvar" style="font-style:italic;">R</span>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup>
+</p><p>It is possible to choose many different sets of prototiles for a tiling: translating or rotating any one of the prototiles produces another valid set of prototiles. However, every set of prototiles has the same <a href="/wiki/Cardinality" title="Cardinality">cardinality</a>, so the number of prototiles is well defined. A tessellation is said to be monohedral if it has exactly one prototile.
+</p>
+<table class="wikitable" style="float:right; width:30%; margin:0em 1em 1em 1em;">
+<caption> <a href="/wiki/List_of_unsolved_problems_in_mathematics" title="List of unsolved problems in mathematics">List of unsolved problems in mathematics</a>
+</caption>
+<tr>
+<td> <div style="padding:5px;"><i>Does there exist a two-dimensional aperiodic prototile?</i></div>
+</td></tr></table>
+<p>A set of prototiles is said to be aperiodic if every tiling with those prototiles is an <a href="/wiki/Aperiodic_tiling" title="Aperiodic tiling">aperiodic tiling</a>.  It is unknown whether there a single two-dimensional shape (called an <i><a href="/wiki/Einstein_problem" title="Einstein problem">einstein</a></i>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> that forms the prototile of an aperiodic tiling, but not of any periodic tiling. That is, the existence of a single-tile (monohedral) aperiodic prototile set is an open problem. The <a href="/wiki/Socolar-Taylor_tile" title="Socolar-Taylor tile" class="mw-redirect">Socolar-Taylor tile</a> forms two-dimensional aperiodic tilings, but is defined by combinatorial matching conditions rather than purely by its shape. In higher dimensions, the problem is solved: the <a href="/w/index.php?title=Schmitt-Conway-Danzer_tile&amp;action=edit&amp;redlink=1" class="new" title="Schmitt-Conway-Danzer tile (page does not exist)">Schmitt-Conway-Danzer tile</a> is the prototile of a monohedral aperiodic tiling of three-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>, and cannot tile space periodically.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prototile&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span id="CITEREFCederberg2001" class="citation">Cederberg, Judith N. (2001), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=Fo9tqL99jdMC&amp;pg=PA174"><i>A Course in Modern Geometries</i></a>, Undergraduate Texts in Mathematics (2nd ed.), Springer-Verlag, p.&#160;174, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-98972-3" title="Special:BookSources/978-0-387-98972-3">978-0-387-98972-3</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrototile&amp;rft.au=Cederberg%2C+Judith+N.&amp;rft.aufirst=Judith+N.&amp;rft.aulast=Cederberg&amp;rft.btitle=A+Course+in+Modern+Geometries&amp;rft.date=2001&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFo9tqL99jdMC%26pg%3DPA174&amp;rft.isbn=978-0-387-98972-3&amp;rft.pages=174&amp;rft.pub=Springer-Verlag&amp;rft.series=Undergraduate+Texts+in+Mathematics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFKaplan2009" class="citation">Kaplan, Craig S. (2009), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=OPtQtnNXRMMC&amp;pg=PA7"><i>Introductory Tiling Theory for Computer Graphics</i></a>, Synthesis Lectures on Computer Graphics and Animation, Morgan &amp; Claypool Publishers, p.&#160;7, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-60845-017-6" title="Special:BookSources/978-1-60845-017-6">978-1-60845-017-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrototile&amp;rft.aufirst=Craig+S.&amp;rft.au=Kaplan%2C+Craig+S.&amp;rft.aulast=Kaplan&amp;rft.btitle=Introductory+Tiling+Theory+for+Computer+Graphics&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOPtQtnNXRMMC%26pg%3DPA7&amp;rft.isbn=978-1-60845-017-6&amp;rft.pages=7&amp;rft.pub=Morgan+%26+Claypool+Publishers&amp;rft.series=Synthesis+Lectures+on+Computer+Graphics+and+Animation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span id="CITEREFSocolarTaylor2012" class="citation">Socolar, Joshua E. S.; Taylor, Joan M. (2012), "Forcing nonperiodicity with a single tile", <i>The Mathematical Intelligencer</i> <b>34</b> (1): 18–28, <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/1009.1419">1009.1419</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00283-011-9255-y">10.1007/s00283-011-9255-y</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2902144">2902144</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrototile&amp;rft.atitle=Forcing+nonperiodicity+with+a+single+tile&amp;rft.aufirst=Joshua+E.+S.&amp;rft.aulast=Socolar&amp;rft.au=Socolar%2C+Joshua+E.+S.&amp;rft.au=Taylor%2C+Joan+M.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1009.1419&amp;rft_id=info%3Adoi%2F10.1007%2Fs00283-011-9255-y&amp;rft.issue=1&amp;rft.jtitle=The+Mathematical+Intelligencer&amp;rft.mr=2902144&amp;rft.pages=18-28&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+</ol></div>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tessellation" title="Template:Tessellation"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Tessellation&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tessellation (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tessellation&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%"><a href="/wiki/Tessellation" title="Tessellation">Tessellation</a> &amp; tiling</div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tr><th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span><div style="font-size:110%"><a href="/wiki/Tiling_by_regular_polygons" title="Tiling by regular polygons">Periodic</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Pythagorean_tiling" title="Pythagorean tiling">Pythagorean</a></li>
+<li> <a href="/wiki/Rhombille_tiling" title="Rhombille tiling">Rhombille</a></li>
+<li> <a href="/wiki/Schwarz_triangle" title="Schwarz triangle">Schwarz triangle</a></li>
+<li> <a href="/wiki/Tiling_with_rectangles" title="Tiling with rectangles">Rectangle</a>
+<ul><li> <a href="/wiki/Domino_tiling" title="Domino tiling">Domino</a></li></ul></li>
+<li> <a href="/wiki/Uniform_tiling" title="Uniform tiling">Uniform tiling</a> &amp; <a href="/wiki/Uniform_tessellation" title="Uniform tessellation">tessellation</a>
+<ul><li> <a href="/wiki/Uniform_coloring" title="Uniform coloring">Coloring</a></li>
+<li> <a href="/wiki/List_of_convex_uniform_tilings" title="List of convex uniform tilings">Convex</a></li>
+<li> <a href="/wiki/Kisrhombille" title="Kisrhombille">Kisrhombille</a></li></ul></li>
+<li> <a href="/wiki/Wallpaper_group" title="Wallpaper group">Wallpaper group</a></li>
+<li> <a href="/wiki/Wythoff_construction" title="Wythoff construction">Wythoff</a></li></ul>
+</div></td></tr></table><div></div></td><td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg" class="image"><img alt="Marble floor mosaic Basilica of St Mark Vencice.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/90px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg" width="90" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/135px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/180px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg 2x" data-file-width="543" data-file-height="566" /></a><br/><br/>
+<a href="/wiki/File:2C_3_1979.JPG" class="image"><img alt="2C 3 1979.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/90px-2C_3_1979.JPG" width="90" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/135px-2C_3_1979.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/180px-2C_3_1979.JPG 2x" data-file-width="1562" data-file-height="1688" /></a></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tr><th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span><div style="font-size:110%"><a href="/wiki/Aperiodic_tiling" title="Aperiodic tiling">Aperiodic</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Ammann%E2%80%93Beenker_tiling" title="Ammann–Beenker tiling">Ammann–Beenker</a></li>
+<li> <a href="/wiki/Aperiodic_set_of_prototiles" title="Aperiodic set of prototiles">Aperiodic set of prototiles</a>
+<ul><li> <a href="/wiki/List_of_aperiodic_sets_of_tiles" title="List of aperiodic sets of tiles">List</a></li></ul></li>
+<li> <a href="/wiki/Einstein_problem" title="Einstein problem">Einstein problem</a>
+<ul><li> <a href="/wiki/Socolar%E2%80%93Taylor_tile" title="Socolar–Taylor tile">Socolar–Taylor</a></li></ul></li>
+<li> <a href="/wiki/Gilbert_tessellation" title="Gilbert tessellation">Gilbert</a></li>
+<li> <a href="/wiki/Penrose_tiling" title="Penrose tiling">Penrose</a></li>
+<li> <a href="/wiki/Pentagon_tiling" title="Pentagon tiling">Pentagon</a></li>
+<li> <a href="/wiki/Pinwheel_tiling" title="Pinwheel tiling">Pinwheel</a></li>
+<li> <a href="/wiki/Quaquaversal_tiling" title="Quaquaversal tiling">Quaquaversal</a></li>
+<li> <a href="/wiki/Rep-tile" title="Rep-tile">Rep-tile</a> &amp; <a href="/wiki/Self-tiling_tile_set" title="Self-tiling tile set">Self-tiling</a>
+<ul><li> <a href="/wiki/Sphinx_tiling" title="Sphinx tiling">Sphinx</a></li></ul></li>
+<li> <a href="/wiki/Truchet_tiles" title="Truchet tiles">Truchet</a></li></ul>
+</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tr><th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span><div style="font-size:110%">Other</div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Anisohedral_tiling" title="Anisohedral tiling">Anisohedral</a> &amp; <a href="/wiki/Isohedral_figure" title="Isohedral figure">Isohedral</a></li>
+<li> <a href="/wiki/Architectonic_and_catoptric_tessellation" title="Architectonic and catoptric tessellation">Architectonic &amp; catoptric</a></li>
+<li> <i><a href="/wiki/Circle_Limit_III" title="Circle Limit III">Circle Limit III</a></i></li>
+<li> <a href="/wiki/Tessellation_(computer_graphics)" title="Tessellation (computer graphics)">Computer graphics</a></li>
+<li> <a href="/wiki/Honeycomb_(geometry)" title="Honeycomb (geometry)">Honeycomb</a></li>
+<li> <a href="/wiki/List_of_isotoxal_polyhedra_and_tilings" title="List of isotoxal polyhedra and tilings">Isotoxal</a></li>
+<li> <a href="/wiki/Packing_problems" title="Packing problems">Packing</a></li>
+<li> Problems
+<ul><li> <a href="/wiki/Domino_problem" title="Domino problem" class="mw-redirect">Domino</a>
+<ul><li> <a href="/wiki/Wang_tile" title="Wang tile">Wang</a></li></ul></li>
+<li> <a href="/wiki/Heesch%27s_problem" title="Heesch&#39;s problem">Heesch's</a></li>
+<li> <a href="/wiki/Squaring_the_square" title="Squaring the square">Squaring</a></li></ul></li>
+<li> <strong class="selflink">Prototile</strong>
+<ul><li> <a href="/wiki/Conway_criterion" title="Conway criterion">Conway criterion</a></li>
+<li> <a href="/wiki/Girih_tiles" title="Girih tiles">Girih</a></li></ul></li>
+<li> <i><a href="/wiki/Regular_Division_of_the_Plane" title="Regular Division of the Plane">Regular Division of the Plane</a></i></li>
+<li> <a href="/wiki/Regular_grid" title="Regular grid">Regular grid</a></li>
+<li> <a href="/wiki/Substitution_tiling" title="Substitution tiling">Substitution</a></li>
+<li> <a href="/wiki/Voronoi_diagram" title="Voronoi diagram">Voronoi</a></li></ul>
+</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tr><th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span><div style="font-size:110%">By <a href="/wiki/Vertex_configuration" title="Vertex configuration">vertex type</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;"><div style="padding:0em 0.75em;"><a href="/wiki/Spherical_polyhedron" title="Spherical polyhedron">Spherical</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Hosohedron" title="Hosohedron">2<sup>n</sup></a></li>
+<li> <a href="/wiki/Antiprism" title="Antiprism">3<sup>3</sup>.n</a></li>
+<li> <a href="/wiki/Trapezohedron" title="Trapezohedron">V3<sup>3</sup>.n</a></li>
+<li> <a href="/wiki/Prism_(geometry)" title="Prism (geometry)">4<sup>2</sup>.n</a></li>
+<li> <a href="/wiki/Bipyramid" title="Bipyramid">V4<sup>2</sup>.n</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;"><div style="padding:0em 0.75em;">Regular</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Apeirogonal_hosohedron" title="Apeirogonal hosohedron">2<sup>∞</sup></a></li>
+<li> <a href="/wiki/Triangular_tiling" title="Triangular tiling">3<sup>6</sup></a></li>
+<li> <a href="/wiki/Square_tiling" title="Square tiling">4<sup>4</sup></a></li>
+<li> <a href="/wiki/Hexagonal_tiling" title="Hexagonal tiling">6<sup>3</sup></a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;"><div style="padding:0em 0.75em;">Semi-<br/>regular</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Snub_square_tiling" title="Snub square tiling">3<sup>2</sup>.4.3.4</a></li>
+<li> <a href="/wiki/Cairo_pentagonal_tiling" title="Cairo pentagonal tiling">V3<sup>2</sup>.4.3.4</a></li>
+<li> <a href="/wiki/Elongated_triangular_tiling" title="Elongated triangular tiling">3<sup>3</sup>.4<sup>2</sup></a></li>
+<li> <a href="/wiki/Apeirogonal_antiprism" title="Apeirogonal antiprism">3<sup>3</sup>.∞</a></li>
+<li> <a href="/wiki/Snub_trihexagonal_tiling" title="Snub trihexagonal tiling">3<sup>4</sup>.6</a></li>
+<li> <a href="/wiki/Floret_pentagonal_tiling" title="Floret pentagonal tiling" class="mw-redirect">V3<sup>4</sup>.6</a></li>
+<li> <a href="/wiki/Rhombitrihexagonal_tiling" title="Rhombitrihexagonal tiling">3.4.6.4</a></li>
+<li> <a href="/wiki/Trihexagonal_tiling" title="Trihexagonal tiling">(3.6)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_hexagonal_tiling" title="Truncated hexagonal tiling">3.12<sup>2</sup></a></li>
+<li> <a href="/wiki/Apeirogonal_prism" title="Apeirogonal prism">4<sup>2</sup>.∞</a></li>
+<li> <a href="/wiki/Truncated_trihexagonal_tiling" title="Truncated trihexagonal tiling">4.6.12</a></li>
+<li> <a href="/wiki/Truncated_square_tiling" title="Truncated square tiling">4.8<sup>2</sup></a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;"><div style="padding:0em 0.75em;"><a href="/wiki/Uniform_tilings_in_hyperbolic_plane" title="Uniform tilings in hyperbolic plane">Hyper-<br/>bolic</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Snub_tetrapentagonal_tiling" title="Snub tetrapentagonal tiling">3<sup>2</sup>.4.3.5</a></li>
+<li> <a href="/wiki/Snub_tetrahexagonal_tiling" title="Snub tetrahexagonal tiling">3<sup>2</sup>.4.3.6</a></li>
+<li> <a href="/wiki/Snub_tetraheptagonal_tiling" title="Snub tetraheptagonal tiling">3<sup>2</sup>.4.3.7</a></li>
+<li> <a href="/wiki/Snub_tetraoctagonal_tiling" title="Snub tetraoctagonal tiling">3<sup>2</sup>.4.3.8</a></li>
+<li> <a href="/wiki/Snub_tetraapeirogonal_tiling" title="Snub tetraapeirogonal tiling">3<sup>2</sup>.4.3.∞</a></li>
+<li> <a href="/wiki/Snub_pentapentagonal_tiling" title="Snub pentapentagonal tiling">3<sup>2</sup>.5.3.5</a></li>
+<li> <a href="/wiki/Snub_pentahexagonal_tiling" title="Snub pentahexagonal tiling">3<sup>2</sup>.5.3.6</a></li>
+<li> <a href="/wiki/Snub_hexahexagonal_tiling" title="Snub hexahexagonal tiling">3<sup>2</sup>.6.3.6</a></li>
+<li> <a href="/wiki/Snub_hexaoctagonal_tiling" title="Snub hexaoctagonal tiling">3<sup>2</sup>.6.3.8</a></li>
+<li> <a href="/wiki/Snub_heptaheptagonal_tiling" title="Snub heptaheptagonal tiling">3<sup>2</sup>.7.3.7</a></li>
+<li> <a href="/wiki/Snub_octaoctagonal_tiling" title="Snub octaoctagonal tiling">3<sup>2</sup>.8.3.8</a></li>
+<li> <a href="/wiki/Snub_order-6_square_tiling" title="Snub order-6 square tiling">3<sup>3</sup>.4.3.4</a></li>
+<li> <a href="/wiki/Snub_apeiroapeirogonal_tiling" title="Snub apeiroapeirogonal tiling">3<sup>2</sup>.∞.3.∞</a></li>
+<li> <a href="/wiki/Snub_triheptagonal_tiling" title="Snub triheptagonal tiling">3<sup>4</sup>.7</a></li>
+<li> <a href="/wiki/Snub_trioctagonal_tiling" title="Snub trioctagonal tiling">3<sup>4</sup>.8</a></li>
+<li> <a href="/wiki/Snub_triapeirogonal_tiling" title="Snub triapeirogonal tiling">3<sup>4</sup>.∞</a></li>
+<li> <a href="/wiki/Snub_order-8_triangular_tiling" title="Snub order-8 triangular tiling">3<sup>5</sup>.4</a></li>
+<li> <a href="/wiki/Order-7_triangular_tiling" title="Order-7 triangular tiling">3<sup>7</sup></a></li>
+<li> <a href="/wiki/Order-8_triangular_tiling" title="Order-8 triangular tiling">3<sup>8</sup></a></li>
+<li> <a href="/wiki/Infinite-order_triangular_tiling" title="Infinite-order triangular tiling">3<sup>∞</sup></a></li>
+<li> <a href="/wiki/Alternated_octagonal_tiling" title="Alternated octagonal tiling">(3.4)<sup>3</sup></a></li>
+<li> <a href="/wiki/Alternated_order-4_hexagonal_tiling" title="Alternated order-4 hexagonal tiling">(3.4)<sup>4</sup></a></li>
+<li> <a href="/wiki/Quarter_order-6_square_tiling" title="Quarter order-6 square tiling">3.4.6<sup>2</sup>.4</a></li>
+<li> <a href="/wiki/Rhombitriheptagonal_tiling" title="Rhombitriheptagonal tiling">3.4.7.4</a></li>
+<li> <a href="/wiki/Rhombitrioctagonal_tiling" title="Rhombitrioctagonal tiling">3.4.8.4</a></li>
+<li> <a href="/wiki/Rhombitriapeirogonal_tiling" title="Rhombitriapeirogonal tiling">3.4.∞.4</a></li>
+<li> <a href="/wiki/Cantic_octagonal_tiling" title="Cantic octagonal tiling">3.6.4.6</a></li>
+<li> <a href="/wiki/Triheptagonal_tiling" title="Triheptagonal tiling">(3.7)<sup>2</sup></a></li>
+<li> <a href="/wiki/Trioctagonal_tiling" title="Trioctagonal tiling">(3.8)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_heptagonal_tiling" title="Truncated heptagonal tiling">3.14<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_octagonal_tiling" title="Truncated octagonal tiling">3.16<sup>2</sup></a></li>
+<li> <a href="/wiki/Triapeirogonal_tiling" title="Triapeirogonal tiling">(3.∞)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-3_apeirogonal_tiling" title="Truncated order-3 apeirogonal tiling">3.∞<sup>2</sup></a></li>
+<li> <a href="/wiki/Rhombitetrapentagonal_tiling" title="Rhombitetrapentagonal tiling">4<sup>2</sup>.5.4</a></li>
+<li> <a href="/wiki/Rhombitetrahexagonal_tiling" title="Rhombitetrahexagonal tiling">4<sup>2</sup>.6.4</a></li>
+<li> <a href="/wiki/Rhombitetraheptagonal_tiling" title="Rhombitetraheptagonal tiling">4<sup>2</sup>.7.4</a></li>
+<li> <a href="/wiki/Rhombitetraoctagonal_tiling" title="Rhombitetraoctagonal tiling">4<sup>2</sup>.8.4</a></li>
+<li> <a href="/wiki/Rhombitetraapeirogonal_tiling" title="Rhombitetraapeirogonal tiling">4<sup>2</sup>.∞.4</a></li>
+<li> <a href="/wiki/Order-5_square_tiling" title="Order-5 square tiling">4<sup>5</sup></a></li>
+<li> <a href="/wiki/Order-6_square_tiling" title="Order-6 square tiling">4<sup>6</sup></a></li>
+<li> <a href="/wiki/Order-7_square_tiling" title="Order-7 square tiling">4<sup>7</sup></a></li>
+<li> <a href="/wiki/Order-8_square_tiling" title="Order-8 square tiling">4<sup>8</sup></a></li>
+<li> <a href="/wiki/Infinite-order_square_tiling" title="Infinite-order square tiling">4<sup>∞</sup></a></li>
+<li> <a href="/wiki/Tetrapentagonal_tiling" title="Tetrapentagonal tiling">(4.5)<sup>2</sup></a></li>
+<li> <a href="/wiki/Tetrahexagonal_tiling" title="Tetrahexagonal tiling">(4.6)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_trihexagonal_tiling" title="Truncated trihexagonal tiling">4.6.12</a></li>
+<li> <a href="/wiki/Truncated_triheptagonal_tiling" title="Truncated triheptagonal tiling">4.6.14</a></li>
+<li> <a href="/wiki/Order_3-7_kisrhombille" title="Order 3-7 kisrhombille">V4.6.14</a></li>
+<li> <a href="/wiki/Truncated_trioctagonal_tiling" title="Truncated trioctagonal tiling">4.6.16</a></li>
+<li> <a href="/wiki/Order_3-8_kisrhombille" title="Order 3-8 kisrhombille" class="mw-redirect">V4.6.16</a></li>
+<li> <a href="/wiki/Truncated_triapeirogonal_tiling" title="Truncated triapeirogonal tiling">4.6.∞</a></li>
+<li> <a href="/wiki/Tetraheptagonal_tiling" title="Tetraheptagonal tiling">(4.7)<sup>2</sup></a></li>
+<li> <a href="/wiki/Tetraoctagonal_tiling" title="Tetraoctagonal tiling">(4.8)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_tetrapentagonal_tiling" title="Truncated tetrapentagonal tiling">4.8.10</a></li>
+<li> <a href="/wiki/4-5_kisrhombille" title="4-5 kisrhombille">V4.8.10</a></li>
+<li> <a href="/wiki/Truncated_tetrahexagonal_tiling" title="Truncated tetrahexagonal tiling">4.8.12</a></li>
+<li> <a href="/wiki/Truncated_tetraheptagonal_tiling" title="Truncated tetraheptagonal tiling">4.8.14</a></li>
+<li> <a href="/wiki/Truncated_tetraoctagonal_tiling" title="Truncated tetraoctagonal tiling">4.8.16</a></li>
+<li> <a href="/wiki/Truncated_tetraapeirogonal_tiling" title="Truncated tetraapeirogonal tiling">4.8.∞</a></li>
+<li> <a href="/wiki/Truncated_order-4_pentagonal_tiling" title="Truncated order-4 pentagonal tiling">4.10<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_pentahexagonal_tiling" title="Truncated pentahexagonal tiling">4.10.12</a></li>
+<li> <a href="/wiki/Truncated_order-4_hexagonal_tiling" title="Truncated order-4 hexagonal tiling">4.12<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_hexaoctagonal_tiling" title="Truncated hexaoctagonal tiling">4.12.16</a></li>
+<li> <a href="/wiki/Truncated_order-4_heptagonal_tiling" title="Truncated order-4 heptagonal tiling">4.14<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-4_octagonal_tiling" title="Truncated order-4 octagonal tiling">4.16<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-4_apeirogonal_tiling" title="Truncated order-4 apeirogonal tiling">4.∞<sup>2</sup></a></li>
+<li> <a href="/wiki/Tetraapeirogonal_tiling" title="Tetraapeirogonal tiling">(4.∞)<sup>2</sup></a></li>
+<li> <a href="/wiki/Order-4_pentagonal_tiling" title="Order-4 pentagonal tiling">5<sup>4</sup></a></li>
+<li> <a href="/wiki/Order-5_pentagonal_tiling" title="Order-5 pentagonal tiling">5<sup>5</sup></a></li>
+<li> <a href="/wiki/Order-6_pentagonal_tiling" title="Order-6 pentagonal tiling">5<sup>6</sup></a></li>
+<li> <a href="/wiki/Infinite-order_pentagonal_tiling" title="Infinite-order pentagonal tiling">5<sup>∞</sup></a></li>
+<li> <a href="/wiki/Rhombipentahexagonal_tiling" title="Rhombipentahexagonal tiling">5.4.6.4</a></li>
+<li> <a href="/wiki/Pentahexagonal_tiling" title="Pentahexagonal tiling">(5.6)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-5_square_tiling" title="Truncated order-5 square tiling">5.8<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-5_pentagonal_tiling" title="Truncated order-5 pentagonal tiling">5.10<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-5_hexagonal_tiling" title="Truncated order-5 hexagonal tiling">5.12<sup>2</sup></a></li>
+<li> <a href="/wiki/Pentaapeirogonal_tiling" title="Pentaapeirogonal tiling">(5.∞)<sup>2</sup></a></li>
+<li> <a href="/wiki/Order-4_hexagonal_tiling" title="Order-4 hexagonal tiling">6<sup>4</sup></a></li>
+<li> <a href="/wiki/Order-5_hexagonal_tiling" title="Order-5 hexagonal tiling">6<sup>5</sup></a></li>
+<li> <a href="/wiki/Order-6_hexagonal_tiling" title="Order-6 hexagonal tiling">6<sup>6</sup></a></li>
+<li> <a href="/wiki/Order-8_hexagonal_tiling" title="Order-8 hexagonal tiling">6<sup>8</sup></a></li>
+<li> <a href="/wiki/Rhombihexaoctagonal_tiling" title="Rhombihexaoctagonal tiling">6.4.8.4</a></li>
+<li> <a href="/wiki/Hexaoctagonal_tiling" title="Hexaoctagonal tiling">(6.8)<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-6_square_tiling" title="Truncated order-6 square tiling">6.8<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-6_pentagonal_tiling" title="Truncated order-6 pentagonal tiling">6.10<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-6_hexagonal_tiling" title="Truncated order-6 hexagonal tiling">6.12<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-6_octagonal_tiling" title="Truncated order-6 octagonal tiling">6.16<sup>2</sup></a></li>
+<li> <a href="/wiki/Heptagonal_tiling" title="Heptagonal tiling">7<sup>3</sup></a></li>
+<li> <a href="/wiki/Order-4_heptagonal_tiling" title="Order-4 heptagonal tiling">7<sup>4</sup></a></li>
+<li> <a href="/wiki/Order-7_heptagonal_tiling" title="Order-7 heptagonal tiling">7<sup>7</sup></a></li>
+<li> <a href="/wiki/Truncated_order-7_triangular_tiling" title="Truncated order-7 triangular tiling">7.6<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-7_square_tiling" title="Truncated order-7 square tiling">7.8<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-7_heptagonal_tiling" title="Truncated order-7 heptagonal tiling">7.14<sup>2</sup></a></li>
+<li> <a href="/wiki/Octagonal_tiling" title="Octagonal tiling">8<sup>3</sup></a></li>
+<li> <a href="/wiki/Order-4_octagonal_tiling" title="Order-4 octagonal tiling">8<sup>4</sup></a></li>
+<li> <a href="/wiki/Order-6_octagonal_tiling" title="Order-6 octagonal tiling">8<sup>6</sup></a></li>
+<li> <a href="/wiki/Order-8_octagonal_tiling" title="Order-8 octagonal tiling">8<sup>8</sup></a></li>
+<li> <a href="/wiki/Truncated_order-8_hexagonal_tiling" title="Truncated order-8 hexagonal tiling">8<sup>12</sup></a></li>
+<li> <a href="/wiki/Truncated_order-8_triangular_tiling" title="Truncated order-8 triangular tiling">8.6<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_order-8_octagonal_tiling" title="Truncated order-8 octagonal tiling">8.16<sup>2</sup></a></li>
+<li> <a href="/wiki/Order-3_apeirogonal_tiling" title="Order-3 apeirogonal tiling">∞<sup>3</sup></a></li>
+<li> <a href="/wiki/Order-4_apeirogonal_tiling" title="Order-4 apeirogonal tiling">∞<sup>4</sup></a></li>
+<li> <a href="/wiki/Order-5_apeirogonal_tiling" title="Order-5 apeirogonal tiling">∞<sup>5</sup></a></li>
+<li> <a href="/wiki/Infinite-order_apeirogonal_tiling" title="Infinite-order apeirogonal tiling">∞<sup>∞</sup></a></li>
+<li> <a href="/wiki/Truncated_infinite-order_triangular_tiling" title="Truncated infinite-order triangular tiling">∞.6<sup>2</sup></a></li>
+<li> <a href="/wiki/Truncated_infinite-order_square_tiling" title="Truncated infinite-order square tiling">∞.8<sup>2</sup></a></li></ul>
+</div></td></tr></table><div></div></td></tr></table><div></div></td></tr></table></td></tr></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tr><td><a href="/wiki/File:Dodecahedron.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/30px-Dodecahedron.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/45px-Dodecahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/60px-Dodecahedron.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td><td><i>This <a href="/wiki/Geometry" title="Geometry">geometry-related</a> article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Prototile&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Geometry-stub" title="Template:Geometry-stub"><span title="View this template">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Geometry-stub" title="Template talk:Geometry-stub"><span title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geometry-stub&amp;action=edit"><span title="Edit this template">e</span></a></li></ul></div></td></tr></table>

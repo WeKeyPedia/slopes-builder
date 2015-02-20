@@ -1,0 +1,269 @@
+﻿---
+lastrevid: 636828005
+pageid: 39792
+canonicalurl: http://en.wikipedia.org/wiki/3-sphere
+title: 3-sphere
+editurl: http://en.wikipedia.org/w/index.php?title=3-sphere&action=edit
+length: 24303
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-15T16:41:55Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/3-sphere
+---
+
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/wiki/File:Hypersphere_coord.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/3/32/Hypersphere_coord.PNG" width="320" height="425" class="thumbimage" data-file-width="320" data-file-height="425" /></a>  <div class="thumbcaption"><a href="/wiki/Stereographic_projection" title="Stereographic projection">Stereographic projection</a> of the hypersphere's parallels (red), <a href="/wiki/Meridian_(perimetry,_visual_field)" title="Meridian (perimetry, visual field)">meridians</a> (blue) and hypermeridians (green).  Because this projection is <a href="/wiki/Conformal_map" title="Conformal map">conformal</a>, the curves intersect each other orthogonally (in the yellow points) as in 4D.  All curves are circles: the curves that intersect &lt;0,0,0,1&gt; have infinite radius (= straight line).</div></div></div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>3-sphere</b> is a higher-dimensional analogue of a <a href="/wiki/Sphere" title="Sphere">sphere</a>. It consists of the set of points equidistant from a fixed central point in 4-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>. Just as an ordinary sphere (or 2-sphere) is a two-dimensional <a href="/wiki/Surface" title="Surface">surface</a> that forms the boundary of a <a href="/wiki/Ball_(mathematics)" title="Ball (mathematics)">ball</a> in three dimensions, a 3-sphere is an object with three <a href="/wiki/Dimension" title="Dimension">dimensions</a> that forms the boundary of a ball in four dimensions. A 3-sphere is an example of a <a href="/wiki/3-manifold" title="3-manifold">3-manifold</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Properties"><span class="tocnumber">2</span> <span class="toctext">Properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Elementary_properties"><span class="tocnumber">2.1</span> <span class="toctext">Elementary properties</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Topological_properties"><span class="tocnumber">2.2</span> <span class="toctext">Topological properties</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Geometric_properties"><span class="tocnumber">2.3</span> <span class="toctext">Geometric properties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Topological_construction"><span class="tocnumber">3</span> <span class="toctext">Topological construction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Gluing"><span class="tocnumber">3.1</span> <span class="toctext">Gluing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#One-point_compactification"><span class="tocnumber">3.2</span> <span class="toctext">One-point compactification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Coordinate_systems_on_the_3-sphere"><span class="tocnumber">4</span> <span class="toctext">Coordinate systems on the 3-sphere</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Hyperspherical_coordinates"><span class="tocnumber">4.1</span> <span class="toctext">Hyperspherical coordinates</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Hopf_coordinates"><span class="tocnumber">4.2</span> <span class="toctext">Hopf coordinates</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Stereographic_coordinates"><span class="tocnumber">4.3</span> <span class="toctext">Stereographic coordinates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Group_structure"><span class="tocnumber">5</span> <span class="toctext">Group structure</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#In_literature"><span class="tocnumber">6</span> <span class="toctext">In literature</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Coordinates" title="Coordinates" class="mw-redirect">coordinates</a>, a 3-sphere with center (<i>C</i><sub>0</sub>,&#160;<i>C</i><sub>1</sub>,&#160;<i>C</i><sub>2</sub>,&#160;<i>C</i><sub>3</sub>) and radius <i>r</i> is the set of all points (<i>x</i><sub>0</sub>,&#160;<i>x</i><sub>1</sub>,&#160;<i>x</i><sub>2</sub>,&#160;<i>x</i><sub>3</sub>) in real, <a href="/wiki/Four-dimensional_space" title="Four-dimensional space">4-dimensional space</a> (<b>R</b><sup>4</sup>) such that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\sum_{i=0}^3(x_i - C_i)^2 = ( x_0 - C_0 )^2 + ( x_1 - C_1 )^2 + ( x_2 - C_2 )^2+ ( x_3 - C_3 )^2 = r^2." src="//upload.wikimedia.org/math/c/7/f/c7f37df2dcc626f4e56bac551772ec77.png" /></dd></dl>
+<p>The 3-sphere centered at the origin with radius 1 is called the <b>unit 3-sphere</b> and is usually denoted <i>S</i><sup>3</sup>:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="S^3 = \left\{(x_0,x_1,x_2,x_3)\in\mathbb{R}^4 : x_0^2 + x_1^2 + x_2^2 + x_3^2 = 1\right\}." src="//upload.wikimedia.org/math/4/4/e/44e3291015acafcf0b28ec6d82902820.png" /></dd></dl>
+<p>It is often convenient to regard <b>R</b><sup>4</sup> as the space with 2 <a href="/wiki/Complex_numbers" title="Complex numbers" class="mw-redirect">complex dimensions</a> (<b>C</b><sup>2</sup>) or the <a href="/wiki/Quaternion" title="Quaternion">quaternions</a> (<b>H</b>). The unit 3-sphere is then given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="S^3 = \left\{(z_1,z_2)\in\mathbb{C}^2 : |z_1|^2 + |z_2|^2 = 1\right\}" src="//upload.wikimedia.org/math/6/e/5/6e5ac3176939d951b9e82af9e5722cde.png" /></dd></dl>
+<p>or
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="S^3 = \left\{q\in\mathbb{H} : ||q|| = 1\right\}." src="//upload.wikimedia.org/math/8/2/b/82b99be5fcabe8181a0d3102e7d6d1af.png" /></dd></dl>
+<p>This description as the <a href="/wiki/Quaternion" title="Quaternion">quaternions</a> of <a href="/wiki/Quaternion#Conjugation.2C_the_norm.2C_and_reciprocation" title="Quaternion">norm</a> one, identifies the 3-sphere with the <a href="/wiki/Versor" title="Versor">versors</a> in the quaternion <a href="/wiki/Division_ring" title="Division ring">division ring</a>. Just as the <a href="/wiki/Unit_circle" title="Unit circle">unit circle</a> is important for planar <a href="/wiki/Polar_coordinates#Complex_numbers" title="Polar coordinates" class="mw-redirect">polar coordinates</a>, so the 3-sphere is important in the polar view of 4-space involved in quaternion multiplication. See <a href="/wiki/Polar_decomposition#Quaternion_polar_decomposition" title="Polar decomposition">polar decomposition of a quaternion</a> for details of this development of the three-sphere.
+This view of the 3-sphere is the basis for the study of <a href="/wiki/Elliptic_geometry#Elliptic_space" title="Elliptic geometry">elliptic space</a> as developed by <a href="/wiki/Georges_Lema%C3%AEtre" title="Georges Lemaître">Georges Lemaître</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=2" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Elementary_properties">Elementary properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=3" title="Edit section: Elementary properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 3-dimensional cubic <i>hyperarea</i> of a 3-sphere of radius <i>r</i> is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="2\pi^2 r^3 \," src="//upload.wikimedia.org/math/2/7/1/271cc4cde8cc561040abafe4d5724817.png" /></dd></dl>
+<p>while the 4-dimensional quartic <i>hypervolume</i> (the volume of the 4-dimensional region bounded by the 3-sphere) is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\begin{matrix} \frac{1}{2} \end{matrix} \pi^2 r^4." src="//upload.wikimedia.org/math/0/f/1/0f1d2ea43da464806315e2b07e0b1f37.png" /></dd></dl>
+<p>Every non-empty intersection of a 3-sphere with a three-dimensional <a href="/wiki/Hyperplane" title="Hyperplane">hyperplane</a> is a 2-sphere (unless the hyperplane is tangent to the 3-sphere, in which case the intersection is a single point). As a 3-sphere moves through a given three-dimensional hyperplane, the intersection starts out as a point, then becomes a growing 2-sphere that reaches its maximal size when the hyperplane cuts right through the "equator" of the 3-sphere. Then the 2-sphere shrinks again down to a single point as the 3-sphere leaves the hyperplane.
+</p>
+<h3><span class="mw-headline" id="Topological_properties">Topological properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=4" title="Edit section: Topological properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A 3-sphere is a <a href="/wiki/Compact_space" title="Compact space">compact</a>, <a href="/wiki/Connected_space" title="Connected space">connected</a>, 3-dimensional <a href="/wiki/Manifold" title="Manifold">manifold</a> without boundary. It is also <a href="/wiki/Simply_connected" title="Simply connected" class="mw-redirect">simply connected</a>. What this means, in the broad sense, is that any loop, or circular path, on the 3-sphere can be continuously shrunk to a point without leaving the 3-sphere. The <a href="/wiki/Poincar%C3%A9_conjecture" title="Poincaré conjecture">Poincaré conjecture</a>, proved in 2003 by <a href="/wiki/Grigori_Perelman" title="Grigori Perelman">Grigori Perelman</a>, provides that the 3-sphere is the only three-dimensional manifold (up to <a href="/wiki/Homeomorphism" title="Homeomorphism">homeomorphism</a>) with these properties.
+</p><p>The 3-sphere is homeomorphic to the <a href="/wiki/One-point_compactification" title="One-point compactification" class="mw-redirect">one-point compactification</a> of <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}^3" src="//upload.wikimedia.org/math/4/3/2/4323e25409ba6e2046668f8fc174381a.png" />. In general, any <a href="/wiki/Topological_space" title="Topological space">topological space</a> that is homeomorphic to the 3-sphere is called a <b>topological 3-sphere</b>.
+</p><p>The <a href="/wiki/Homology_group" title="Homology group" class="mw-redirect">homology groups</a> of the 3-sphere are as follows: H<sub>0</sub>(S<sup>3</sup>,<b>Z</b>) and H<sub>3</sub>(S<sup>3</sup>,<b>Z</b>) are both <a href="/wiki/Infinite_cyclic" title="Infinite cyclic" class="mw-redirect">infinite cyclic</a>, while H<sub>i</sub>(S<sup>3</sup>,<b>Z</b>) = {0} for all other indices <i>i</i>. Any topological space with these homology groups is known as a <a href="/wiki/Homology_sphere" title="Homology sphere">homology 3-sphere</a>. Initially <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a> conjectured that all homology 3-spheres are homeomorphic to S<sup>3</sup>, but then he himself constructed a non-homeomorphic one, now known as the <a href="/wiki/Poincar%C3%A9_homology_sphere" title="Poincaré homology sphere" class="mw-redirect">Poincaré homology sphere</a>. Infinitely many homology spheres are now known to exist. For example, a <a href="/wiki/Dehn_filling" title="Dehn filling" class="mw-redirect">Dehn filling</a> with slope 1/n on any <a href="/wiki/Knot_theory" title="Knot theory">knot</a> in the three-sphere gives a homology sphere; typically these are not homeomorphic to the three-sphere.
+</p><p>As to the <a href="/wiki/Homotopy_groups" title="Homotopy groups" class="mw-redirect">homotopy groups</a>, we have π<sub>1</sub>(S<sup>3</sup>) = π<sub>2</sub>(S<sup>3</sup>) = {0} and π<sub>3</sub>(S<sup>3</sup>) is infinite cyclic. The higher-homotopy groups (<i>k</i> ≥ 4) are all <a href="/wiki/Finite_abelian_group" title="Finite abelian group" class="mw-redirect">finite abelian</a> but otherwise follow no discernible pattern. For more discussion see <a href="/wiki/Homotopy_groups_of_spheres" title="Homotopy groups of spheres">homotopy groups of spheres</a>.
+</p>
+<table class="wikitable" style="text-align: center; margin: auto;">
+<caption><b>Homotopy groups of <i>S</i><sup>3</sup></b>
+</caption>
+<tr>
+<td> <i>k</i>
+</td>
+<td> 0 </td>
+<td> 1 </td>
+<td> 2 </td>
+<td> 3 </td>
+<td> 4 </td>
+<td> 5 </td>
+<td> 6 </td>
+<td> 7 </td>
+<td> 8 </td>
+<td> 9 </td>
+<td> 10 </td>
+<td> 11 </td>
+<td> 12 </td>
+<td> 13 </td>
+<td> 14 </td>
+<td> 15 </td>
+<td> 16
+</td></tr>
+<tr>
+<td> π<sub><i>k</i></sub>(<i>S</i><sup>3</sup>)
+</td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> <b>Z</b> </td>
+<td> <b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>12</sub> </td>
+<td> <b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>3</sub> </td>
+<td> <b>Z</b><sub>15</sub> </td>
+<td> <b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>2</sub>⊕<b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>12</sub>⊕<b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>84</sub>⊕<b>Z</b><sub>2</sub>⊕<b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>2</sub>⊕<b>Z</b><sub>2</sub> </td>
+<td> <b>Z</b><sub>6</sub>
+</td></tr></table>
+<h3><span class="mw-headline" id="Geometric_properties">Geometric properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=5" title="Edit section: Geometric properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 3-sphere is naturally a <a href="/wiki/Smooth_manifold" title="Smooth manifold" class="mw-redirect">smooth manifold</a>, in fact, a closed <a href="/wiki/Embedded_submanifold" title="Embedded submanifold" class="mw-redirect">embedded submanifold</a> of <b>R</b><sup>4</sup>. The <a href="/wiki/Euclidean_metric" title="Euclidean metric" class="mw-redirect">Euclidean metric</a> on <b>R</b><sup>4</sup> induces a <a href="/wiki/Metric_tensor" title="Metric tensor">metric</a> on the 3-sphere giving it the structure of a <a href="/wiki/Riemannian_manifold" title="Riemannian manifold">Riemannian manifold</a>. As with all spheres, the 3-sphere has constant positive <a href="/wiki/Sectional_curvature" title="Sectional curvature">sectional curvature</a> equal to 1/<i>r</i><sup>2</sup> where <i>r</i> is the radius.
+</p><p>Much of the interesting geometry of the 3-sphere stems from the fact that the 3-sphere has a natural <a href="/wiki/Lie_group" title="Lie group">Lie group</a> structure given by quaternion multiplication (see the section below on <a href="#Group_structure">group structure</a>). The only other spheres with such a structure are the 0-sphere and the 1-sphere (see <a href="/wiki/Circle_group" title="Circle group">circle group</a>).
+</p><p>Unlike the 2-sphere, the 3-sphere admits nonvanishing <a href="/wiki/Vector_field" title="Vector field">vector fields</a> (<a href="/wiki/Section_(fiber_bundle)" title="Section (fiber bundle)">sections</a> of its <a href="/wiki/Tangent_bundle" title="Tangent bundle">tangent bundle</a>). One can even find three linearly independent and nonvanishing vector fields. These may be taken to be any left-invariant vector fields forming a basis for the <a href="/wiki/Lie_algebra" title="Lie algebra">Lie algebra</a> of the 3-sphere. This implies that the 3-sphere is <a href="/wiki/Parallelizable_manifold" title="Parallelizable manifold">parallelizable</a>. It follows that the tangent bundle of the 3-sphere is <a href="/wiki/Trivial_bundle" title="Trivial bundle" class="mw-redirect">trivial</a>. For a general discussion of the number of linear independent vector fields on a <i>n</i>-sphere, see the article <a href="/wiki/Vector_fields_on_spheres" title="Vector fields on spheres">vector fields on spheres</a>.
+</p><p>There is an interesting <a href="/wiki/Group_action" title="Group action">action</a> of the <a href="/wiki/Circle_group" title="Circle group">circle group</a> <b>T</b> on <i>S</i><sup>3</sup> giving the 3-sphere the structure of a <a href="/wiki/Principal_circle_bundle" title="Principal circle bundle" class="mw-redirect">principal circle bundle</a> known as the <a href="/wiki/Hopf_bundle" title="Hopf bundle" class="mw-redirect">Hopf bundle</a>. If one thinks of <i>S</i><sup>3</sup> as a subset of <b>C</b><sup>2</sup>, the action is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="(z_1,z_2)\cdot\lambda = (z_1\lambda,z_2\lambda)\quad \forall\lambda\in\mathbb T" src="//upload.wikimedia.org/math/1/e/0/1e074a4543e64b04c479008d1ed576ec.png" />.</dd></dl>
+<p>The <a href="/wiki/Orbit_space" title="Orbit space" class="mw-redirect">orbit space</a> of this action is homeomorphic to the two-sphere <i>S</i><sup>2</sup>. Since <i>S</i><sup>3</sup> is not homeomorphic to <i>S</i><sup>2</sup>×<i>S</i><sup>1</sup>, the Hopf bundle is nontrivial.
+</p>
+<h2><span class="mw-headline" id="Topological_construction">Topological construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=6" title="Edit section: Topological construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several well-known constructions of the three-sphere.  Here we describe gluing a pair of three-balls and then the one-point compactification.
+</p>
+<h3><span class="mw-headline" id="Gluing">Gluing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=7" title="Edit section: Gluing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A 3-sphere can be constructed <a href="/wiki/Topology" title="Topology">topologically</a> by <a href="/wiki/Quotient_space_(topology)" title="Quotient space (topology)">"gluing" together</a> the boundaries of a pair of 3-balls. The boundary of a 3-ball is a 2-sphere, and these two 2-spheres are to be identified.  That is, imagine a pair of 3-balls of the same size, then superpose them so that their 2-spherical boundaries match, and let matching pairs of points on the pair of 2-spheres be identically equivalent to each other.  In analogy with the case of the 2-sphere (see below), the gluing surface is called an equatorial sphere. 
+</p><p>Note that the interiors of the 3-balls are not glued to each other.  One way to think of the fourth dimension is as a continuous real-valued function of the 3-dimensional coordinates of the 3-ball, perhaps considered to be "temperature".  We take the "temperature" to be zero along the gluing 2-sphere and let one of the 3-balls be "hot" and let the other 3-ball be "cold". The "hot" 3-ball could be thought of as the "upper hemisphere" and the "cold" 3-ball could be thought of as the "lower hemisphere". The temperature is highest/lowest at the centers of the two 3-balls.
+</p><p>This construction is analogous to a construction of a 2-sphere, performed by gluing the boundaries of a pair of disks. A disk is a 2-ball, and the boundary of a disk is a circle (a 1-sphere). Let a pair of disks be of the same diameter.  Superpose them and glue corresponding points on their boundaries.  Again one may think of the third dimension as temperature.  Likewise, we may inflate the 2-sphere, moving the pair of disks to become the northern and southern hemispheres.
+</p>
+<h3><span class="mw-headline" id="One-point_compactification">One-point compactification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=8" title="Edit section: One-point compactification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After removing a single point from the 2-sphere, what remains is homeomorphic to the Euclidean plane. In the same way, removing a single point from the 3-sphere yields three-dimensional space. 
+An extremely useful way to see this is via <a href="/wiki/Stereographic_projection" title="Stereographic projection">stereographic projection</a>. We first describe the lower-dimensional version. 
+</p><p>Rest the south pole of a unit 2-sphere on the xy-plane in three-space.  We map a point <img class="mwe-math-fallback-image-inline tex" alt="p" src="//upload.wikimedia.org/math/8/3/8/83878c91171338902e0fe0fb97a8c47a.png" /> of the sphere (minus the north pole <img class="mwe-math-fallback-image-inline tex" alt="N" src="//upload.wikimedia.org/math/8/d/9/8d9c307cb7f3c4a32822a51922d1ceaa.png" />) to the plane by sending <img class="mwe-math-fallback-image-inline tex" alt="p" src="//upload.wikimedia.org/math/8/3/8/83878c91171338902e0fe0fb97a8c47a.png" /> to the intersection of the line <img class="mwe-math-fallback-image-inline tex" alt="Np" src="//upload.wikimedia.org/math/8/e/8/8e8c3fbcf8669ad9e7719b7af696b408.png" /> with the plane.  Stereographic projection of a 3-sphere (again removing the north pole) maps to three-space in the same manner.  (Notice that, since stereographic projection is <a href="/wiki/Conformal_map_projection" title="Conformal map projection" class="mw-redirect">conformal</a>, round spheres are sent to round spheres or to planes.) 
+</p><p>A somewhat different way to think of the one-point compactification is via the <a href="/w/index.php?title=Exponential_map_(Riemmanian_geometry)&amp;action=edit&amp;redlink=1" class="new" title="Exponential map (Riemmanian geometry) (page does not exist)">exponential map</a>.  Returning to our picture of the unit two-sphere sitting on the Euclidean plane: Consider a geodesic in the plane, based at the origin, and map this to a geodesic in the two-sphere of the same length, based at the south pole.  Under this map all points of the circle of radius <img class="mwe-math-fallback-image-inline tex" alt="\pi" src="//upload.wikimedia.org/math/5/2/2/522359592d78569a9eac16498aa7a087.png" /> are sent to the north pole.  Since the open unit disk is homeomorphic to the Euclidean plane, this is again a one-point compactification. 
+</p><p>The exponential map for 3-sphere is similarly constructed; it may also be discussed using the fact that the 3-sphere is the <a href="/wiki/Lie_group" title="Lie group">Lie group</a> of unit quaternions.
+</p>
+<h2><span class="mw-headline" id="Coordinate_systems_on_the_3-sphere">Coordinate systems on the 3-sphere</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=9" title="Edit section: Coordinate systems on the 3-sphere">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The four Euclidean coordinates for <i>S</i><sup>3</sup> are redundant since they are subject to the condition that <img class="mwe-math-fallback-image-inline tex" alt="{x_0}^2 + {x_1}^2 + {x_2}^2 + {x_3}^2 = 1" src="//upload.wikimedia.org/math/0/c/a/0cad21edde41464d72261570ddb4fb66.png" />. As a 3-dimensional manifold one should be able to parameterize <i>S</i><sup>3</sup> by three coordinates, just as one can parameterize the 2-sphere using two coordinates (such as <a href="/wiki/Latitude" title="Latitude">latitude</a> and <a href="/wiki/Longitude" title="Longitude">longitude</a>). Due to the nontrivial topology of <i>S</i><sup>3</sup> it is impossible to find a single set of coordinates that cover the entire space. Just as on the 2-sphere, one must use <i>at least</i> two <a href="/wiki/Coordinate_chart" title="Coordinate chart" class="mw-redirect">coordinate charts</a>. Some different choices of coordinates are given below.
+</p>
+<h3><span class="mw-headline" id="Hyperspherical_coordinates">Hyperspherical coordinates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=10" title="Edit section: Hyperspherical coordinates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is convenient to have some sort of <a href="/wiki/Hypersphere#Hyperspherical_coordinates" title="Hypersphere">hyperspherical coordinates</a> on <i>S</i><sup>3</sup> in analogy to the usual <a href="/wiki/Spherical_coordinates" title="Spherical coordinates" class="mw-redirect">spherical coordinates</a> on <i>S</i><sup>2</sup>. One such choice — by no means unique — is to use (ψ, θ, φ), where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x_0 = r\cos\psi\ " src="//upload.wikimedia.org/math/0/0/0/0007cf4abbd93faf06ca289a16a29fc9.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_1 = r\sin\psi \cos\theta\ " src="//upload.wikimedia.org/math/8/1/5/8158038aa67f9bcf6ae9778eaf7affea.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_2 = r\sin\psi \sin\theta \cos\phi\ " src="//upload.wikimedia.org/math/3/2/0/320a0d4aa9c9b86c96863b23bd3d2385.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_3 = r\sin\psi \sin\theta \sin\phi\ " src="//upload.wikimedia.org/math/1/8/9/1899c069c95c0a32e56de9fd6b736d7b.png" /></dd></dl>
+<p>where ψ and θ run over the range 0 to π, and φ runs over 0 to 2π. Note that, for any fixed value of ψ, θ and φ parameterize a 2-sphere of radius sin(ψ), except for the degenerate cases, when ψ equals 0 or π, in which case they describe a point.
+</p><p>The <a href="/wiki/Metric_tensor" title="Metric tensor">round metric</a> on the 3-sphere in these coordinates is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="ds^2 = r^2 \left[ d\psi^2 + \sin^2\psi\left(d\theta^2 + \sin^2\theta\, d\phi^2\right) \right]" src="//upload.wikimedia.org/math/f/4/c/f4cf3d818b27c63c70163f95cbc9187d.png" /></dd></dl>
+<p>and the <a href="/wiki/Volume_form" title="Volume form">volume form</a> by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="dV =r^3 \left(\sin^2\psi\,\sin\theta\right)\,dr\wedge d\psi\wedge d\theta\wedge d\phi." src="//upload.wikimedia.org/math/6/3/c/63cda6b3ffcd653286950fc250bcf703.png" /></dd></dl>
+<p>These coordinates have an elegant description in terms of <a href="/wiki/Quaternion" title="Quaternion">quaternions</a>. Any unit quaternion <i>q</i> can be written as a <a href="/wiki/Versor" title="Versor">versor</a>:
+</p>
+<dl><dd><i>q</i> = <i>e</i><sup>τψ</sup> = cos ψ + τ sin ψ</dd></dl>
+<p>where τ is a <a href="/wiki/Quaternion#Square_roots_of_.E2.88.921" title="Quaternion">unit imaginary quaternion</a>; that is, a quaternion that satisfies τ<sup>2</sup> = −1. This is the quaternionic analogue of <a href="/wiki/Euler%27s_formula" title="Euler&#39;s formula">Euler's formula</a>. Now the unit imaginary quaternions all lie on the unit 2-sphere in Im <b>H</b> so any such τ can be written:
+</p>
+<dl><dd>τ = cos θ <i>i</i> + sin θ cos φ <i>j</i> + sin θ sin φ <i>k</i></dd></dl>
+<p>With τ in this form, the unit quaternion <i>q</i> is given by
+</p>
+<dl><dd><i>q</i> = <i>e</i><sup>τψ</sup> = <i>x</i><sub>0</sub> + <i>x</i><sub>1</sub> <i>i</i> + <i>x</i><sub>2</sub> <i>j</i> + <i>x</i><sub>3</sub> <i>k</i></dd></dl>
+<p>where the <i>x</i>’s are as above.
+</p><p>When <i>q</i> is used to describe spatial rotations (cf. <a href="/wiki/Quaternions_and_spatial_rotation" title="Quaternions and spatial rotation">quaternions and spatial rotations</a>), it describes a rotation about τ through an angle of 2ψ.
+</p>
+<h3><span class="mw-headline" id="Hopf_coordinates">Hopf coordinates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=11" title="Edit section: Hopf coordinates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hopf_Fibration.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hopf_Fibration.png/250px-Hopf_Fibration.png" width="250" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hopf_Fibration.png/375px-Hopf_Fibration.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hopf_Fibration.png/500px-Hopf_Fibration.png 2x" data-file-width="737" data-file-height="665" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hopf_Fibration.png" class="internal" title="Enlarge"></a></div>The Hopf fibration can be visualized using a <a href="/wiki/Stereographic_projection" title="Stereographic projection">stereographic projection</a> of <i>S</i><sup>3</sup> to <b>R</b><sup>3</sup> and then compressing <i>R</i><sup>3</sup> to a ball.  This image shows points on <i>S</i><sup>2</sup> and their corresponding fibers with the same color.</div></div></div>
+<p>For unit radius another choice of hyperspherical coordinates, (η, ξ<sub>1</sub>, ξ<sub>2</sub>), makes use of the embedding of <i>S</i><sup>3</sup> in <b>C</b><sup>2</sup>. In complex coordinates (<i>z</i><sub>1</sub>, <i>z</i><sub>2</sub>) ∈ <b>C</b><sup>2</sup> we write
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="z_1 = e^{i\,\xi_1}\sin\eta " src="//upload.wikimedia.org/math/c/b/d/cbd90372e02d4325eb897b8733e7e36a.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="z_2 = e^{i\,\xi_2}\cos\eta. " src="//upload.wikimedia.org/math/5/1/c/51c83985ac7737e3a8e0dc19061b1780.png" /></dd></dl>
+<p>This could also be expressed in <b>R</b><sup>4</sup> as
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x_0 = \cos\xi_1\sin\eta" src="//upload.wikimedia.org/math/4/3/5/4352f51a70878f2c5cbe0e6a5ef2c119.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_1 = \sin\xi_1\sin\eta " src="//upload.wikimedia.org/math/5/3/b/53bc90863e99192fdb28a094c96851ae.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_2 = \cos\xi_2\cos\eta " src="//upload.wikimedia.org/math/9/7/a/97aa51436a86e9e891ecf5fb5efd914a.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x_3 = \sin\xi_2\cos\eta " src="//upload.wikimedia.org/math/0/5/4/054b9066952cc8a5efe93116cce0c56b.png" /></dd></dl>
+<p>Here η runs over the range 0 to π/2, and ξ<sub>1</sub> and ξ<sub>2</sub> can take any values between 0 and 2π. These coordinates are useful in the description of the 3-sphere as the <a href="/wiki/Hopf_bundle" title="Hopf bundle" class="mw-redirect">Hopf bundle</a>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="S^1 \to S^3 \to S^2.\," src="//upload.wikimedia.org/math/1/7/d/17d542f47ef47c69e4a618b16e4b18ae.png" /></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Toroidal_coord.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toroidal_coord.png/220px-Toroidal_coord.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toroidal_coord.png/330px-Toroidal_coord.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toroidal_coord.png/440px-Toroidal_coord.png 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Toroidal_coord.png" class="internal" title="Enlarge"></a></div>A diagram depicting the poloidal (ξ<sub>1</sub>) direction, represented by the red arrow, and the toroidal (ξ<sub>2</sub>) direction, represented by the blue arrow, although the terms <i>poloidal</i> and <i>toroidal</i> are arbitrary in this <i><a href="/wiki/Flat_torus#Flat_torus" title="Flat torus" class="mw-redirect">flat torus</a></i> case.</div></div></div>
+<p>For any fixed value of η between 0 and π/2, the coordinates (ξ<sub>1</sub>, ξ<sub>2</sub>) parameterize a 2-dimensional <a href="/wiki/Torus" title="Torus">torus</a>. Rings of constant ξ<sub>1</sub> and ξ<sub>2</sub> above form simple orthogonal grids on the tori. See image to right. In the degenerate cases, when η equals 0 or π/2, these coordinates describe a <a href="/wiki/Circle" title="Circle">circle</a>.
+</p><p>The round metric on the 3-sphere in these coordinates is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="ds^2 = d\eta^2 + \sin^2\eta\,d\xi_1^2 + \cos^2\eta\,d\xi_2^2" src="//upload.wikimedia.org/math/3/4/4/34444f1d8b712272bb4658f7a6f24abe.png" /></dd></dl>
+<p>and the volume form by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="dV = \sin\eta\cos\eta\,d\eta\wedge d\xi_1\wedge d\xi_2." src="//upload.wikimedia.org/math/9/f/1/9f1b817b9fb1f15f972cc55afa42f102.png" /></dd></dl>
+<p><br />
+To get the interlocking circles of the <a href="/wiki/Hopf_fibration" title="Hopf fibration">Hopf fibration</a>, make a simple substitution in the equations above<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="z_1 = e^{i\,(\xi_1+\xi_2)}\sin\eta " src="//upload.wikimedia.org/math/7/b/5/7b5162170f7a82365ac633c6e4852919.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="z_2 = e^{i\,(\xi_1-\xi_2)}\cos\eta. " src="//upload.wikimedia.org/math/8/a/6/8a6b765bca9a1c8cee2b4f28f8877452.png" /></dd></dl>
+<p>In this case η, ξ<sub>1</sub> specify which circle, and ξ<sub>2</sub> specifies the position along each circle.  One round trip (0 to 2π) of either ξ<sub>1</sub> or ξ<sub>2</sub> causes you to make one full circle of both limbs of the torus.
+</p>
+<h3><span class="mw-headline" id="Stereographic_coordinates">Stereographic coordinates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=12" title="Edit section: Stereographic coordinates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another convenient set of coordinates can be obtained via <a href="/wiki/Stereographic_projection" title="Stereographic projection">stereographic projection</a> of <i>S</i><sup>3</sup> from a pole onto the corresponding equatorial <b>R</b><sup>3</sup> <a href="/wiki/Hyperplane" title="Hyperplane">hyperplane</a>. For example, if we project from the point (−1, 0, 0, 0) we can write a point <i>p</i> in <i>S</i><sup>3</sup> as
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="p = \left(\frac{1-\|u\|^2}{1+\|u\|^2}, \frac{2\mathbf{u}}{1+\|u\|^2}\right) = \frac{1+\mathbf{u}}{1-\mathbf{u}}" src="//upload.wikimedia.org/math/0/4/a/04a040e24d4fa567a644b6d7b8fe44c3.png" /></dd></dl>
+<p>where <b>u</b> = (<i>u</i><sub>1</sub>, <i>u</i><sub>2</sub>, <i>u</i><sub>3</sub>) is a vector in <b>R</b><sup>3</sup> and ||<i>u</i>||<sup>2</sup> = <i>u</i><sub>1</sub><sup>2</sup> + <i>u</i><sub>2</sub><sup>2</sup> + <i>u</i><sub>3</sub><sup>2</sup>. In the second equality above, we have identified <i>p</i> with a unit quaternion and <b>u</b> = <i>u</i><sub>1</sub> <i>i</i> + <i>u</i><sub>2</sub> <i>j</i> + <i>u</i><sub>3</sub> <i>k</i> with a pure quaternion. (Note that the numerator and denominator commute here even though quaternionic multiplication is generally noncommutative). The inverse of this map takes <i>p</i> = (<i>x</i><sub>0</sub>, <i>x</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>x</i><sub>3</sub>) in <i>S</i><sup>3</sup> to
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\mathbf{u} = \frac{1}{1+x_0}\left(x_1, x_2, x_3\right)." src="//upload.wikimedia.org/math/5/f/1/5f1b7914796659a5e66dc3f69130eb5a.png" /></dd></dl>
+<p>We could just as well have projected from the point (1, 0, 0, 0), in which case the point <i>p</i> is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="p = \left(\frac{-1+\|v\|^2}{1+\|v\|^2}, \frac{2\mathbf{v}}{1+\|v\|^2}\right) = \frac{-1+\mathbf{v}}{1+\mathbf{v}}" src="//upload.wikimedia.org/math/7/5/7/7577e455a1c2d70429714c2887205e44.png" /></dd></dl>
+<p>where <b>v</b> = (<i>v</i><sub>1</sub>, <i>v</i><sub>2</sub>, <i>v</i><sub>3</sub>) is another vector in <b>R</b><sup>3</sup>. The inverse of this map takes <i>p</i> to
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\mathbf{v} = \frac{1}{1-x_0}\left(x_1,x_2,x_3\right)." src="//upload.wikimedia.org/math/7/5/9/7595ca11b9efc5c52ec7b34c6a9e34a1.png" /></dd></dl>
+<p>Note that the <b>u</b> coordinates are defined everywhere but (−1, 0, 0, 0) and the <b>v</b> coordinates everywhere but (1, 0, 0, 0). This defines an <a href="/wiki/Atlas_(topology)" title="Atlas (topology)">atlas</a> on <i>S</i><sup>3</sup> consisting of two <a href="/wiki/Chart_(topology)" title="Chart (topology)" class="mw-redirect">coordinate charts</a> or "patches", which together cover all of <i>S</i><sup>3</sup>. Note that the transition function between these two charts on their overlap is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\mathbf{v} = \frac{1}{\|u\|^2}\mathbf{u}" src="//upload.wikimedia.org/math/9/2/7/927d912e5dc78b64515b75708940abee.png" /></dd></dl>
+<p>and vice-versa.
+</p>
+<h2><span class="mw-headline" id="Group_structure">Group structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=13" title="Edit section: Group structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When considered as the set of unit <a href="/wiki/Quaternion" title="Quaternion">quaternions</a>, <i>S</i><sup>3</sup> inherits an important structure, namely that of quaternionic multiplication. Because the set of unit quaternions is closed under multiplication, <i>S</i><sup>3</sup> takes on the structure of a <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">group</a>. Moreover, since quaternionic multiplication is <a href="/wiki/Smooth_function" title="Smooth function" class="mw-redirect">smooth</a>, <i>S</i><sup>3</sup> can be regarded as a real <a href="/wiki/Lie_group" title="Lie group">Lie group</a>. It is a <a href="/wiki/Nonabelian_group" title="Nonabelian group" class="mw-redirect">nonabelian</a>, <a href="/wiki/Compact_space" title="Compact space">compact</a> Lie group of dimension 3. When thought of as a Lie group <i>S</i><sup>3</sup> is often denoted <a href="/wiki/Symplectic_group" title="Symplectic group">Sp(1)</a> or U(1, <b>H</b>).
+</p><p>It turns out that the only <a href="/wiki/Hypersphere" title="Hypersphere">spheres</a> that admit a Lie group structure are <a href="/wiki/Unit_circle" title="Unit circle"><i>S</i><sup>1</sup></a>, thought of as the set of unit <a href="/wiki/Complex_number" title="Complex number">complex numbers</a>, and <i>S</i><sup>3</sup>, the set of unit quaternions. One might think that <i>S</i><sup>7</sup>, the set of unit <a href="/wiki/Octonion" title="Octonion">octonions</a>, would form a Lie group, but this fails since octonion multiplication is <a href="/wiki/Associative" title="Associative" class="mw-redirect">nonassociative</a>. The octonionic structure does give <i>S</i><sup>7</sup> one important property: <i><a href="/wiki/Parallelizability" title="Parallelizability" class="mw-redirect">parallelizability</a></i>. It turns out that the only spheres that are parallelizable are <i>S</i><sup>1</sup>, <i>S</i><sup>3</sup>, and <i>S</i><sup>7</sup>.
+</p><p>By using a <a href="/wiki/Matrix_(math)" title="Matrix (math)" class="mw-redirect">matrix</a> representation of the quaternions, <b>H</b>, one obtains a matrix representation of <i>S</i><sup>3</sup>. One convenient choice is given by the <a href="/wiki/Pauli_matrices" title="Pauli matrices">Pauli matrices</a>:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x_1+ x_2 i + x_3 j + x_4 k \mapsto \begin{pmatrix}\;\;\,x_1 + i x_2 &amp; x_3 + i x_4 \\ -x_3 + i x_4 &amp; x_1 - i x_2\end{pmatrix}." src="//upload.wikimedia.org/math/f/b/7/fb7280a03a2c593d5447835d9743f695.png" /></dd></dl>
+<p>This map gives an <a href="/wiki/Injective" title="Injective" class="mw-redirect">injective</a> <a href="/wiki/Algebra_homomorphism" title="Algebra homomorphism">algebra homomorphism</a> from <b>H</b> to the set of 2×2 complex matrices. It has the property that the <a href="/wiki/Absolute_value" title="Absolute value">absolute value</a> of a quaternion <i>q</i> is equal to the <a href="/wiki/Square_root" title="Square root">square root</a> of the <a href="/wiki/Determinant" title="Determinant">determinant</a> of the matrix image of <i>q</i>.
+</p><p>The set of unit quaternions is then given by matrices of the above form with unit determinant. This matrix subgroup is precisely the <a href="/wiki/Special_unitary_group" title="Special unitary group">special unitary group</a> SU(2). Thus, <i>S</i><sup>3</sup> as a Lie group is <a href="/wiki/Isomorphic" title="Isomorphic" class="mw-redirect">isomorphic</a> to SU(2).
+</p><p>Using our hyperspherical coordinates (η, ξ<sub>1</sub>, ξ<sub>2</sub>) we can then write any element of SU(2) in the form
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\begin{pmatrix}e^{i\,\xi_1}\sin\eta &amp; e^{i\,\xi_2}\cos\eta \\ -e^{-i\,\xi_2}\cos\eta &amp; e^{-i\,\xi_1}\sin\eta\end{pmatrix}." src="//upload.wikimedia.org/math/f/d/c/fdcd5d4c7323509406a898f7a484a95d.png" /></dd></dl>
+<p>Another way to state this result is if we express the matrix representation of an element of SU(2) as a linear combination of the Pauli matrices. It is seen that an arbitrary element <img class="mwe-math-fallback-image-inline tex" alt="U \in SU(2)" src="//upload.wikimedia.org/math/f/f/e/ffe0b8123aae8cc712672a8f6742ebcf.png" /> can be written as <img class="mwe-math-fallback-image-inline tex" alt="U=\alpha_0 I + \sum_{i=1}^3\alpha_i J_i" src="//upload.wikimedia.org/math/6/3/b/63bf7f15177a12da92b033292459f888.png" />. The condition that the determinant of U is +1 implies that the coefficients <img class="mwe-math-fallback-image-inline tex" alt="\alpha_i" src="//upload.wikimedia.org/math/9/0/d/90db017b80d63780533fbc74fb227dba.png" /> are constrained to lie on a 3-sphere.
+</p>
+<h2><span class="mw-headline" id="In_literature">In literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=14" title="Edit section: In literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Edwin_Abbott_Abbott" title="Edwin Abbott Abbott">Edwin Abbott Abbott</a>'s <i><a href="/wiki/Flatland" title="Flatland">Flatland</a></i>, published in 1884, and in <i><a href="/wiki/Sphereland" title="Sphereland">Sphereland</a></i>, a 1965 sequel to Flatland by <a href="/wiki/Dionys_Burger" title="Dionys Burger">Dionys Burger</a>, the 3-sphere is referred to as an <b>oversphere</b>, and a 4-sphere is referred to as a <b>hypersphere</b>.
+</p><p>Writing in the <a href="/wiki/American_Journal_of_Physics" title="American Journal of Physics">American Journal of Physics</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Mark A. Peterson describes three different ways of visualizing 3-spheres and points out language in <i><a href="/wiki/The_Divine_Comedy" title="The Divine Comedy" class="mw-redirect">The Divine Comedy</a></i> that suggests <a href="/wiki/Dante_Alighieri" title="Dante Alighieri">Dante</a> viewed the Universe in the same way.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li> <a href="/wiki/Unit_circle" title="Unit circle">1-sphere</a>, <a href="/wiki/Sphere" title="Sphere">2-sphere</a>, <a href="/wiki/Hypersphere" title="Hypersphere"><i>n</i>-sphere</a></li>
+<li> <a href="/wiki/Tesseract" title="Tesseract">tesseract</a>, <a href="/wiki/Polychoron" title="Polychoron" class="mw-redirect">polychoron</a>, <a href="/wiki/Simplex" title="Simplex">simplex</a></li>
+<li> <a href="/wiki/Pauli_matrices" title="Pauli matrices">Pauli matrices</a></li>
+<li> <a href="/wiki/Rotation_group_SO(3)" title="Rotation group SO(3)">rotation group SO(3)</a>
+<ul><li> <a href="/wiki/Charts_on_SO(3)" title="Charts on SO(3)">charts on SO(3)</a></li>
+<li> <a href="/wiki/Quaternions_and_spatial_rotation" title="Quaternions and spatial rotation">quaternions and spatial rotations</a></li></ul></li>
+<li> <a href="/wiki/Hopf_bundle" title="Hopf bundle" class="mw-redirect">Hopf bundle</a>, <a href="/wiki/Riemann_sphere" title="Riemann sphere">Riemann sphere</a></li>
+<li> <a href="/wiki/Poincar%C3%A9_homology_sphere" title="Poincaré homology sphere" class="mw-redirect">Poincaré sphere</a></li>
+<li> <a href="/wiki/Reeb_foliation" title="Reeb foliation">Reeb foliation</a></li>
+<li> <a href="/wiki/Clifford_torus" title="Clifford torus">Clifford torus</a></div></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Georges Lemaître (1948) "Quaternions et espace elliptique", <i>Acta</i> <a href="/wiki/Pontifical_Academy_of_Sciences" title="Pontifical Academy of Sciences">Pontifical Academy of Sciences</a> 12:57&#8211;78</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Banchoff, Thomas. <a rel="nofollow" class="external text" href="http://www.geom.uiuc.edu/~banchoff/script/b3d/hypertorus.html">"The Flat Torus in the Three-Sphere"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A3-sphere&amp;rft.au=Banchoff%2C+Thomas&amp;rft.aufirst=Thomas&amp;rft.aulast=Banchoff&amp;rft.btitle=The+Flat+Torus+in+the+Three-Sphere&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.geom.uiuc.edu%2F~banchoff%2Fscript%2Fb3d%2Fhypertorus.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/w/index.php?title=Mark_A._Peterson&amp;action=edit&amp;redlink=1" class="new" title="Mark A. Peterson (page does not exist)">Mark A. Peterson</a>. <a rel="nofollow" class="external text" href="http://link.aip.org/link/ajpias/v47/i12/p1031/s1">"Dante and the 3-sphere"</a>, American Journal of Physics, vol 47, number 12, 1979, pp1031-1035</span>
+</li>
+</ol></div>
+<ul><li> <a href="/w/index.php?title=David_W._Henderson&amp;action=edit&amp;redlink=1" class="new" title="David W. Henderson (page does not exist)">David W. Henderson</a>, <i>Experiencing Geometry: In Euclidean, Spherical, and Hyperbolic Spaces, second edition</i>, 2001, <a rel="nofollow" class="external autonumber" href="http://www.math.cornell.edu/~henderson/books/eg00">[1]</a> (Chapter 20: 3-spheres and hyperbolic 3-spaces.)</li>
+<li> <a href="/wiki/Jeffrey_Weeks_(mathematician)" title="Jeffrey Weeks (mathematician)">Jeffrey R. Weeks</a>, <i>The Shape of Space: How to Visualize Surfaces and Three-dimensional Manifolds</i>, 1985, (<a rel="nofollow" class="external autonumber" href="http://books.google.com/books?id=Lurp6nB4LtQC&amp;printsec=frontcover">[2]</a>) (Chapter 14: The Hypersphere) (Says: <i>A Warning on terminology: Our two-sphere is defined in three-dimensional space, where it is the boundary of a three-dimensional ball. This terminology is standard among mathematicians, but not among physicists. So don't be surprised if you find people calling the two-sphere a three-sphere.</i>)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=3-sphere&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <span class="citation mathworld" id="Reference-Mathworld-Hypersphere"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Hypersphere.html">"Hypersphere"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span> <i>Note</i>: This article uses the alternate naming scheme for spheres in which a sphere in <i>n</i>-dimensional space is termed an <i>n</i>-sphere.</li></ul>

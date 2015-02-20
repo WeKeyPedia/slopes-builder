@@ -1,0 +1,97 @@
+﻿---
+lastrevid: 596227952
+pageid: 358484
+canonicalurl: http://en.wikipedia.org/wiki/Girard_Desargues
+title: Girard Desargues
+editurl: http://en.wikipedia.org/w/index.php?title=Girard_Desargues&action=edit
+length: 4172
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-14T13:05:20Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Girard_Desargues
+---
+
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div></td><td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Girard_Desargues&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(November 2009)</i></small><span class="hide-when-compact"></span></span></td></tr></table><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:G%C3%A9rard_Desargues.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/G%C3%A9rard_Desargues.jpeg/220px-G%C3%A9rard_Desargues.jpeg" width="220" height="268" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/af/G%C3%A9rard_Desargues.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/af/G%C3%A9rard_Desargues.jpeg 2x" data-file-width="268" data-file-height="326" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:G%C3%A9rard_Desargues.jpeg" class="internal" title="Enlarge"></a></div>Girard Desargues</div></div></div>
+<p><b>Girard Desargues</b> (<small>French:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_French" title="Help:IPA for French">[dezaʁɡ]</a></span>; February 21, 1591&#8211;September 1661) was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> and engineer, who is considered one of the founders of <a href="/wiki/Projective_geometry" title="Projective geometry">projective geometry</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> <a href="/wiki/Desargues%27_theorem" title="Desargues&#39; theorem">Desargues' theorem</a>, the <a href="/wiki/Desargues_graph" title="Desargues graph">Desargues graph</a>, and the crater <a href="/wiki/Desargues_(crater)" title="Desargues (crater)">Desargues</a> on the <a href="/wiki/Moon" title="Moon">Moon</a> are named in his honour.
+</p><p>Born in <a href="/wiki/Lyon" title="Lyon">Lyon</a>, Desargues came from a family devoted to service to the French crown. His father was a royal <a href="/wiki/Civil_law_notary" title="Civil law notary">notary</a>, an investigating commissioner of the <a href="/wiki/Seneschal" title="Seneschal">Seneschal's</a> court in Lyon (1574), the collector of the <a href="/wiki/Tithe" title="Tithe">tithes</a> on ecclesiastical revenues for the city of Lyon (1583) and for the <a href="/wiki/Diocese_of_Lyon" title="Diocese of Lyon" class="mw-redirect">diocese of Lyon</a>.
+</p><p>Girard Desargues worked as an <a href="/wiki/Architecture" title="Architecture">architect</a> from 1645. Prior to that, he had worked as a tutor and may have served as an engineer and technical consultant in the entourage of <a href="/wiki/Cardinal_Richelieu" title="Cardinal Richelieu">Richelieu</a>.
+</p><p>As an architect, Desargues planned several private and public buildings in Paris and Lyon. As an engineer, he designed a system for raising water that he installed near Paris. It was based on the use of the at the time unrecognized principle of the <a href="/wiki/Epicycloid" title="Epicycloid">epicycloidal</a> wheel.
+</p><p>His research on perspective and geometrical projections can be seen as a culmination of centuries of scientific inquiry across the classical epoch in optics that stretched from al-Hasan <a href="/wiki/Ibn_al-Haytham" title="Ibn al-Haytham" class="mw-redirect">Ibn al-Haytham</a> (<a href="/wiki/Alhazen" title="Alhazen">Alhazen</a>) to Johannes <a href="/wiki/Kepler" title="Kepler" class="mw-redirect">Kepler</a>, and going beyond a mere synthesis of these traditions with Renaissance perspective theories and practices. 
+</p><p>His work was rediscovered and republished in 1864. A collection of his works was published in 1951,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and the 1864 compilation remains in print.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> One notable work, often cited by others in mathematics, is "Rough draft for an essay on the results of taking plane sections of a cone" (1639). 
+</p><p>Late in his life, Desargues published a paper with the cryptic title of <i>DALG</i>. The most common theory about what this stands for is <i>Des Argues, Lyonnais, Géometre</i> (proposed by <a href="/wiki/Henri_Brocard" title="Henri Brocard">Henri Brocard</a>).
+</p><p>He died in Lyon.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Girard_Desargues&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Desarguesian_plane" title="Desarguesian plane" class="mw-redirect">Desarguesian plane</a>, <a href="/wiki/Non-Desarguesian_plane" title="Non-Desarguesian plane">non-Desarguesian plane</a></li>
+<li><a href="/wiki/Desargues%27_theorem" title="Desargues&#39; theorem">Desargues' theorem</a></li>
+<li><a href="/wiki/Desargues_graph" title="Desargues graph">Desargues graph</a></li>
+<li><a href="/wiki/Desargues_configuration" title="Desargues configuration">Desargues configuration</a></li>
+<li><a href="/wiki/Desargues_(crater)" title="Desargues (crater)">Desargues (crater)</a></li>
+<li> <a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">Perspective (graphical)</a> / <a href="/wiki/Perspective_(visual)" title="Perspective (visual)">Perspective (visual)</a></li>
+<li><a href="/wiki/Optics" title="Optics">Optics</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Girard_Desargues&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Swinden, B.A. "Geometry and Girard Desargues". The Mathematical Gazette. Vol. 34, No. 310 (Dec., 1950) p. 253</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Desargues, Girard (1951).  Taton, René, ed. <i>L'oeuvre mathématique de G. Desargues: Textes publiés et commentés avec une introd. biograph. et historique</i>. Paris: Presses universitaires de France.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGirard+Desargues&amp;rft.au=Desargues%2C+Girard&amp;rft.aufirst=Girard&amp;rft.aulast=Desargues&amp;rft.btitle=L%27oeuvre+math%C3%A9matique+de+G.+Desargues%3A+Textes+publi%C3%A9s+et+comment%C3%A9s+avec+une+introd.+biograph.+et+historique&amp;rft.date=1951&amp;rft.genre=book&amp;rft.place=Paris&amp;rft.pub=Presses+universitaires+de+France&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Desargues, Girard (2011).  Poudra, Noël Germinal, ed. <i>Oeuvres de Desargues</i>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1108032583" title="Special:BookSources/1108032583">1108032583</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGirard+Desargues&amp;rft.au=Desargues%2C+Girard&amp;rft.aufirst=Girard&amp;rft.aulast=Desargues&amp;rft.btitle=Oeuvres+de+Desargues&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=1108032583&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<ul><li> J. V. Field &amp; J. J. Gray (1987) <i>The Geometrical Work of Girard Desargues</i>, <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>, <a href="/wiki/Special:BookSources/0387964037" class="internal mw-magiclink-isbn">ISBN 0-387-96403-7</a> .</li>
+<li> <a href="/wiki/Ren%C3%A9_Taton" title="René Taton">René Taton</a> (1962) <a rel="nofollow" class="external text" href="http://www.persee.fr/web/revues/home/prescript/article/rhs_0048-7996_1962_num_15_2_4423">Sur la naissance de Girard Desargues.</a>, <i>Revue d'histoire des sciences et de leurs applications</i> Tome 15 n°2. pp.&#160;165&#8211;166. </li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Girard_Desargues&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <span class="citation"><a href="/wiki/John_J._O%27Connor_(mathematician)" title="John J. O&#39;Connor (mathematician)" class="mw-redirect">O'Connor, John J.</a>; <a href="/wiki/Edmund_F._Robertson" title="Edmund F. Robertson">Robertson, Edmund F.</a>, <a rel="nofollow" class="external text" href="http://www-history.mcs.st-andrews.ac.uk/Biographies/Desargues.html">"Girard Desargues"</a>, <i><a href="/wiki/MacTutor_History_of_Mathematics_archive" title="MacTutor History of Mathematics archive">MacTutor History of Mathematics archive</a></i>, <a href="/wiki/University_of_St_Andrews" title="University of St Andrews">University of St Andrews</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGirard+Desargues&amp;rft.atitle=Girard+Desargues&amp;rft.aufirst=John+J.&amp;rft.aulast=O%27Connor&amp;rft.au=O%27Connor%2C+John+J.&amp;rft.au=Robertson%2C+Edmund+F.&amp;rft.btitle=MacTutor+History+of+Mathematics+archive&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww-history.mcs.st-andrews.ac.uk%2FBiographies%2FDesargues.html&amp;rft.pub=University+of+St+Andrews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><a rel="nofollow" class="external text" href="http://galileo.rice.edu/Catalog/NewFiles/desargue.html">Richard Westfall, Gerard Desargues, The Galileo Project</a></li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="row" class="navbox-group"><a href="/wiki/Authority_control" title="Authority control">Authority control</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>  <a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n83-069491">WorldCat</a></li>
+<li> <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/96472819">96472819</a></span></li>
+<li> <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n83069491">n83069491</a></span></li>
+<li> <a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000116907596">0000 0001 1690 7596</a></span></li>
+<li> <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118671545">118671545</a></span></li>
+<li> <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/026826216">026826216</a></span></li>
+<li> <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11899746z">cb11899746z</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11899746z">(data)</a></span></li>
+<li> <a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="//www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500106146">500106146</a></span></li>
+<li> <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=129913">129913</a></span></li></ul>
+</div></td></tr></table></td></tr></table>
+<table id="persondata" class="persondata noprint" style="border:1px solid #aaa; display:none; speak:none;">
+<tr>
+<th colspan="2"> <a href="/wiki/Wikipedia:Persondata" title="Wikipedia:Persondata">Persondata</a>
+</th></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Name
+</td>
+<td> Desargues, Girard
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Alternative names
+</td>
+<td>
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Short description
+</td>
+<td> French mathematician and engineer
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Date of birth
+</td>
+<td> February 21, 1591
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Place of birth
+</td>
+<td>
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Date of death
+</td>
+<td> 1661
+</td></tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;"> Place of death
+</td>
+<td>
+</td></tr></table>

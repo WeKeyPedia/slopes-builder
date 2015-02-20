@@ -1,0 +1,92 @@
+﻿---
+lastrevid: 633206721
+pageid: 315659
+canonicalurl: http://en.wikipedia.org/wiki/Golden_angle
+title: Golden angle
+editurl: http://en.wikipedia.org/w/index.php?title=Golden_angle&action=edit
+length: 3591
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-14T13:05:20Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Golden_angle
+---
+
+<div class="hatnote">For the butterfly, see <a href="/wiki/Caprona_ransonnetti" title="Caprona ransonnetti" class="mw-redirect">Caprona ransonnetti</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Golden_Angle.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Golden_Angle.svg/220px-Golden_Angle.svg.png" width="220" height="221" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Golden_Angle.svg/330px-Golden_Angle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Golden_Angle.svg/440px-Golden_Angle.svg.png 2x" data-file-width="357" data-file-height="358" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Golden_Angle.svg" class="internal" title="Enlarge"></a></div>The golden angle is the angle subtended by the smaller (red) arc when two arcs that make up a circle are in the <a href="/wiki/Golden_ratio" title="Golden ratio">golden ratio</a></div></div></div>
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, the <b>golden angle</b> is the smaller of the two <a href="/wiki/Angle" title="Angle">angles</a> created by sectioning the circumference of a circle according to the <a href="/wiki/Golden_section" title="Golden section" class="mw-redirect">golden section</a>; that is, into two <a href="/wiki/Arc_(geometry)" title="Arc (geometry)">arcs</a> such that the ratio of the length of the larger arc to the length of the smaller arc is the same as the ratio of the full circumference to the length of the larger arc.
+</p><p>Algebraically, let <i>a+b</i> be the circumference of a <a href="/wiki/Circle" title="Circle">circle</a>, divided into a longer arc of length <i>a</i> and a smaller arc of length <i>b</i> such that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" \frac{a + b}{a} = \frac{a}{b}. " src="//upload.wikimedia.org/math/5/e/2/5e234bb792ef7052cc6e50d6994c7647.png" /></dd></dl>
+<p>The golden angle is then the angle <a href="/wiki/Subtend" title="Subtend" class="mw-redirect">subtended</a> by the smaller arc of length <i>b</i>. It measures approximately 137.508°, or about 2.39996 <a href="/wiki/Radian" title="Radian">radians</a>.
+</p><p>The name comes from the golden angle's connection to the <a href="/wiki/Golden_ratio" title="Golden ratio">golden ratio</a> <i>&#966;</i>; the exact value of the golden angle is
+</p>
+<dl><dd> <img class="mwe-math-fallback-image-inline tex" alt="360\left(1 - \frac{1}{\varphi}\right) = 360(2 - \varphi) = \frac{360}{\varphi^2} = 180(3 - \sqrt{5})\text{ degrees}" src="//upload.wikimedia.org/math/8/7/9/879e6a23403ab3c011b891b403107982.png" /></dd></dl>
+<p>or
+</p>
+<dl><dd> <img class="mwe-math-fallback-image-inline tex" alt=" 2\pi \left( 1 - \frac{1}{\varphi}\right) = 2\pi(2 - \varphi) = \frac{2\pi}{\varphi^2} = \pi(3 - \sqrt{5})\text{ radians}," src="//upload.wikimedia.org/math/4/d/e/4de6025d3fd78340c249a95c4f62adce.png" /></dd></dl>
+<p>where the equivalences follow from well-known algebraic properties of the golden ratio.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Derivation"><span class="tocnumber">1</span> <span class="toctext">Derivation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Golden_angle_in_nature"><span class="tocnumber">2</span> <span class="toctext">Golden angle in nature</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golden_angle&amp;action=edit&amp;section=1" title="Edit section: Derivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The golden ratio is equal to <i>&#966;</i>&#160;=&#160;<i>a</i>/<i>b</i> given the conditions above.
+</p><p>Let <i>&#402;</i> be the fraction of the circumference subtended by the golden angle, or equivalently, the golden angle divided by the angular measurement of the circle.
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" f = \frac{b}{a+b} = \frac{1}{1+\varphi}." src="//upload.wikimedia.org/math/1/9/f/19fd3ab16d1fa8370698b24020dab2e8.png" /></dd></dl>
+<p>But since
+</p>
+<dl><dd> <img class="mwe-math-fallback-image-inline tex" alt="{1+\varphi} = \varphi^2," src="//upload.wikimedia.org/math/8/3/0/83009f737b1bb9c963d09da1e5d1fe70.png" /></dd></dl>
+<p>it follows that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" f = \frac{1}{\varphi^2} " src="//upload.wikimedia.org/math/b/4/f/b4f2a000e7f3a2ab80611b907af018ba.png" /></dd></dl>
+<p>This is equivalent to saying that <i>&#966;</i><sup>&#160;2</sup> golden angles can fit in a circle.
+</p><p>The fraction of a circle occupied by the golden angle is therefore
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="f \approx 0.381966. \," src="//upload.wikimedia.org/math/7/d/8/7d8440bb7a354e387f55947a2096c484.png" /></dd></dl>
+<p>The golden angle <i>g</i> can therefore be numerically approximated in <a href="/wiki/Degree_(angle)" title="Degree (angle)">degrees</a> as:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="g \approx 360 \times 0.381966 \approx 137.508^\circ,\," src="//upload.wikimedia.org/math/5/b/3/5b3674519322cf346e0486e411fd164e.png" /></dd></dl>
+<p>or in radians as&#160;:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" g \approx 2\pi \times 0.381966 \approx 2.39996. \," src="//upload.wikimedia.org/math/d/f/7/df762aa9895f3102f4b2c4a795e3935a.png" /></dd></dl>
+<h2><span class="mw-headline" id="Golden_angle_in_nature">Golden angle in nature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golden_angle&amp;action=edit&amp;section=2" title="Edit section: Golden angle in nature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:Goldener_Schnitt_Blattstand.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/db/Goldener_Schnitt_Blattstand.png" width="256" height="256" class="thumbimage" data-file-width="256" data-file-height="256" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Goldener_Schnitt_Blattstand.png" class="internal" title="Enlarge"></a></div>The angle between successive florets in some flowers is the golden angle.</div></div></div>
+<p>The golden angle plays a significant role in the theory of <a href="/wiki/Phyllotaxis" title="Phyllotaxis">phyllotaxis</a>. Perhaps most notably, the golden angle is the angle separating the <a href="/wiki/Floret" title="Floret" class="mw-redirect">florets</a> on a <a href="/wiki/Sunflower" title="Sunflower" class="mw-redirect">sunflower</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golden_angle&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul><li><span class="citation journal">Vogel, H (1979). "A better way to construct the sunflower head". <i>Mathematical Biosciences</i> <b>44</b> (44): 179–189. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0025-5564%2879%2990080-4">10.1016/0025-5564(79)90080-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolden+angle&amp;rft.atitle=A+better+way+to+construct+the+sunflower+head&amp;rft.aufirst=H&amp;rft.aulast=Vogel&amp;rft.au=Vogel%2C+H&amp;rft.date=1979&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0025-5564%2879%2990080-4&amp;rft.issue=44&amp;rft.jtitle=Mathematical+Biosciences&amp;rft.pages=179-189&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Przemys%C5%82aw_Prusinkiewicz" title="Przemysław Prusinkiewicz">Prusinkiewicz, Przemysław</a>; <a href="/wiki/Aristid_Lindenmayer" title="Aristid Lindenmayer">Lindenmayer, Aristid</a> (1990). <a rel="nofollow" class="external text" href="http://algorithmicbotany.org/papers/#webdocs"><i>The Algorithmic Beauty of Plants</i></a>. Springer-Verlag. pp.&#160;101&#8211;107. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-97297-8" title="Special:BookSources/978-0-387-97297-8">978-0-387-97297-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolden+angle&amp;rft.aufirst=Przemys%C5%82aw&amp;rft.aulast=Prusinkiewicz&amp;rft.au=Lindenmayer%2C+Aristid&amp;rft.au=Prusinkiewicz%2C+Przemys%C5%82aw&amp;rft.btitle=The+Algorithmic+Beauty+of+Plants&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Falgorithmicbotany.org%2Fpapers%2F%23webdocs&amp;rft.isbn=978-0-387-97297-8&amp;rft.pages=101-107&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li></ul>
+</dl></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golden_angle&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Golden_angle" class="extiw" title="commons:Category:Golden angle">Golden angle</a></b></i>.</td></tr></table>
+<ul><li> <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/GoldenAngle.html">Golden Angle</a> at <a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metallic_ratios" title="Template:Metallic ratios"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metallic_ratios" title="Template talk:Metallic ratios"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metallic_ratios&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%"><a href="/wiki/Metallic_mean" title="Metallic mean">Metallic means</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Golden_ratio" title="Golden ratio">Gold</a>
+<ul><li> <strong class="selflink">Angle</strong></li>
+<li> <a href="/wiki/Golden_ratio_base" title="Golden ratio base">Base</a></li>
+<li> <a href="/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci number</a></li>
+<li> <a href="/wiki/Kepler_triangle" title="Kepler triangle">Kepler triangle</a></li>
+<li> <a href="/wiki/Golden_rectangle" title="Golden rectangle">Rectangle</a></li>
+<li> <a href="/wiki/Golden_rhombus" title="Golden rhombus">Rhombus</a></li>
+<li> <a href="/wiki/Golden_section_search" title="Golden section search">Section search</a></li>
+<li> <a href="/wiki/Golden_spiral" title="Golden spiral">Spiral</a></li>
+<li> <a href="/wiki/Golden_triangle_(mathematics)" title="Golden triangle (mathematics)">Triangle</a></li></ul></li>
+<li><a href="/wiki/Silver_ratio" title="Silver ratio">Silver</a>
+<ul><li> <a href="/wiki/Pell_number" title="Pell number">Pell number</a></li></ul></li>
+<li>Bronze</li>
+<li>Copper</li>
+<li>Nickel</li>
+<li>etc....</li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Gold,_silver,_and_bronze_rectangles_vertical.png" class="image"><img alt="Gold, silver, and bronze rectangles vertical.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gold%2C_silver%2C_and_bronze_rectangles_vertical.png/60px-Gold%2C_silver%2C_and_bronze_rectangles_vertical.png" width="60" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gold%2C_silver%2C_and_bronze_rectangles_vertical.png/90px-Gold%2C_silver%2C_and_bronze_rectangles_vertical.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gold%2C_silver%2C_and_bronze_rectangles_vertical.png/120px-Gold%2C_silver%2C_and_bronze_rectangles_vertical.png 2x" data-file-width="1009" data-file-height="1432" /></a></div></td></tr></table></td></tr></table>

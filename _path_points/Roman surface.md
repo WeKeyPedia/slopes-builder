@@ -1,0 +1,183 @@
+﻿---
+lastrevid: 634684765
+pageid: 59979
+canonicalurl: http://en.wikipedia.org/wiki/Roman_surface
+title: Roman surface
+editurl: http://en.wikipedia.org/w/index.php?title=Roman_surface&action=edit
+length: 15514
+contentmodel: wikitext
+pagelanguage: en
+touched: 2014-11-28T18:38:12Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Roman_surface
+---
+
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Steiner%27s_Roman_Surface.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Steiner%27s_Roman_Surface.gif/220px-Steiner%27s_Roman_Surface.gif" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/ea/Steiner%27s_Roman_Surface.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ea/Steiner%27s_Roman_Surface.gif 2x" data-file-width="300" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Steiner%27s_Roman_Surface.gif" class="internal" title="Enlarge"></a></div>An animation of the Roman Surface</div></div></div>
+<p>The <b>Roman surface</b> or <b>Steiner surface</b> (so called because <a href="/wiki/Jakob_Steiner" title="Jakob Steiner">Jakob Steiner</a> was in <a href="/wiki/Rome" title="Rome">Rome</a> when he thought of it) is a self-intersecting mapping  of the <a href="/wiki/Real_projective_plane" title="Real projective plane">real projective plane</a> into three-dimensional space, with an unusually high degree of <a href="/wiki/Symmetry" title="Symmetry">symmetry</a>. This mapping is not an <a href="/wiki/Immersion_(mathematics)" title="Immersion (mathematics)">immersion</a> of the projective plane; however, the figure resulting from removing six singular points is one.
+</p><p>The simplest construction is as the image of a <a href="/wiki/Sphere" title="Sphere">sphere</a> centered at the origin under the map <i>f</i>(<i>x</i>,<i>y</i>,<i>z</i>) = (<i>yz</i>,<i>xz</i>,<i>xy</i>). This gives an implicit <a href="/wiki/Formula" title="Formula">formula</a> of
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" x^2 y^2 + y^2 z^2 + z^2 x^2 - r^2 x y z = 0. \," src="//upload.wikimedia.org/math/0/5/8/05874f2e644fcea94408779a7457afce.png" /></dd></dl>
+<p>Also, taking a parametrization of the sphere in terms of <a href="/wiki/Longitude" title="Longitude">longitude</a>  (θ) and <a href="/wiki/Latitude" title="Latitude">latitude</a> (φ), gives parametric equations for the Roman surface as follows:
+</p>
+<dl><dd><i>x</i> = <i>r</i><sup>2</sup> cos &#952; cos &#966; sin &#966;</dd>
+<dd><i>y</i> = <i>r</i><sup>2</sup> sin &#952; cos &#966; sin &#966;</dd>
+<dd><i>z</i> = <i>r</i><sup>2</sup> cos &#952; sin &#952; cos<sup>2</sup> &#966;.</dd></dl>
+<p>The origin is a triple point, and each of the <i>xy</i>-, <i>yz</i>-, and <i>xz</i>-planes are tangential to the surface there. The other places of self-intersection are double points, defining segments along each coordinate axis which terminate in six pinch points. The entire surface has <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedral</a> <a href="/wiki/Symmetry_group" title="Symmetry group">symmetry</a>. It is a particular type (called type 1) of Steiner surface, that is, a 3-dimensional <a href="/wiki/Linear_projection" title="Linear projection" class="mw-redirect">linear projection</a> of the <a href="/wiki/Veronese_surface" title="Veronese surface">Veronese surface</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Derivation_of_implicit_formula"><span class="tocnumber">1</span> <span class="toctext">Derivation of implicit formula</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Derivation_of_parametric_equations"><span class="tocnumber">2</span> <span class="toctext">Derivation of parametric equations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relation_to_the_real_projective_plane"><span class="tocnumber">3</span> <span class="toctext">Relation to the real projective plane</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Structure_of_the_Roman_surface"><span class="tocnumber">4</span> <span class="toctext">Structure of the Roman surface</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#One-sidedness"><span class="tocnumber">5</span> <span class="toctext">One-sidedness</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Double.2C_triple.2C_and_pinching_points"><span class="tocnumber">6</span> <span class="toctext">Double, triple, and pinching points</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Derivation_of_implicit_formula">Derivation of implicit formula</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=1" title="Edit section: Derivation of implicit formula">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For simplicity we consider only the case <i>r</i> = 1. Given the sphere defined by the points (<i>x</i>, <i>y</i>, <i>z</i>) such that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x^2 + y^2 + z^2 = 1,\," src="//upload.wikimedia.org/math/4/b/9/4b9ffdfd88205094602e60e369278f2d.png" /></dd></dl>
+<p>we apply to these points the transformation <i>T</i> defined by <img class="mwe-math-fallback-image-inline tex" alt=" T(x, y, z) = (y z, z x, x y) = (U,V,W),\, " src="//upload.wikimedia.org/math/a/a/a/aaa9341050242178b16db83caf0fa066.png" /> say.
+</p><p>But then we have
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="&#10;\begin{align}&#10;U^2 V^2 + V^2 W^2 + W^2 U^2 &amp; =  z^2 x^2 y^4 + x^2 y^2 z^4 + y^2 z^2 x^4  =  (x^2 + y^2 + z^2)(x^2 y^2 z^2) \\[8pt]&#10;&amp; =  (1)(x^2 y^2 z^2) = (xy) (yz) (zx) = U V W,&#10;\end{align}&#10;" src="//upload.wikimedia.org/math/3/b/6/3b6a03f9ac1859d1f5e066e27c3d0248.png" /></dd></dl>
+<p>and so <img class="mwe-math-fallback-image-inline tex" alt="U^2 V^2 + V^2 W^2 + W^2 U^2 - U V W = 0\," src="//upload.wikimedia.org/math/4/7/8/478674c43c007c7e91c3461939cc84e9.png" /> as desired.
+</p><p><b>Conversely</b>, suppose we are given (<i>U</i>, <i>V</i>, <i>W</i>) satisfying
+</p><p>(*) <img class="mwe-math-fallback-image-inline tex" alt="U^2 V^2 + V^2 W^2 + W^2 U^2 - U V W = 0.\," src="//upload.wikimedia.org/math/7/0/3/70330fb582dc1e8daeab2104235ee0d0.png" />
+</p><p>We prove that there exists (<i>x</i>,<i>y</i>,<i>z</i>) such that
+</p><p>(**) <img class="mwe-math-fallback-image-inline tex" alt="x^2 + y^2 + z^2 = 1,\," src="//upload.wikimedia.org/math/4/b/9/4b9ffdfd88205094602e60e369278f2d.png" />
+</p><p>for which <img class="mwe-math-fallback-image-inline tex" alt="U = x y,  V = y z,  W = z x,\," src="//upload.wikimedia.org/math/6/7/a/67a5f3488018b10c32dba0024a757b38.png" />
+</p><p>with one exception:   In case 3.b. below, we  show this cannot be proved.
+</p><p><b>1.</b> In the case where none of <i>U</i>, <i>V</i>, <i>W</i> is 0, we can set
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x = \sqrt{\frac{WU}{V}},\  y = \sqrt{\frac{UV}{W}},\  z = \sqrt{\frac{VW}{U}}.\," src="//upload.wikimedia.org/math/7/9/e/79eb26228b7041479f7eaae231a8bcd0.png" /></dd></dl>
+<p>(Note that (*) guarantees that either all three of U, V, W are positive, or else exactly two are negative. So these square roots are of positive numbers.)
+</p><p>It is easy to use (*) to confirm that (**) holds for <i>x</i>, <i>y</i>, <i>z</i> defined this way.
+</p><p><b>2.</b> Suppose that <i>W</i> is 0. From (*) this implies <img class="mwe-math-fallback-image-inline tex" alt="U^2 V^2 = 0\," src="//upload.wikimedia.org/math/d/a/5/da5ddcbd7a4249c588deaa2692dfec1e.png" />
+</p><p>and hence at least one of <i>U</i>, <i>V</i> must be 0 also. This shows that is it impossible for exactly one of <i>U</i>, <i>V</i>, <i>W</i> to be 0.
+</p><p><b>3.</b> Suppose that exactly two of <i>U</i>, <i>V</i>, <i>W</i> are 0. <a href="/wiki/Without_loss_of_generality" title="Without loss of generality">Without loss of generality</a> we assume
+</p><p>(***)<img class="mwe-math-fallback-image-inline tex" alt=" U \neq 0,  V = W = 0.\," src="//upload.wikimedia.org/math/f/a/8/fa859422189800c51bb6873761e3ba0c.png" />
+</p><p>It follows that <img class="mwe-math-fallback-image-inline tex" alt="z = 0,\," src="//upload.wikimedia.org/math/2/5/b/25b02acd6b7452aac31821e6d4d8928a.png" />
+</p><p>(since <img class="mwe-math-fallback-image-inline tex" alt="z \neq 0,\," src="//upload.wikimedia.org/math/b/8/9/b89c6ca801c473bc0e38792e75e5a0ac.png" /> implies that <img class="mwe-math-fallback-image-inline tex" alt="x = y = 0,\," src="//upload.wikimedia.org/math/a/b/d/abd795e8e20d29b711a641c0f91028f5.png" /> and hence <img class="mwe-math-fallback-image-inline tex" alt="U = 0,\," src="//upload.wikimedia.org/math/5/b/d/5bd03ee599aecdc709101c319eca6648.png" /> contradicting (***).)
+</p><p><b>a.</b> In the subcase where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="|U| \leq \frac{1}{2}," src="//upload.wikimedia.org/math/5/f/1/5f15e64b14bbe8fac971c4c191bb23b4.png" /></dd></dl>
+<p>if we determine <i>x</i> and <i>y</i> by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="x^2 = \frac{1 + \sqrt{1 - 4 U^2}}{2}" src="//upload.wikimedia.org/math/7/9/9/79961d8a0b6157c30758fd77d7bf6eca.png" /></dd></dl>
+<p>and <img class="mwe-math-fallback-image-inline tex" alt="y^2 = \frac{1 - \sqrt{1 - 4 U^2}}{2}," src="//upload.wikimedia.org/math/c/5/6/c5654878a8d3cf3f93768f279aa12170.png" />
+</p><p>this ensures that (*) holds. It is easy to verify that <img class="mwe-math-fallback-image-inline tex" alt="x^2 y^2 = U^2,\," src="//upload.wikimedia.org/math/7/7/8/7783abde6c7151d8acf4718f2b91237d.png" />
+</p><p>and hence choosing the signs of <i>x</i> and <i>y</i> appropriately will guarantee <img class="mwe-math-fallback-image-inline tex" alt=" x y = U.\," src="//upload.wikimedia.org/math/2/4/2/2425d42354398d4f73dd75e79d28d20d.png" />
+</p><p>Since also <img class="mwe-math-fallback-image-inline tex" alt="y z = 0 = V\text{ and }z x = 0 = W,\," src="//upload.wikimedia.org/math/2/e/8/2e860e59327449e5db5e1252c6865191.png" />
+</p><p>this shows that <b>this subcase</b> leads to the desired converse.
+</p><p><b>b.</b> In this remaining subcase of the case <b>3.</b>, we have <img class="mwe-math-fallback-image-inline tex" alt="|U| &gt; \frac{1}{2}." src="//upload.wikimedia.org/math/d/c/e/dce6e90fe84dc8c13205666a9db51c0f.png" />
+</p><p>Since <img class="mwe-math-fallback-image-inline tex" alt="x^2 + y^2 = 1,\," src="//upload.wikimedia.org/math/a/d/3/ad36e752d0800d4a9638abe0eddc1dea.png" />
+</p><p>it is easy to check that <img class="mwe-math-fallback-image-inline tex" alt="xy \leq \frac{1}{2}," src="//upload.wikimedia.org/math/0/4/8/0489ee2ab8deedf48ada9d5dee24e00f.png" />
+</p><p>and thus in this case, where <img class="mwe-math-fallback-image-inline tex" alt="|U| &gt;1/2,\   V = W = 0," src="//upload.wikimedia.org/math/9/7/4/97479033c62689fbadd0bc401447c63e.png" />
+</p><p>there is <b>no</b> (<i>x</i>, <i>y</i>, <i>z</i>) satisfying <img class="mwe-math-fallback-image-inline tex" alt=" U = xy,\  V = yz,\  W =zx." src="//upload.wikimedia.org/math/3/f/3/3f38f537845661e01e3f7dfbf765cdb1.png" />
+</p><p>Hence the solutions (<i>U</i>, 0, 0) of the equation (*) with  <img class="mwe-math-fallback-image-inline tex" alt="|U| &gt; \frac12" src="//upload.wikimedia.org/math/0/9/c/09c015b38ae2a1d3091a37522206b84b.png" />
+</p><p>and likewise, (0, <i>V</i>, 0) with  <img class="mwe-math-fallback-image-inline tex" alt="|V| &gt; \frac12" src="//upload.wikimedia.org/math/e/a/a/eaa3c0c00631146f68ccc8e20f213032.png" />
+</p><p>and (0, 0, <i>W</i>) with <img class="mwe-math-fallback-image-inline tex" alt="|W| &gt; \frac12" src="//upload.wikimedia.org/math/9/a/a/9aaf6ffa954267fa2ae34072289f0b40.png" />
+</p><p>(each of which is a noncompact portion of a coordinate axis, in two pieces) <b>do not correspond to any point on the Roman surface</b>.
+</p><p><b>4.</b> If (<i>U</i>, <i>V</i>, <i>W</i>) is the point (0, 0, 0), then if any two of <i>x</i>, <i>y</i>, <i>z</i> are zero and the third one has absolute value 1, clearly <img class="mwe-math-fallback-image-inline tex" alt="(xy, yz, zx) =  (0, 0, 0) = (U, V, W)\," src="//upload.wikimedia.org/math/0/1/4/014f8d3ce23463f3e259ed6fa6a17780.png" /> as desired.
+</p><p>This covers all possible cases.
+</p>
+<h2><span class="mw-headline" id="Derivation_of_parametric_equations">Derivation of parametric equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=2" title="Edit section: Derivation of parametric equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let a sphere have radius <i>r</i>, longitude <i>&#966;</i>, and latitude <i>&#952;</i>. Then its parametric equations are
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" x = r \, \cos \theta \, \cos \phi, " src="//upload.wikimedia.org/math/5/7/a/57af45e78e6e25a5cc58ecda868fbcb5.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" y = r \, \cos \theta \, \sin \phi, " src="//upload.wikimedia.org/math/d/4/3/d43160a618627c35c46ad6cf3cfc3772.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" z = r \, \sin \theta. " src="//upload.wikimedia.org/math/a/8/d/a8d9eab63fb784fbcbc4d137e0a0fccb.png" /></dd></dl>
+<p>Then, applying transformation <i>T</i> to all the points on this sphere yields
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" x&#39; = y z = r^2 \, \cos \theta \, \sin \theta \, \sin \phi, " src="//upload.wikimedia.org/math/c/d/9/cd9f6b4696a60d3d5ad41da4cbb2d4fb.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" y&#39; = z x = r^2 \, \cos \theta \, \sin \theta \, \cos \phi, " src="//upload.wikimedia.org/math/c/c/e/cce6e940f65e3994abb9845644bc3f58.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" z&#39; = x y = r^2 \, \cos^2 \theta \, \cos \phi \, \sin \phi, " src="//upload.wikimedia.org/math/5/7/b/57b11067735226baee1bc2828d649aaa.png" /></dd></dl>
+<p>which are the points on the Roman surface. Let <i>&#966;</i> range from 0 to 2π, and let <i>&#952;</i> range from 0 to <i>&#960;/2</i>.
+</p>
+<h2><span class="mw-headline" id="Relation_to_the_real_projective_plane">Relation to the real projective plane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=3" title="Edit section: Relation to the real projective plane">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The sphere, before being transformed, is not <a href="/wiki/Homeomorphism" title="Homeomorphism">homeomorphic</a> to the real projective plane, <i>RP<sup>2</sup></i>. But the sphere centered at the origin has this property, that if point <i>(x,y,z)</i> belongs to the sphere, then so does the antipodal point <i>(-x,-y,-z)</i> and these two points are different: they lie on opposite sides of the center of the sphere.
+</p><p>The transformation <i>T</i> converts both of these antipodal points into the same point,
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" T : (x, y, z) \rightarrow (y z, z x, x y), " src="//upload.wikimedia.org/math/9/8/2/98220c21cea8a5689698a07fbd818533.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" T : (-x, -y, -z) \rightarrow ((-y) (-z), (-z) (-x), (-x) (-y)) = (y z, z x, x y). " src="//upload.wikimedia.org/math/3/8/b/38b247dde569aa9506deefc8d151739c.png" /></dd></dl>
+<p>Since this is true of all points of S<sup>2</sup>, then it is clear that the Roman surface is a continuous image of a "sphere modulo antipodes". Because some distinct pairs of antipodes are all taken to identical points in the Roman surface, it is not homeomorphic to <i>RP<sup>2</sup></i>, but is instead a quotient of the real projective plane <i>RP<sup>2</sup> = S<sup>2</sup> / (x~-x)</i>. Furthermore, the map T (above) from S<sup>2</sup> to this quotient has the special property that it is locally injective away from six pairs of antipodal points. Or from RP<sup>2</sup> the resulting map making this an immersion of RP<sup>2</sup> — minus six points — into 3-space.
+</p><p>(It was previously stated that the Roman surface is a homeomorphic to RP<sup>2</sup>, but this was in error. It was subsequently stated that the Roman surface is an immersion of RP<sup>2</sup> into R<sup>3</sup>, but that too was in error.)
+</p>
+<h2><span class="mw-headline" id="Structure_of_the_Roman_surface">Structure of the Roman surface</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=4" title="Edit section: Structure of the Roman surface">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Roman surface has four bulbous "lobes", each one on a different corner of a tetrahedron.
+</p><p>A Roman surface can be constructed by splicing together three <a href="/wiki/Paraboloid" title="Paraboloid">hyperbolic paraboloids</a> and then smoothing out the edges as necessary so that it will fit a desired shape (e.g. parametrization).
+</p><p>Let there be these three hyperbolic paraboloids:
+</p>
+<ul><li> <i>x</i> = <i>yz</i>,</li>
+<li> <i>y</i> = <i>zx</i>,</li>
+<li> <i>z</i> = <i>xy</i>.</li></ul>
+<p>These three hyperbolic paraboloids intersect externally along the six edges of a tetrahedron and internally along the three axes. The internal intersections are loci of double points. The three loci of double points: <i>x</i> = 0, <i>y</i> = 0, and <i>z</i> = 0, intersect at a triple point at the <a href="/wiki/Origin_(mathematics)" title="Origin (mathematics)">origin</a>.
+</p><p>For example, given <i>x</i> = <i>yz</i> and <i>y</i> = <i>zx</i>, the second paraboloid is equivalent to <i>x</i> = <i>y</i>/<i>z</i>. Then
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" y z = {y \over z} " src="//upload.wikimedia.org/math/a/a/7/aa7d88526cc84cd128484bfeb815894b.png" /></dd></dl>
+<p>and either <i>y</i> = 0 or <i>z</i><sup>2</sup> = 1 so that <i>z</i> = ±1. Their two external intersections are
+</p>
+<ul><li> <i>x = y</i>, <i>z</i> = 1;</li>
+<li> <i>x</i> = −<i>y</i>, <i>z</i> = −1.</li></ul>
+<p>Likewise, the other external intersections are
+</p>
+<ul><li> <i>x</i> = <i>z</i>, <i>y</i> = 1;</li>
+<li> <i>x</i> = −<i>z</i>, <i>y</i> = −1;</li>
+<li> <i>y</i> = <i>z</i>, <i>x</i> = 1;</li>
+<li> <i>y</i> = −<i>z</i>, <i>x</i> = −1.</li></ul>
+<p>Let us see the pieces being put together. Join the paraboloids <i>y</i> = <i>xz</i> and <i>x</i> = <i>yz</i>. The result is shown in Figure 1.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:JointPairOfHyperbolicParaboloids.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/JointPairOfHyperbolicParaboloids.PNG/220px-JointPairOfHyperbolicParaboloids.PNG" width="220" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/JointPairOfHyperbolicParaboloids.PNG/330px-JointPairOfHyperbolicParaboloids.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/2/20/JointPairOfHyperbolicParaboloids.PNG 2x" data-file-width="377" data-file-height="333" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:JointPairOfHyperbolicParaboloids.PNG" class="internal" title="Enlarge"></a></div><i>Figure 1.</i></div></div></div>
+<p>The paraboloid <i>y = x z</i> is shown in blue and orange. The paraboloid <i>x = y z</i> is shown in cyan and purple. In the image the paraboloids are seen to intersect along the <i>z = 0</i> axis. If the paraboloids are extended, they should also be seen to intersect along the lines
+</p>
+<ul><li> <i>z</i> = 1, <i>y</i> = <i>x</i>;</li>
+<li> <i>z</i> = −1, <i>y</i> = −<i>x</i>.</li></ul>
+<p>The two paraboloids together look like a pair of <a href="/wiki/Orchid" title="Orchid" class="mw-redirect">orchids</a> joined back-to-back.
+</p><p>Now run the third hyperbolic paraboloid, <i>z</i> = <i>xy</i>, through them. The result is shown in Figure 2.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ThreeJointHyperbolicParaboloidsTopView.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ThreeJointHyperbolicParaboloidsTopView.PNG/220px-ThreeJointHyperbolicParaboloidsTopView.PNG" width="220" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ThreeJointHyperbolicParaboloidsTopView.PNG/330px-ThreeJointHyperbolicParaboloidsTopView.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f1/ThreeJointHyperbolicParaboloidsTopView.PNG 2x" data-file-width="378" data-file-height="355" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ThreeJointHyperbolicParaboloidsTopView.PNG" class="internal" title="Enlarge"></a></div><i>Figure 2.</i></div></div></div>
+<p>On the west-southwest and east-northeast directions in Figure 2 there are a pair of openings. These openings are lobes and need to be closed up. When the openings are closed up, the result is the Roman surface shown in Figure 3.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:RomanSurfaceTopView.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomanSurfaceTopView.PNG/220px-RomanSurfaceTopView.PNG" width="220" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomanSurfaceTopView.PNG/330px-RomanSurfaceTopView.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/4/46/RomanSurfaceTopView.PNG 2x" data-file-width="357" data-file-height="324" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:RomanSurfaceTopView.PNG" class="internal" title="Enlarge"></a></div><i>Figure 3. Roman surface.</i></div></div></div>
+<p>A pair of lobes can be seen in the West and East directions of Figure 3. Another pair of lobes are hidden underneath the third (<i>z</i> = <i>xy</i>) paraboloid and lie in the North and South directions.
+</p><p>If the three intersecting hyperbolic paraboloids are drawn far enough that they intersect along the edges of a tetrahedron, then the result is as shown in Figure 4.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:RomanTetrahedron.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RomanTetrahedron.PNG/220px-RomanTetrahedron.PNG" width="220" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RomanTetrahedron.PNG/330px-RomanTetrahedron.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5b/RomanTetrahedron.PNG 2x" data-file-width="436" data-file-height="370" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:RomanTetrahedron.PNG" class="internal" title="Enlarge"></a></div><i>Figure 4.</i></div></div></div>
+<p>One of the lobes is seen frontally—head on—in Figure 4. The lobe can be seen to be one of the four corners of the tetrahedron.
+</p><p>If the continuous surface in Figure 4 has its sharp edges rounded out—smoothed out—then the result is the Roman surface in Figure 5.
+<a href="/wiki/File:RomanSurfaceFrontalView.PNG" class="image" title="Figure 5. Roman surface."><img alt="Figure 5. Roman surface." src="//upload.wikimedia.org/wikipedia/commons/7/7a/RomanSurfaceFrontalView.PNG" width="339" height="309" data-file-width="339" data-file-height="309" /></a>
+</p><p>One of the lobes of the Roman surface is seen frontally in Figure 5, and its <a href="/wiki/Light_bulb" title="Light bulb" class="mw-redirect">bulbous</a> – balloon-like—shape is evident.
+</p><p>If the surface in Figure 5 is turned around 180 degrees and then turned upside down, the result is as shown in Figure 6.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:RomanSurfaceSidewaysView.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RomanSurfaceSidewaysView.PNG/220px-RomanSurfaceSidewaysView.PNG" width="220" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RomanSurfaceSidewaysView.PNG/330px-RomanSurfaceSidewaysView.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ad/RomanSurfaceSidewaysView.PNG 2x" data-file-width="356" data-file-height="347" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:RomanSurfaceSidewaysView.PNG" class="internal" title="Enlarge"></a></div><i>Figure 6. Roman surface.</i></div></div></div>
+<p>Figure 6 shows three lobes seen sideways. Between each pair of lobes there is a locus of double points corresponding to a coordinate axis. The three loci intersect at a triple point at the origin. The fourth lobe is hidden and points in the direction directly opposite from the viewer. The Roman surface shown at the top of this article also has three lobes in sideways view.
+</p>
+<h2><span class="mw-headline" id="One-sidedness">One-sidedness</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=5" title="Edit section: One-sidedness">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Roman surface is non-<a href="/wiki/Orientable" title="Orientable" class="mw-redirect">orientable</a>, i.e. one-sided. This is not quite obvious. To see this, look again at Figure 3.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:RomanSurfaceTopView.PNG" class="image"><img alt="RomanSurfaceTopView.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomanSurfaceTopView.PNG/220px-RomanSurfaceTopView.PNG" width="220" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/RomanSurfaceTopView.PNG/330px-RomanSurfaceTopView.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/4/46/RomanSurfaceTopView.PNG 2x" data-file-width="357" data-file-height="324" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:RomanSurfaceTopView.PNG" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>Imagine an <a href="/wiki/Ant" title="Ant">ant</a> on top of the "third" <a href="/wiki/Hyperbolic_paraboloid" title="Hyperbolic paraboloid" class="mw-redirect">hyperbolic paraboloid</a>, <i>z = x y</i>. Let this ant move North. As it moves, it will pass through the other two paraboloids, like a ghost passing through a wall. These other paraboloids only seem like obstacles due to the self-intersecting nature of the immersion. Let the ant ignore all double and triple points and pass right through them. So the ant moves to the North and falls off the edge of the world, so to speak. It now finds itself on the northern lobe, hidden underneath the third paraboloid of Figure 3. The ant is standing upside-down, on the "outside" of the Roman surface.
+</p><p>Let the ant move towards the Southwest. It will climb a slope (upside-down) until it finds itself "inside" the Western lobe. Now let the ant move in a Southeastern direction along the inside of the Western lobe towards the <i>z = 0</i> axis, always above the <i>x-y</i> plane. As soon as it passes through the <i>z = 0</i> axis the ant will be on the "outside" of the Eastern lobe, standing rightside-up.
+</p><p>Then let it move Northwards, over "the hill", then towards the Northwest so that it starts sliding down towards the <i>x = 0</i> axis. As soon as the ant crosses this axis it will find itself "inside" the Northern lobe, standing right side up. Now let the ant walk towards the North. It will climb up the wall, then along the "roof" of the Northern lobe. The ant is back on the third hyperbolic paraboloid, but this time under it and standing upside-down. (Compare with <a href="/wiki/Klein_bottle" title="Klein bottle">Klein bottle</a>.)
+</p>
+<h2><span class="mw-headline" id="Double.2C_triple.2C_and_pinching_points">Double, triple, and pinching points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=6" title="Edit section: Double, triple, and pinching points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Roman surface has four "lobes". The boundaries of each lobe are a set of three lines of double points. Between each pair of lobes there is a line of double points. The surface has a total of three lines of double points, which lie (in the parametrization given earlier) on the coordinate axes. The three lines of double points intersect at a triple point which lies on the origin. The triple point cuts the lines of double points into a pair of half-lines, and each half-line lies between a pair of lobes. One might expect from the preceding statements that there could be up to eight lobes, one in each octant of space which has been divided by the coordinate planes. But the lobes occupy alternating octants: four octants are empty and four are occupied by lobes.
+</p><p>If the Roman surface were to be inscribed inside the tetrahedron with least possible volume, one would find that each edge of the tetrahedron is tangent to the Roman surface at a point, and that each of these six points happens to be a <i>Whitney <a href="/wiki/Mathematical_singularity" title="Mathematical singularity" class="mw-redirect">singularity</a></i>. These singularities, or pinching points, all lie at the edges of the three lines of double points, and they are defined by this property: that there is no plane <a href="/wiki/Tangent_space" title="Tangent space">tangent</a> to surface at the singularity.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Boy%27s_surface" title="Boy&#39;s surface">Boy's surface</a> – an <a href="/wiki/Embedding" title="Embedding">immersion</a> of the projective plane without cross-caps.</li>
+<li><a href="/wiki/Tetrahemihexahedron" title="Tetrahemihexahedron">Tetrahemihexahedron</a> – a <a href="/wiki/Polyhedron" title="Polyhedron">polyhedron</a> very similar to the Roman surface.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>A. Coffman, A. Schwartz, and C. Stanton: <i>The Algebra and Geometry of Steiner and other Quadratically Parametrizable Surfaces</i>. In <i>Computer Aided Geometric Design</i> (3) 13 (April 1996), p.&#160;257-286</li>
+<li>Bert Jüttler, Ragni Piene: <i>Geometric Modeling and Algebraic Geometry</i>. Springer 2008, <a href="/wiki/Special:BookSources/9783540721840" class="internal mw-magiclink-isbn">ISBN 978-3-540-72184-0</a>, p.&#160;30 (<i><a rel="nofollow" class="external text" href="//books.google.com/books?id=1wNGq87gWykC&amp;pg=PA30">restricted online copy</a></i>, p. 30, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roman_surface&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>A. Coffman, "<i><a rel="nofollow" class="external text" href="http://www.ipfw.edu/departments/coas/depts/math/coffman/steinersurface.html">Steiner Surfaces</a>"</i></li>
+<li><span class="citation mathworld" id="Reference-Mathworld-Roman_Surface"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/RomanSurface.html">"Roman Surface"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li>
+<li><a rel="nofollow" class="external text" href="http://curvebank.calstatela.edu/romansurfaces/romansurfaces.htm"><i>Roman Surfaces</i></a> at the <i>National Curve Bank</i> (website of the California State University)</li>
+<li> <a rel="nofollow" class="external text" href="http://www.eg-models.de/models/Surfaces/Algebraic_Surfaces/2003.05.001/">Ashay Dharwadker, Heptahedron and Roman Surface, Electronic Geometry Models, 2004.</a></li></ul>

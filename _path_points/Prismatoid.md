@@ -1,0 +1,101 @@
+﻿---
+lastrevid: 641726208
+pageid: 23917
+canonicalurl: http://en.wikipedia.org/wiki/Prismatoid
+title: Prismatoid
+editurl: http://en.wikipedia.org/w/index.php?title=Prismatoid&action=edit
+length: 2939
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-18T22:12:11Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Prismatoid
+---
+
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, a <b>prismatoid</b> is a <a href="/wiki/Polyhedron" title="Polyhedron">polyhedron</a> where all <a href="/wiki/Vertex_(geometry)" title="Vertex (geometry)">vertices</a> lie in two parallel planes.  (If both planes have the same number of vertices, 
+and the lateral faces are either <a href="/wiki/Parallelogram" title="Parallelogram">parallelograms</a> or <a href="/wiki/Trapezoid" title="Trapezoid">trapezoids</a>, it is called a <b>prismoid</b>.)
+</p><p>If the areas of the two parallel faces are A<sub>1</sub> and A<sub>3</sub>, the cross-sectional area of the intersection of the prismatoid with a plane midway between the two parallel faces is A<sub>2</sub>, and the height (the distance between the two parallel faces) is h, then the <a href="/wiki/Volume" title="Volume">volume</a> of the prismatoid is given by <img class="mwe-math-fallback-image-inline tex" alt="V = \frac{h(A_1 + 4A_2 + A_3)}{6}" src="//upload.wikimedia.org/math/1/a/c/1acd8bb0bd5fa2241e1e4d8dd823d05c.png" /> or <img class="mwe-math-fallback-image-inline tex" alt="V = \frac{nh(a^2+4b^2+c^2)}{24\tan (180/n)}" src="//upload.wikimedia.org/math/8/a/9/8a90aa737ded6ca37025f5b2832627f1.png" />(This formula follows immediately by <a href="/wiki/Integral" title="Integral">integrating</a> the area parallel to the two planes of vertices by <a href="/wiki/Simpson%27s_rule" title="Simpson&#39;s rule">Simpson's rule</a>, since that rule is exact for integration of <a href="/wiki/Polynomial" title="Polynomial">polynomials</a> of degree up to 3, and in this case the area is at most a <a href="/wiki/Quadratic_function" title="Quadratic function">quadratic function</a> in the height.)
+</p>
+<h2><span class="mw-headline" id="Prismatoid_families">Prismatoid families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prismatoid&amp;action=edit&amp;section=1" title="Edit section: Prismatoid families">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Pentagonal_pyramid.png" class="image"><img alt="Pentagonal pyramid.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pentagonal_pyramid.png/100px-Pentagonal_pyramid.png" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pentagonal_pyramid.png/150px-Pentagonal_pyramid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pentagonal_pyramid.png/200px-Pentagonal_pyramid.png 2x" data-file-width="413" data-file-height="255" /></a>
+<a href="/wiki/File:Pentagonal_prism.png" class="image"><img alt="Pentagonal prism.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pentagonal_prism.png/100px-Pentagonal_prism.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pentagonal_prism.png/150px-Pentagonal_prism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pentagonal_prism.png/200px-Pentagonal_prism.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<a href="/wiki/File:Pentagonal_antiprism.png" class="image"><img alt="Pentagonal antiprism.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pentagonal_antiprism.png/100px-Pentagonal_antiprism.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pentagonal_antiprism.png/150px-Pentagonal_antiprism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pentagonal_antiprism.png/200px-Pentagonal_antiprism.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<a href="/wiki/File:Pentagrammic_crossed_antiprism.png" class="image"><img alt="Pentagrammic crossed antiprism.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pentagrammic_crossed_antiprism.png/100px-Pentagrammic_crossed_antiprism.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pentagrammic_crossed_antiprism.png/150px-Pentagrammic_crossed_antiprism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pentagrammic_crossed_antiprism.png/200px-Pentagrammic_crossed_antiprism.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<a href="/wiki/File:Pentagonal_cupola.png" class="image"><img alt="Pentagonal cupola.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pentagonal_cupola.png/100px-Pentagonal_cupola.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pentagonal_cupola.png/150px-Pentagonal_cupola.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pentagonal_cupola.png/200px-Pentagonal_cupola.png 2x" data-file-width="512" data-file-height="512" /></a>
+<a href="/wiki/File:Pentagonal_frustum.svg" class="image"><img alt="Pentagonal frustum.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pentagonal_frustum.svg/100px-Pentagonal_frustum.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pentagonal_frustum.svg/150px-Pentagonal_frustum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pentagonal_frustum.svg/200px-Pentagonal_frustum.svg.png 2x" data-file-width="500" data-file-height="500" /></a>
+</p><p>Families of prismatoids include:
+</p>
+<ul><li> <a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">Pyramids</a>, where one plane contains only a single point;</li>
+<li> <a href="/wiki/Wedge_(geometry)" title="Wedge (geometry)">Wedges</a>, where one plane contains only two points;</li>
+<li> <a href="/wiki/Prism_(geometry)" title="Prism (geometry)">Prisms</a>, where the polygons in each plane are congruent and joined by rectangles or parallelograms;</li>
+<li> <a href="/wiki/Antiprism" title="Antiprism">Antiprisms</a>, where the polygons in each plane are congruent and joined by an alternating strip of triangles;</li>
+<li> <a href="/wiki/Crossed_antiprism" title="Crossed antiprism" class="mw-redirect">Crossed antiprisms</a>;</li>
+<li> <a href="/wiki/Cupola_(geometry)" title="Cupola (geometry)">Cupolae</a>, where the polygon in one plane contains twice as many points as the other and is joined to it by alternating triangles and rectangles;</li>
+<li> <a href="/wiki/Frustum" title="Frustum">Frusta</a> obtained by <a href="/wiki/Truncation_(geometry)" title="Truncation (geometry)">truncation</a> of a pyramid;</li>
+<li> <a href="/wiki/Quadrilateral" title="Quadrilateral">Quadrilateral</a>-faced <a href="/wiki/Hexahedron" title="Hexahedron">hexahedral</a> prismatoids:
+<ol><li> <a href="/wiki/Parallelepiped" title="Parallelepiped">Parallelepipeds</a> - six <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a> faces</li>
+<li> <a href="/wiki/Rhombohedron" title="Rhombohedron">Rhombohedrons</a> - six <a href="/wiki/Rhombus" title="Rhombus">rhombus</a> faces</li>
+<li> <a href="/wiki/Trigonal_trapezohedron" title="Trigonal trapezohedron">Trigonal trapezohedra</a> - six congruent rhombus faces</li>
+<li> <a href="/wiki/Cuboid" title="Cuboid">Cuboids</a> - six rectangular faces</li>
+<li> <a href="/wiki/Frustum" title="Frustum">Quadrilateral frusta</a> - an <a href="/wiki/Apex_(geometry)" title="Apex (geometry)">apex</a>-<a href="/wiki/Truncation_(geometry)" title="Truncation (geometry)">truncated</a> <a href="/wiki/Square_pyramid" title="Square pyramid">square pyramid</a></li>
+<li> <a href="/wiki/Cube" title="Cube">Cubes</a> - six square faces</li></ol></li></ul>
+<h2><span class="mw-headline" id="Higher_dimensions">Higher dimensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prismatoid&amp;action=edit&amp;section=2" title="Edit section: Higher dimensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In general a <a href="/wiki/Polytope" title="Polytope">polytope</a> is prismatoidal if its vertices exist in two <a href="/wiki/Hyperplane" title="Hyperplane">hyperplanes</a>. For example in 4-dimensions, two polyhedra can be placed in 2 parallel 3-spaces, and connected with polyhedral sides.
+</p><p><a href="/wiki/File:4D_Tetrahedral_Cupola-perspective-cuboctahedron-first.png" class="image"><img alt="4D Tetrahedral Cupola-perspective-cuboctahedron-first.png" src="//upload.wikimedia.org/wikipedia/commons/1/17/4D_Tetrahedral_Cupola-perspective-cuboctahedron-first.png" width="320" height="311" data-file-width="215" data-file-height="209" /></a><br>A tetrahedral-cuboctahedral cupola.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prismatoid&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <span class="citation mathworld" id="Reference-Mathworld-Prismatoid"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Prismatoid.html">"Prismatoid"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Convex_polyhedron_navigator" title="Template:Convex polyhedron navigator"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Convex_polyhedron_navigator" title="Template talk:Convex polyhedron navigator"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Convex_polyhedron_navigator&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%">Convex <a href="/wiki/Polyhedron" title="Polyhedron">polyhedra</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/Platonic_solid" title="Platonic solid">Platonic solids</a> <span style="font-weight:normal;">(<a href="/wiki/Regular_polyhedron" title="Regular polyhedron">regular</a>)</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedron</a></li>
+<li><a href="/wiki/Cube" title="Cube">cube</a></li>
+<li><a href="/wiki/Octahedron" title="Octahedron">octahedron</a></li>
+<li><a href="/wiki/Dodecahedron" title="Dodecahedron">dodecahedron</a></li>
+<li><a href="/wiki/Regular_icosahedron" title="Regular icosahedron">icosahedron</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Archimedean_solid" title="Archimedean solid">Archimedean solids</a><br/><span style="font-weight:normal;">(<a href="/wiki/Semiregular_polyhedron" title="Semiregular polyhedron">semiregular</a> or <a href="/wiki/Uniform_polyhedron" title="Uniform polyhedron">uniform</a>)</span></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Truncated_tetrahedron" title="Truncated tetrahedron">truncated tetrahedron</a></li>
+<li><a href="/wiki/Cuboctahedron" title="Cuboctahedron">cuboctahedron</a></li>
+<li><a href="/wiki/Truncated_cube" title="Truncated cube">truncated cube</a></li>
+<li><a href="/wiki/Truncated_octahedron" title="Truncated octahedron">truncated octahedron</a></li>
+<li><a href="/wiki/Rhombicuboctahedron" title="Rhombicuboctahedron">rhombicuboctahedron</a></li>
+<li><a href="/wiki/Truncated_cuboctahedron" title="Truncated cuboctahedron">truncated cuboctahedron</a></li>
+<li><a href="/wiki/Snub_cube" title="Snub cube">snub cube</a></li>
+<li><a href="/wiki/Icosidodecahedron" title="Icosidodecahedron">icosidodecahedron</a></li>
+<li><a href="/wiki/Truncated_dodecahedron" title="Truncated dodecahedron">truncated dodecahedron</a></li>
+<li><a href="/wiki/Truncated_icosahedron" title="Truncated icosahedron">truncated icosahedron</a></li>
+<li><a href="/wiki/Rhombicosidodecahedron" title="Rhombicosidodecahedron">rhombicosidodecahedron</a></li>
+<li><a href="/wiki/Truncated_icosidodecahedron" title="Truncated icosidodecahedron">truncated icosidodecahedron</a></li>
+<li><a href="/wiki/Snub_dodecahedron" title="Snub dodecahedron">snub dodecahedron</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Catalan_solid" title="Catalan solid">Catalan solids</a><br/><span style="font-weight:normal;">(duals of Archimedian)</span></div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Triakis_tetrahedron" title="Triakis tetrahedron">triakis tetrahedron</a></li>
+<li><a href="/wiki/Rhombic_dodecahedron" title="Rhombic dodecahedron">rhombic dodecahedron</a></li>
+<li><a href="/wiki/Triakis_octahedron" title="Triakis octahedron">triakis octahedron</a></li>
+<li><a href="/wiki/Tetrakis_hexahedron" title="Tetrakis hexahedron">tetrakis cube</a></li>
+<li><a href="/wiki/Deltoidal_icositetrahedron" title="Deltoidal icositetrahedron">deltoidal icositetrahedron</a></li>
+<li><a href="/wiki/Disdyakis_dodecahedron" title="Disdyakis dodecahedron">disdyakis dodecahedron</a></li>
+<li><a href="/wiki/Pentagonal_icositetrahedron" title="Pentagonal icositetrahedron">pentagonal icositetrahedron</a></li>
+<li><a href="/wiki/Rhombic_triacontahedron" title="Rhombic triacontahedron">rhombic triacontahedron</a></li>
+<li><a href="/wiki/Triakis_icosahedron" title="Triakis icosahedron">triakis icosahedron</a></li>
+<li><a href="/wiki/Pentakis_dodecahedron" title="Pentakis dodecahedron">pentakis dodecahedron</a></li>
+<li><a href="/wiki/Deltoidal_hexecontahedron" title="Deltoidal hexecontahedron">deltoidal hexecontahedron</a></li>
+<li><a href="/wiki/Disdyakis_triacontahedron" title="Disdyakis triacontahedron">disdyakis triacontahedron</a></li>
+<li><a href="/wiki/Pentagonal_hexecontahedron" title="Pentagonal hexecontahedron">pentagonal hexecontahedron</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Dihedral regular</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Dihedron" title="Dihedron">dihedron</a></i></li>
+<li><i><a href="/wiki/Hosohedron" title="Hosohedron">hosohedron</a></i></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Dihedral uniform</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Prism_(geometry)" title="Prism (geometry)">prisms</a></li>
+<li><a href="/wiki/Antiprism" title="Antiprism">antiprisms</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;"><div style="padding:0em 0.75em;">duals:</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bipyramid" title="Bipyramid">bipyramids</a></li>
+<li><a href="/wiki/Trapezohedron" title="Trapezohedron">trapezohedra</a></li></ul>
+</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Dihedral others</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">pyramids</a></li>
+<li><a href="/wiki/Truncated_trapezohedron" title="Truncated trapezohedron">truncated trapezohedra</a></li>
+<li><a href="/wiki/Gyroelongated_bipyramid" title="Gyroelongated bipyramid">gyroelongated bipyramid</a></li>
+<li><a href="/wiki/Cupola_(geometry)" title="Cupola (geometry)">cupola</a></li>
+<li><a href="/wiki/Bicupola_(geometry)" title="Bicupola (geometry)">bicupola</a></li>
+<li><a href="/wiki/Frustum" title="Frustum">pyramidal frusta</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Degenerate polyhedra are in <i>italics</i>.</div></td></tr></table></td></tr></table>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tr><td><a href="/wiki/File:Octahedron.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/30px-Octahedron.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/45px-Octahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/60px-Octahedron.svg.png 2x" data-file-width="840" data-file-height="832" /></a></td><td><i>This <a href="/wiki/Polyhedron" title="Polyhedron">polyhedron</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Prismatoid&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Polyhedron-stub" title="Template:Polyhedron-stub"><span title="View this template">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Polyhedron-stub" title="Template talk:Polyhedron-stub"><span title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Polyhedron-stub&amp;action=edit"><span title="Edit this template">e</span></a></li></ul></div></td></tr></table>

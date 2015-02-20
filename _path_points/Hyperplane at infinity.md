@@ -1,0 +1,27 @@
+﻿---
+lastrevid: 612723795
+pageid: 713946
+canonicalurl: http://en.wikipedia.org/wiki/Hyperplane_at_infinity
+title: Hyperplane at infinity
+editurl: http://en.wikipedia.org/w/index.php?title=Hyperplane_at_infinity&action=edit
+length: 2696
+contentmodel: wikitext
+pagelanguage: en
+touched: 2014-06-13T04:14:07Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Hyperplane_at_infinity
+---
+
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, any <a href="/wiki/Hyperplane" title="Hyperplane">hyperplane</a> <i>H</i> of a <a href="/wiki/Projective_space" title="Projective space">projective space</a> <i>P</i> may be taken as a <b>hyperplane at infinity</b>. Then the <a href="/wiki/Set_complement" title="Set complement" class="mw-redirect">set complement</a> <span class="nowrap"><i>P</i> ∖ <i>H</i></span> is called an <a href="/wiki/Affine_space" title="Affine space">affine space</a>. For instance, if <span class="nowrap">(<i>x</i><sub>1</sub>, ..., <i>x</i><sub><i>n</i></sub>, <i>x</i><sub><i>n</i>+1</sub>)</span> are <a href="/wiki/Homogeneous_coordinates" title="Homogeneous coordinates">homogeneous coordinates</a> for <i>n</i>-dimensional projective space, then the equation <span class="nowrap"><i>x</i><sub><i>n</i>+1</sub> = 0</span> defines a hyperplane at infinity for the <i>n</i>-dimensional affine space with coordinates <span class="nowrap">(<i>x</i><sub>1</sub>, ..., <i>x</i><sub><i>n</i></sub>)</span>. <i>H</i> is also called the <b>ideal hyperplane</b>.
+</p><p>Similarly, starting from an affine space <i>A</i>, every class of <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a> lines can be associated with a <a href="/wiki/Point_at_infinity" title="Point at infinity">point at infinity</a>. The <a href="/wiki/Union_(set_theory)" title="Union (set theory)">union</a> over all classes of parallels constitute the points of the hyperplane at infinity. Adjoining the points of this hyperplane (called <b>ideal points</b>) to <i>A</i> converts it into an <i>n</i>-dimensional projective space, such as the real projective space <span class="nowrap"><b>R</b>P<sup><i>n</i></sup></span>.
+</p><p>By adding these ideal points, the entire affine space <i>A</i> is completed to a projective space <i>P</i>, which may be called the <b>projective completion</b> of <i>A</i>.  Each <a href="/wiki/Affine_subspace" title="Affine subspace" class="mw-redirect">affine subspace</a> <i>S</i> of <i>A</i> is completed to a <a href="/wiki/Projective_space" title="Projective space">projective subspace</a> of <i>P</i> by adding to <i>S</i> all the ideal points corresponding to the directions of the lines contained in <i>S</i>.  The resulting projective subspaces are often called <i>affine subspaces</i> of the projective space <i>P</i>, as opposed to the <b>infinite</b> or <b>ideal</b> subspaces, which are the subspaces of the hyperplane at infinity (however, they are projective spaces, not affine spaces).
+</p><p>In the projective space, each projective subspace of dimension <i>k</i> intersects the ideal hyperplane in a projective subspace "at infinity" whose dimension is <span class="nowrap"><i>k</i> − 1</span>.
+</p><p>A pair of non-<a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a> affine hyperplanes intersect at an affine subspace of dimension <span class="nowrap"><i>n</i> − 2</span>, but a parallel pair of affine hyperplanes intersect at a projective subspace of the ideal hyperplane (the intersection <i>lies on</i> the ideal hyperplane). Thus, parallel hyperplanes, which did not meet in the affine space, intersect in the projective completion due to the addition of the hyperplane at infinity.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperplane_at_infinity&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a href="/wiki/Line_at_infinity" title="Line at infinity">Line at infinity</a></li>
+<li> <a href="/wiki/Plane_at_infinity" title="Plane at infinity">Plane at infinity</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperplane_at_infinity&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> Albrecht Beutelspacher &amp; Ute Rosenbaum (1998) <i>Projective Geometry: From Foundations to Applications</i>, p 27, <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a> <a href="/wiki/Special:BookSources/0521482771" class="internal mw-magiclink-isbn">ISBN 0-521-48277-1</a> .</li></ul>

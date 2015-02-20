@@ -1,0 +1,126 @@
+﻿---
+lastrevid: 640984884
+pageid: 387224
+canonicalurl: http://en.wikipedia.org/wiki/Incidence_(geometry)
+title: Incidence (geometry)
+editurl: http://en.wikipedia.org/w/index.php?title=Incidence_(geometry)&action=edit
+length: 7419
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-01-04T20:08:11Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Incidence_(geometry)
+---
+
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, the <a href="/wiki/Relation_(mathematics)" title="Relation (mathematics)" class="mw-redirect">relations</a> of <b>incidence</b> are those such as 'lies on' between points and lines (as in 'point P lies on line L'), and  'intersects' (as in 'line L<sub>1</sub> intersects line L<sub>2</sub>', in three-<a href="/wiki/Dimension" title="Dimension">dimensional</a> space). That is, they are the <a href="/wiki/Binary_relation" title="Binary relation">binary relations</a> describing how <a href="/wiki/Subset" title="Subset">subsets</a> meet. The <b>propositions of incidence</b> stated in terms of them are statements such as 'any two lines in a plane meet'. This is true in a <a href="/wiki/Projective_plane" title="Projective plane">projective plane</a>, though not true in <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a> of two dimensions where lines may be <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a>. 
+</p><p>Historically, <a href="/wiki/Projective_geometry" title="Projective geometry">projective geometry</a> was introduced in order to make the propositions of incidence true (without exceptions such as are caused by parallels). From the point of view of <a href="/wiki/Synthetic_geometry" title="Synthetic geometry">synthetic geometry</a> it was considered that projective geometry <i>should be</i> developed using such propositions as <a href="/wiki/Axiom" title="Axiom">axioms</a>.  This turns out to make a major difference only for the projective plane (for reasons to do with <a href="/wiki/Desargues%27_theorem" title="Desargues&#39; theorem">Desargues' theorem</a>). 
+</p><p>The modern approach is to define <a href="/wiki/Projective_space" title="Projective space">projective space</a> starting from <a href="/wiki/Linear_algebra" title="Linear algebra">linear algebra</a> and <a href="/wiki/Homogeneous_co-ordinates" title="Homogeneous co-ordinates" class="mw-redirect">homogeneous co-ordinates</a>. Then the propositions of incidence are derived from the following basic result on <a href="/wiki/Vector_space" title="Vector space">vector spaces</a>: given subspaces <i>U</i> and <i>V</i> of a vector space <i>W</i>, the dimension of their intersection is at least dim <i>U</i> + dim <i>V</i> &#8722; dim <i>W</i>. Bearing in mind that the dimension of the projective space <b>P</b>(<i>W</i>) associated to <i>W</i> is dim <i>W</i> &#8722; 1, but that we require an intersection of subspaces of dimension at least 1 to register in projective space (the subspace {0} being common to all subspaces of <i>W</i>), we get the basic proposition of incidence in this form: <a href="/wiki/Linear_subspace" title="Linear subspace">linear subspaces</a> <b>L</b> and <b>M</b> of projective space <b>P</b> meet provided dim <b>L</b> + dim <b>M</b> is at least dim <b>P</b>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intersection_of_a_pair_of_lines"><span class="tocnumber">1</span> <span class="toctext">Intersection of a pair of lines</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Determining_the_line_passing_through_a_pair_of_points"><span class="tocnumber">2</span> <span class="toctext">Determining the line passing through a pair of points</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Checking_for_incidence_of_a_line_on_a_point"><span class="tocnumber">3</span> <span class="toctext">Checking for incidence of a line on a point</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Concurrence"><span class="tocnumber">4</span> <span class="toctext">Concurrence</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Collinearity"><span class="tocnumber">5</span> <span class="toctext">Collinearity</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intersection_of_a_pair_of_lines">Intersection of a pair of lines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=1" title="Edit section: Intersection of a pair of lines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let <i>L</i><sub>1</sub> and <i>L</i><sub>2</sub> be a pair of lines, both in a projective plane and expressed in homogeneous coordinates:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_1 : [m_1 : b_1 : 1]_L " src="//upload.wikimedia.org/math/8/3/e/83e47612721a4b83bcd70cda4ede0272.png" /></dd></dl>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_2 : [m_2 : b_2 : 1]_L " src="//upload.wikimedia.org/math/2/c/a/2caeedfd850788b09bae436550f1d47f.png" /></dd></dl>
+<p>where <i>m</i><sub>1</sub> and <i>m</i><sub>2</sub> are <a href="/wiki/Slope" title="Slope">slopes</a> and <i>b</i><sub>1</sub> and <i>b</i><sub>2</sub> are <a href="/wiki/Y-intercept" title="Y-intercept">y-intercepts</a>.  Moreover let <i>g</i> be the <a href="/wiki/Duality_(projective_geometry)" title="Duality (projective geometry)">duality mapping</a>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" g : [x : y : z] \mapsto [x : -z : y] " src="//upload.wikimedia.org/math/1/d/2/1d224198d33bd4286a06fd67e07be7bf.png" /></dd></dl>
+<p>which maps lines onto their dual points.  Then the intersection of lines <i>L</i><sub>1</sub> and <i>L</i><sub>2</sub> is point <i>P</i><sub>3</sub> where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" P_3 = g(L_1 \times L_2). " src="//upload.wikimedia.org/math/4/c/4/4c447b781c860e5ee18da443c1553ca4.png" /></dd></dl>
+<h2><span class="mw-headline" id="Determining_the_line_passing_through_a_pair_of_points">Determining the line passing through a pair of points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=2" title="Edit section: Determining the line passing through a pair of points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let <i>P</i><sub>1</sub> and <i>P</i><sub>2</sub> be a pair of points, both in a projective plane and expressed in homogeneous coordinates:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" P_1 : [x_1 : y_1 : z_1], " src="//upload.wikimedia.org/math/f/4/d/f4d03428764305e1ef478dab431fb884.png" /></dd></dl>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" P_2 : [x_2 : y_2 : z_2]. " src="//upload.wikimedia.org/math/e/c/a/eca067275c3961c7075531cce218e9b3.png" /></dd></dl>
+<p>Let <i>g</i><sup>&#8722;1</sup> be the inverse duality mapping:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" g^{-1} : [x : y : z] \mapsto [x : z : -y] " src="//upload.wikimedia.org/math/1/a/d/1adca7f3f0ad0c25187f5b1ec728bcf6.png" /></dd></dl>
+<p>which maps points onto their dual lines.  Then the unique line passing through points <i>P</i><sub>1</sub> and <i>P</i><sub>2</sub> is <i>L</i><sub>3</sub> where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_3 = g^{-1}(P_1 \times P_2). " src="//upload.wikimedia.org/math/6/b/c/6bc04225171bf14320c0f8d1d98b89cf.png" /></dd></dl>
+<h2><span class="mw-headline" id="Checking_for_incidence_of_a_line_on_a_point">Checking for incidence of a line on a point</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=3" title="Edit section: Checking for incidence of a line on a point">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Given line <i>L</i> and point <i>P</i> in a projective plane, and both expressed in homogeneous coordinates, then <i>P</i>⊂<i>L</i> <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the dual of the line is <a href="/wiki/Perpendicular" title="Perpendicular">perpendicular</a> to the point (so that their <a href="/wiki/Dot_product" title="Dot product">dot product</a> is zero); that is, if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" gL \cdot P = 0 " src="//upload.wikimedia.org/math/d/a/2/da2feb47f40dad3e076f1890977c9170.png" /></dd></dl>
+<p>where <i>g</i> is the duality mapping.
+</p><p>An equivalent way of checking for this same incidence is to see whether
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L \cdot g^{-1} P = 0 " src="//upload.wikimedia.org/math/3/a/e/3ae76be4c1a60e71f2e34c352059abdb.png" /></dd></dl>
+<p>is true.
+</p>
+<h2><span class="mw-headline" id="Concurrence">Concurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=4" title="Edit section: Concurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three lines in a projective plane are <a href="/wiki/Concurrent_lines" title="Concurrent lines">concurrent</a> if all three of them intersect at one point.  That is, given lines <i>L</i><sub>1</sub>, <i>L</i><sub>2</sub>, and <i>L</i><sub>3</sub>; these are concurrent if and only if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_1 \cap L_2 = L_2 \cap L_3 = L_3 \cap L_1. " src="//upload.wikimedia.org/math/f/d/b/fdbd4170087a7c8f04af93c44dd706d3.png" /></dd></dl>
+<p>If the lines are represented using homogeneous coordinates in the form [<i>m</i>:<i>b</i>:1]<sub><i>L</i></sub> with <i>m</i> being slope and <i>b</i> being the y-intercept, then concurrency can be restated as
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_1 \times L_2 \equiv L_2 \times L_3 \equiv L_3 \times L_1. " src="//upload.wikimedia.org/math/d/d/6/dd6e1ca09feace73d1c25f498ae7676d.png" /></dd></dl>
+<p><i>Theorem.</i> Three lines <i>L</i><sub>1</sub>, <i>L</i><sub>2</sub>, and <i>L</i><sub>3</sub> in a projective plane and expressed in homogeneous coordinates are concurrent if and only if their <a href="/wiki/Scalar_(mathematics)" title="Scalar (mathematics)">scalar</a> <a href="/wiki/Triple_product" title="Triple product">triple product</a> is zero, viz. if and only if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" \langle L_1,L_2,L_3\rangle = L_1 \cdot L_2 \times L_3 = 0. " src="//upload.wikimedia.org/math/8/6/6/8663c61bf30004e76be60f623f6b6001.png" /></dd></dl>
+<p><i>Proof.</i> Letting <i>g</i> denote the duality mapping, then
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" L_1 \cap L_2 = gL_1 \times gL_2. \qquad \qquad (1)" src="//upload.wikimedia.org/math/8/2/9/8293f8fd22a357d532d1c1599db10014.png" /></dd></dl>
+<p>The three lines are concurrent if and only if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" (L_1 \cap L_2) \subset L_3. " src="//upload.wikimedia.org/math/6/a/4/6a4af07009cfddfff89166d3656e3bf3.png" /></dd></dl>
+<p>According to the <a href="/wiki/Incidence_(geometry)#Checking_for_incidence_of_a_line_on_a_point" title="Incidence (geometry)">previous section</a>, the intersection of the first two lines is a subset of the third line if and only if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" gL_3 \cdot (L_1 \cap L_2) = 0 \qquad \qquad (2)" src="//upload.wikimedia.org/math/d/9/5/d95e5b25bb1a37007cafa6c08e4c57ec.png" /></dd></dl>
+<p>Substituting equation (1) into equation (2) yields
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" (gL_1 \times gL_2) \cdot gL_3 = 0 \qquad \qquad (3)" src="//upload.wikimedia.org/math/a/1/8/a18ffa7a5164c1766c3eb11bc3a9229d.png" /></dd></dl>
+<p>but <i>g</i> distributes with respect to the <a href="/wiki/Cross_product" title="Cross product">cross product</a>, so that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" g(L_1 \times L_2) \cdot gL_3 = 0, " src="//upload.wikimedia.org/math/e/1/3/e13fc644fcc8d6e30c9e0484ce917f4f.png" /> </dd></dl>
+<p>and <i>g</i> can be shown to be isomorphic w.r.t. the dot product, like so:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" A \cdot B = gA \cdot gB " src="//upload.wikimedia.org/math/c/e/3/ce3bdb13b77d8c0eee0d9dc6099b0e87.png" /></dd></dl>
+<p>so that equation (3) simplifies to
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" (L_1 \times L_2) \cdot L_3 = \langle L_1,L_2,L_3 \rangle = 0. " src="//upload.wikimedia.org/math/a/6/1/a614d679b42e50e2cbca109d1016fb23.png" /></dd></dl>
+<p><i><a href="/wiki/Q.E.D." title="Q.E.D.">Q.E.D.</a></i>
+</p>
+<h2><span class="mw-headline" id="Collinearity">Collinearity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=5" title="Edit section: Collinearity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The dual of concurrency is <a href="/wiki/Collinearity" title="Collinearity">collinearity</a>.  Three points <i>P</i><sub>1</sub>, <i>P</i><sub>2</sub>, and <i>P</i><sub>3</sub> in the projective plane are <b>collinear</b> if they all lie on the same line.  This is true <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" P_1.P_2 \equiv P_2.P_3 \equiv P_3.P_1, " src="//upload.wikimedia.org/math/5/b/3/5b3f6923fdff71a00e739e40aefc662a.png" /></dd></dl>
+<p>but if the points are expressed in homogeneous coordinates then these three different equations can be collapsed into one equation:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" &lt;P_1,P_2,P_3&gt; = P_1 \cdot P_2 \times P_3 = 0 " src="//upload.wikimedia.org/math/c/2/9/c292052945dd2e6d9145dd08054f4b91.png" /></dd></dl>
+<p>which is more symmetrical and whose computation is straightforward.
+</p><p>If <i>P</i><sub>1</sub>&#160;: (<i>x</i><sub>1</sub>&#160;: <i>y</i><sub>1</sub>&#160;: <i>z</i><sub>1</sub>), <i>P</i><sub>2</sub>&#160;: (<i>x</i><sub>2</sub>&#160;: <i>y</i><sub>2</sub>&#160;: <i>z</i><sub>2</sub>), and <i>P</i><sub>3</sub>&#160;: (<i>x</i><sub>3</sub>&#160;: <i>y</i><sub>3</sub>&#160;: <i>z</i><sub>3</sub>), then <i>P</i><sub>1</sub>, <i>P</i><sub>2</sub>, and <i>P</i><sub>3</sub> are collinear if and only if
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" \left| \begin{matrix} x_1 &amp; y_1 &amp; z_1 \\ x_2 &amp; y_2 &amp; z_2 \\ x_3 &amp; y_3 &amp; z_3 \end{matrix} \right| = 0," src="//upload.wikimedia.org/math/5/9/b/59b364291ca1c5f450289964c0cb23ff.png" /></dd></dl>
+<p>i.e. if and only if the <a href="/wiki/Determinant" title="Determinant">determinant</a> of the homogeneous coordinates of the points is equal to zero.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a href="/wiki/Menelaus_theorem" title="Menelaus theorem" class="mw-redirect">Menelaus theorem</a></li>
+<li> <a href="/wiki/Ceva%27s_theorem" title="Ceva&#39;s theorem">Ceva's theorem</a></li>
+<li> <a href="/wiki/Concyclic" title="Concyclic" class="mw-redirect">Concyclic</a></li>
+<li> <a href="/wiki/Incidence_matrix" title="Incidence matrix">Incidence matrix</a></li>
+<li> <a href="/wiki/Incidence_algebra" title="Incidence algebra">Incidence algebra</a></li>
+<li> <a href="/wiki/Angle_of_incidence" title="Angle of incidence">Angle of incidence</a></li>
+<li> <a href="/wiki/Incidence_structure" title="Incidence structure">Incidence structure</a></li>
+<li> <a href="/wiki/Incidence_geometry" title="Incidence geometry">Incidence geometry</a> </li>
+<li> <a href="/wiki/Levi_graph" title="Levi graph">Levi graph</a></li>
+<li> <a href="/wiki/Hilbert%27s_axioms" title="Hilbert&#39;s axioms">Hilbert's axioms</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Incidence_(geometry)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Joel G. Broida &amp; S. Gill Williamson (1998) <i>A Comprehensive Introduction to Linear Algebra</i>, Theorem 2.11, p 86, <a href="/wiki/Addison-Wesley" title="Addison-Wesley">Addison-Wesley</a> <a href="/wiki/Special:BookSources/0201500655" class="internal mw-magiclink-isbn">ISBN 0-201-50065-5</a>. The theorem says dim (L + M) = dim L + dim M &#8722; dim (L ∩ M). Thus dim L + dim M &gt; dim P implies dim (L ∩ M) &gt; 0</span>
+</li>
+</ol></div>
+<ul><li> Harold L. Dorwart (1966) <i>The Geometry of Incidence</i>, <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>.</li></ul>

@@ -1,0 +1,56 @@
+﻿---
+lastrevid: 642021971
+pageid: 386138
+canonicalurl: http://en.wikipedia.org/wiki/Homothetic_transformation
+title: Homothetic transformation
+editurl: http://en.wikipedia.org/w/index.php?title=Homothetic_transformation&action=edit
+length: 4004
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-14T13:05:20Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Homothetic_transformation
+---
+
+<div class="thumb tright"><div class="thumbinner" style="width:336px;"><a href="/wiki/File:Geom_podobnost_stejnolehlest.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Geom_podobnost_stejnolehlest.svg/334px-Geom_podobnost_stejnolehlest.svg.png" width="334" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Geom_podobnost_stejnolehlest.svg/501px-Geom_podobnost_stejnolehlest.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Geom_podobnost_stejnolehlest.svg/668px-Geom_podobnost_stejnolehlest.svg.png 2x" data-file-width="668" data-file-height="200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Geom_podobnost_stejnolehlest.svg" class="internal" title="Enlarge"></a></div>Two similar geometric figures related by a homothetic transformation with respect to a <a href="/wiki/Homothetic_center" title="Homothetic center">homothetic center</a> <b>S</b>. The angles at corresponding points are the same and have the same sense; for example, the angles ABC and A'B'C' are both clockwise and equal in magnitude.</div></div></div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>homothety</b> (or <b>homothecy</b>, or <b>homogeneous dilation</b>) is a <a href="/wiki/Transformation_(mathematics)" title="Transformation (mathematics)" class="mw-redirect">transformation</a> of an <a href="/wiki/Affine_space" title="Affine space">affine space</a> determined by a point <i>S</i> called its <i>center</i> and a nonzero number <i>λ</i> called its <i>ratio</i>, which sends
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" M \mapsto S + \lambda \overrightarrow{SM}, " src="//upload.wikimedia.org/math/2/7/b/27ba30ec3d721635f7d4e83db8eec212.png" /></dd></dl>
+<p>in other words it fixes <i>S</i>, and sends any <i>M</i> to another point <i>N</i> such that the segment <i>SN</i> is on the same line as <i>SM</i>, but scaled by a factor <i>λ</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> In <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a> homotheties are the <a href="/wiki/Similarity_(geometry)" title="Similarity (geometry)">similarities</a> that fix a point and either preserve (if <span class="nowrap"><i>λ</i> &gt; 0</span>) or reverse (if <span class="nowrap"><i>λ</i> &lt; 0</span>) the direction of all vectors. Together with the <a href="/wiki/Translation_(geometry)" title="Translation (geometry)">translations</a>, all homotheties of an affine (or Euclidean) space form a <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">group</a>, the group of <b>dilations</b> or <b>homothety-translations</b>. These are precisely the <a href="/wiki/Affine_transformation" title="Affine transformation">affine transformations</a> with the property that the image of every line <i>L</i> is a line <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a> to <i>L</i>.
+</p><p>In <a href="/wiki/Projective_geometry" title="Projective geometry">projective geometry</a>, a homothetic transformation is a similarity transformation (i.e., fixes a given elliptic involution) that leaves the line at infinity pointwise <a href="/wiki/Invariant_(mathematics)" title="Invariant (mathematics)">invariant</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup>
+</p><p>In Euclidean geometry, a homothety of ratio <i>λ</i> multiplies distances between points by |<i>λ</i>| and all areas by <i>λ</i><sup>2</sup>.  The first number is called the <i>ratio of magnification</i> or <i>dilation factor</i> or <i>scale factor</i> or <i>similitude ratio</i>. Such a transformation can be called an <b>enlargement</b> if the scale factor exceeds&#160;1. The above-mentioned fixed point <i>S</i> is called <i><a href="/wiki/Homothetic_center" title="Homothetic center">homothetic center</a></i> or <i>center of similarity</i> or <i>center of similitude</i>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Homothety_and_uniform_scaling"><span class="tocnumber">1</span> <span class="toctext">Homothety and uniform scaling</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Homothety_and_uniform_scaling">Homothety and uniform scaling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Homothetic_transformation&amp;action=edit&amp;section=1" title="Edit section: Homothety and uniform scaling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If the <a href="/wiki/Homothetic_center" title="Homothetic center">homothetic center</a> <i>S</i> happens to coincide with the <a href="/wiki/Origin_(mathematics)" title="Origin (mathematics)">origin</a> <i>O</i> of the vector space (<i>S</i> ≡ <i>O</i>), then every homothety with scale factor <i>λ</i> is equivalent to a <a href="/wiki/Uniform_scaling" title="Uniform scaling" class="mw-redirect">uniform scaling</a> by the same factor, which sends
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" \overrightarrow{OM} \mapsto \lambda \overrightarrow{OM}. " src="//upload.wikimedia.org/math/c/9/b/c9bfc1d490493ded070faef653645c33.png" /></dd></dl>
+<p>As a consequence, in the specific case in which <i>S</i> ≡ <i>O</i>, the homothety becomes a <a href="/wiki/Linear_transformation" title="Linear transformation" class="mw-redirect">linear transformation</a>, which preserves not only the collinearity of points (straight lines are mapped to straight lines), but also vector addition and scalar multiplication.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Homothetic_transformation&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Scaling_(geometry)" title="Scaling (geometry)">Scaling (geometry)</a> a similar notion in vector spaces</li>
+<li><a href="/wiki/Homothetic_center" title="Homothetic center">Homothetic center</a>, the center of a homothetic transformation taking one of a pair of shapes into the other</li>
+<li>The <a href="/wiki/Hadwiger_conjecture_(combinatorial_geometry)" title="Hadwiger conjecture (combinatorial geometry)">Hadwiger conjecture</a> on the number of strictly smaller homothetic copies of a convex body that may be needed to cover it</li>
+<li><a href="/wiki/Homothetic_function_(economics)" title="Homothetic function (economics)" class="mw-redirect">Homothetic function (economics)</a>, a function of the form <i>f</i>(<i>U</i>(<i>y</i>)) in which <i>U</i> is a <a href="/wiki/Homogeneous_function" title="Homogeneous function">homogeneous function</a> and <i>f</i> is a <a href="/wiki/Monotonic_function" title="Monotonic function">monotonically increasing function</a>.</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Homothetic_transformation&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadamard">Hadamard (</a>, p.&#160;145)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFTuller">Tuller (</a>, p.&#160;119)</span>
+</li>
+</ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Homothetic_transformation&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <span id="CITEREFHadamard" class="citation">Hadamard, J., <i>Lessons in Plane Geometry</i></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHomothetic+transformation&amp;rft.aufirst=J.&amp;rft.au=Hadamard%2C+J.&amp;rft.aulast=Hadamard&amp;rft.btitle=Lessons+in+Plane+Geometry&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li> <span id="CITEREFMeserve1955" class="citation">Meserve, Bruce E. (1955), "Homothetic transformations", <i>Fundamental Concepts of Geometry</i>, <a href="/wiki/Addison-Wesley" title="Addison-Wesley">Addison-Wesley</a>, pp.&#160;166–169</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHomothetic+transformation&amp;rft.atitle=Homothetic+transformations&amp;rft.aufirst=Bruce+E.&amp;rft.aulast=Meserve&amp;rft.au=Meserve%2C+Bruce+E.&amp;rft.btitle=Fundamental+Concepts+of+Geometry&amp;rft.date=1955&amp;rft.genre=bookitem&amp;rft.pages=166-169&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li> <span id="CITEREFTuller" class="citation">Tuller, Annita, <i>A Modern Introduction to Geometries</i></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHomothetic+transformation&amp;rft.aufirst=Annita&amp;rft.aulast=Tuller&amp;rft.au=Tuller%2C+Annita&amp;rft.btitle=A+Modern+Introduction+to+Geometries&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Homothetic_transformation&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.cut-the-knot.org/Curriculum/Geometry/Homothety.shtml">Homothety</a>, interactive applet from <a href="/wiki/Cut-the-Knot" title="Cut-the-Knot">Cut-the-Knot</a>.</li></ul>

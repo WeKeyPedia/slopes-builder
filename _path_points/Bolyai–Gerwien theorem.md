@@ -1,0 +1,46 @@
+﻿---
+lastrevid: 639417808
+pageid: 224248
+canonicalurl: http://en.wikipedia.org/wiki/Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem
+title: Wallace–Bolyai–Gerwien theorem
+editurl: http://en.wikipedia.org/w/index.php?title=Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem&action=edit
+length: 3141
+contentmodel: wikitext
+pagelanguage: en
+touched: 2014-12-24T02:10:36Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/WallaceâBolyaiâGerwien_theorem
+---
+
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Triangledissection.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Triangledissection.svg/220px-Triangledissection.svg.png" width="220" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Triangledissection.svg/330px-Triangledissection.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Triangledissection.svg/440px-Triangledissection.svg.png 2x" data-file-width="725" data-file-height="377" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Triangledissection.svg" class="internal" title="Enlarge"></a></div>By the Wallace–Bolyai–Gerwien theorem, a square can be cut into parts and rearranged into a triangle of equal area.</div></div></div>
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, the <b>Wallace–Bolyai–Gerwien theorem</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> named after <a href="/wiki/William_Wallace_(mathematician)" title="William Wallace (mathematician)">William Wallace</a>, <a href="/wiki/Farkas_Bolyai" title="Farkas Bolyai">Farkas Bolyai</a> and <a href="/w/index.php?title=Paul_Gerwien&amp;action=edit&amp;redlink=1" class="new" title="Paul Gerwien (page does not exist)">Paul Gerwien</a>, states that any two simple <a href="/wiki/Polygon" title="Polygon">polygons</a> of equal <a href="/wiki/Area" title="Area">area</a> are <i>equidecomposable</i>; i.e. one can cut the first into <a href="/wiki/Finite_set" title="Finite set">finitely many</a> polygonal pieces and rearrange the pieces to obtain the second polygon.
+</p><p>"Rearrangement" means that one may apply a <a href="/wiki/Translation_(mathematics)" title="Translation (mathematics)" class="mw-redirect">translation</a> and a <a href="/wiki/Rotation_(mathematics)" title="Rotation (mathematics)">rotation</a> to every polygonal piece. 
+</p><p>Unlike the generalized solution to <a href="/wiki/Tarski%27s_circle-squaring_problem" title="Tarski&#39;s circle-squaring problem">Tarski's circle-squaring problem</a>, the <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a> is not required for the proof, and the decomposition and reassembly can actually be carried out "physically"; the pieces can, in theory, be <a href="/wiki/Jordan_curve" title="Jordan curve" class="mw-redirect">cut with scissors</a> from paper and reassembled by hand.
+</p><p>The theorem can be understood in two steps. First, every polygon can be cut into triangles: for convex polygons this is immediate, by cutting off each vertex in turn, while for concave polygons this requires more care.  Each of these triangles can then be converted to a right triangle, by dropping an altitude (that is, drawing a line perpendicular to the triangle's base and through the top vertex). This is sufficient to easily compute the area, as each right triangle is half a rectangle, or alternatively can be cut halfway up to be reassembled into a rectangle. The second and subtler step is that each right triangle (or equivalently rectangle) can be decomposed into a rectangle with a side of a given (unit) length. Once this is proven, it follows that every polygon can be decomposed into a rectangle with unit width and height equal to its area, which proves the theorem.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Higher_dimensions"><span class="tocnumber">1</span> <span class="toctext">Higher dimensions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Higher_dimensions">Higher dimensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem&amp;action=edit&amp;section=1" title="Edit section: Higher dimensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The analogous statement about <a href="/wiki/Polyhedron" title="Polyhedron">polyhedra</a> in three dimensions, known as <a href="/wiki/Hilbert%27s_third_problem" title="Hilbert&#39;s third problem">Hilbert's third problem</a>, is false, as proven by <a href="/wiki/Max_Dehn" title="Max Dehn">Max Dehn</a> in 1900.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Farkas_Bolyai" title="Farkas Bolyai">Farkas Bolyai</a> first formulated the question. Gerwien proved the theorem in 1833, but in fact <a href="/wiki/William_Wallace_(mathematician)" title="William Wallace (mathematician)">Wallace</a> had proven the same result already in 1807.
+</p><p>According to other sources, Bolyai and Gerwien had independently proved the theorem in 1833 and 1835, respectively.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jstor.org/pss/2045399">Proceedings of the American Mathematical Society - Vol. 94, No. 2, Jun., 1985</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wallace%E2%80%93Bolyai%E2%80%93Gerwien_theorem&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.cut-the-knot.org/do_you_know/Bolyai.shtml">Wallace–Bolyai–Gerwien Theorem</a></li>
+<li> <a rel="nofollow" class="external text" href="http://weitz.de/polygons/">Polygons</a> - an interactive demo of the Wallace-Bolyai-Gerwien Theorem.</li>
+<li> <a rel="nofollow" class="external text" href="http://demonstrations.wolfram.com/AnExampleOfTheBolyaiGerwienTheorem/">An Example of the Bolyai–Gerwien Theorem</a> by Sándor Kabai, Ferenc Holló Szabó, and Lajos Szilassi, the <a href="/wiki/Wolfram_Demonstrations_Project" title="Wolfram Demonstrations Project">Wolfram Demonstrations Project</a>.</li></ul>

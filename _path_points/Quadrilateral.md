@@ -1,0 +1,532 @@
+﻿---
+lastrevid: 643858592
+pageid: 25278
+canonicalurl: http://en.wikipedia.org/wiki/Quadrilateral
+title: Quadrilateral
+editurl: http://en.wikipedia.org/w/index.php?title=Quadrilateral&action=edit
+length: 36189
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-19T07:29:13Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Quadrilateral
+---
+
+<div class="hatnote">This article is about  four-sided mathematical shapes.&#32;&#32;For other uses, see <a href="/wiki/Quadrilateral_(disambiguation)" title="Quadrilateral (disambiguation)" class="mw-disambig">Quadrilateral (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:#e7dcc3;">Quadrilateral</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Six_Quadrilaterals.svg" class="image"><img alt="Six Quadrilaterals.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Six_Quadrilaterals.svg/220px-Six_Quadrilaterals.svg.png" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Six_Quadrilaterals.svg/330px-Six_Quadrilaterals.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Six_Quadrilaterals.svg/440px-Six_Quadrilaterals.svg.png 2x" data-file-width="300" data-file-height="300" /></a><div>Six different types of quadrilaterals</div></td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Edge_(geometry)" title="Edge (geometry)">Edges</a> and <a href="/wiki/Vertex_(geometry)" title="Vertex (geometry)">vertices</a></th><td>
+4</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Schl%C3%A4fli_symbol" title="Schläfli symbol">Schläfli symbol</a></th><td>
+{4} (for square)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Area" title="Area">Area</a></th><td>
+various methods;<br><a href="#Area_of_a_convex_quadrilateral">see below</a></td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Internal_angle" title="Internal angle" class="mw-redirect">Internal angle</a> (<a href="/wiki/Degree_(angle)" title="Degree (angle)">degrees</a>)</th><td>
+90° (for square and rectangle)</td></tr></table>
+<p>In <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean plane geometry</a>, a <b>quadrilateral</b> is a <a href="/wiki/Polygon" title="Polygon">polygon</a> with four sides (or edges) and four vertices or corners. Sometimes, the term <b>quadrangle</b> is used, by analogy with <a href="/wiki/Triangle" title="Triangle">triangle</a>, and sometimes <b>tetragon</b> for consistency with <a href="/wiki/Pentagon" title="Pentagon">pentagon</a> (5-sided), <a href="/wiki/Hexagon" title="Hexagon">hexagon</a> (6-sided) and so on.
+</p><p>The origin of the word "quadrilateral" is the two Latin words <i>quadri</i>, a variant of four, and <i>latus</i>, meaning "side".
+</p><p>Quadrilaterals are <a href="/wiki/Simple_polygon" title="Simple polygon">simple</a> (not self-intersecting) or <a href="/wiki/Complex_polygon" title="Complex polygon">complex</a> (self-intersecting), also called crossed. Simple quadrilaterals are either <a href="/wiki/Convex_polygon" title="Convex polygon" class="mw-redirect">convex</a> or <a href="/wiki/Concave_polygon" title="Concave polygon" class="mw-redirect">concave</a>.
+</p><p>The <a href="/wiki/Internal_and_external_angle" title="Internal and external angle">interior angles</a> of a simple (and planar) quadrilateral <i>ABCD</i> add up to 360 <a href="/wiki/Degrees_of_arc" title="Degrees of arc" class="mw-redirect">degrees of arc</a>, that is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\angle A+\angle B+\angle C+\angle D=360^{\circ}." src="//upload.wikimedia.org/math/6/7/6/676845bb4b57fc036c2022064597331c.png" /></dd></dl>
+<p>This is a special case of the <i>n</i>-gon interior angle sum formula (<i>n</i> − 2) × 180°. In a crossed quadrilateral, the four interior angles on either side of the crossing add up to 720°.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+</p><p>All convex quadrilaterals <a href="/wiki/Tessellation" title="Tessellation">tile the plane</a> by repeated rotation around the midpoints of their edges.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Convex_quadrilaterals_.E2.80.93_parallelograms"><span class="tocnumber">1</span> <span class="toctext"><span></span>Convex quadrilaterals – parallelograms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Convex_quadrilaterals_.E2.80.93_other"><span class="tocnumber">2</span> <span class="toctext"><span></span>Convex quadrilaterals – other</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#More_quadrilaterals"><span class="tocnumber">3</span> <span class="toctext">More quadrilaterals</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Special_line_segments"><span class="tocnumber">4</span> <span class="toctext">Special line segments</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Area_of_a_convex_quadrilateral"><span class="tocnumber">5</span> <span class="toctext">Area of a convex quadrilateral</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Trigonometric_formulas"><span class="tocnumber">5.1</span> <span class="toctext">Trigonometric formulas</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Non-trigonometric_formulas"><span class="tocnumber">5.2</span> <span class="toctext">Non-trigonometric formulas</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Vector_formulas"><span class="tocnumber">5.3</span> <span class="toctext">Vector formulas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Diagonals"><span class="tocnumber">6</span> <span class="toctext">Diagonals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Properties_of_the_diagonals_in_some_quadrilaterals"><span class="tocnumber">6.1</span> <span class="toctext">Properties of the diagonals in some quadrilaterals</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Length_of_the_diagonals"><span class="tocnumber">6.2</span> <span class="toctext">Length of the diagonals</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Generalizations_of_the_parallelogram_law_and_Ptolemy.27s_theorem"><span class="tocnumber">6.3</span> <span class="toctext">Generalizations of the parallelogram law and Ptolemy's theorem</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Other_metric_relations"><span class="tocnumber">6.4</span> <span class="toctext">Other metric relations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Bimedians"><span class="tocnumber">7</span> <span class="toctext">Bimedians</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Trigonometric_identities"><span class="tocnumber">8</span> <span class="toctext">Trigonometric identities</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Inequalities"><span class="tocnumber">9</span> <span class="toctext">Inequalities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Area"><span class="tocnumber">9.1</span> <span class="toctext">Area</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Diagonals_and_bimedians"><span class="tocnumber">9.2</span> <span class="toctext">Diagonals and bimedians</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Sides"><span class="tocnumber">9.3</span> <span class="toctext">Sides</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Maximum_and_minimum_properties"><span class="tocnumber">10</span> <span class="toctext">Maximum and minimum properties</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Remarkable_points_and_lines_in_a_convex_quadrilateral"><span class="tocnumber">11</span> <span class="toctext">Remarkable points and lines in a convex quadrilateral</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Other_properties_of_convex_quadrilaterals"><span class="tocnumber">12</span> <span class="toctext">Other properties of convex quadrilaterals</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Taxonomy"><span class="tocnumber">13</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">16</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Convex_quadrilaterals_.E2.80.93_parallelograms"><span id="Convex_quadrilaterals_-_parallelograms"></span>Convex quadrilaterals – parallelograms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=1" title="Edit section: Convex quadrilaterals – parallelograms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Euler_diagram_of_quadrilateral_types.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Euler_diagram_of_quadrilateral_types.svg/300px-Euler_diagram_of_quadrilateral_types.svg.png" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Euler_diagram_of_quadrilateral_types.svg/450px-Euler_diagram_of_quadrilateral_types.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Euler_diagram_of_quadrilateral_types.svg/600px-Euler_diagram_of_quadrilateral_types.svg.png 2x" data-file-width="512" data-file-height="512" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Euler_diagram_of_quadrilateral_types.svg" class="internal" title="Enlarge"></a></div><a href="/wiki/Euler_diagram" title="Euler diagram">Euler diagram</a> of some types of quadrilaterals. (UK) denotes British English and (US) denotes American English.</div></div></div>
+<p>A <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a> is a quadrilateral with two pairs of parallel sides. Equivalent conditions are that opposite sides are of equal length; that opposite angles are equal; or that the diagonals bisect each other. Parallelograms also include the square, rectangle, rhombus and rhomboid.
+</p>
+<ul><li><a href="/wiki/Rhombus" title="Rhombus">Rhombus</a> or rhomb: all four sides are of equal length. An equivalent condition is that the diagonals perpendicularly bisect each other. An informal description is "a pushed-over square" (including a square).</li>
+<li><a href="/wiki/Rhomboid" title="Rhomboid">Rhomboid</a>: a parallelogram in which adjacent sides are of unequal lengths and angles are <a href="/wiki/Angle#Types_of_angles" title="Angle">oblique</a> (not right angles). Informally: "a pushed-over rectangle with no right angles."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+<li><a href="/wiki/Rectangle" title="Rectangle">Rectangle</a>: all four angles are right angles. An equivalent condition is that the diagonals bisect each other and are equal in length. Informally: "a box or oblong" (including a square).</li>
+<li><a href="/wiki/Square_(geometry)" title="Square (geometry)" class="mw-redirect">Square</a> (regular quadrilateral): all four sides are of equal length (equilateral), and all four angles are right angles. An equivalent condition is that opposite sides are parallel (a square is a parallelogram), that the diagonals perpendicularly bisect each other, and are of equal length. A quadrilateral is a square if and only if it is both a rhombus and a rectangle (four equal sides and four equal angles).</li>
+<li><a href="/wiki/Rectangle" title="Rectangle">Oblong</a>: a term sometimes used to denote a rectangle which has unequal adjacent sides (i.e. a rectangle that is not a square).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Convex_quadrilaterals_.E2.80.93_other"><span id="Convex_quadrilaterals_-_other"></span>Convex quadrilaterals – other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=2" title="Edit section: Convex quadrilaterals – other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Kite_(geometry)" title="Kite (geometry)">Kite</a>: two pairs of adjacent sides are of equal length. This implies that one diagonal divides the kite into <a href="/wiki/Congruent_triangles" title="Congruent triangles" class="mw-redirect">congruent triangles</a>, and so the angles between the two pairs of equal sides are equal in measure. It also implies that the diagonals are perpendicular.</li>
+<li><a href="/wiki/Right_kite" title="Right kite">Right kite</a>: a kite with two opposite right angles.</li>
+<li><a href="/wiki/Trapezoid" title="Trapezoid">Trapezoid</a> (<a href="/wiki/North_American_English" title="North American English">North American English</a>) or <a href="/wiki/Trapezoid" title="Trapezoid">Trapezium</a> (<a href="/wiki/British_English" title="British English">British English</a>): at least one pair of opposite sides are <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a>.</li>
+<li>Trapezium (NAm.): no sides are parallel. (In British English this would be called an irregular quadrilateral, and was once called a <i>trapezoid</i>.)</li>
+<li><a href="/wiki/Isosceles_trapezoid" title="Isosceles trapezoid">Isosceles trapezoid</a> (NAm.) or <a href="/wiki/Isosceles_trapezium" title="Isosceles trapezium" class="mw-redirect">isosceles trapezium</a> (Brit.): one pair of opposite sides are parallel and the base <a href="/wiki/Angle" title="Angle">angles</a> are equal in measure. Alternative definitions are a quadrilateral with an axis of symmetry bisecting one pair of opposite sides, or a trapezoid with diagonals of equal length.</li>
+<li><a href="/wiki/Tangential_trapezoid" title="Tangential trapezoid">Tangential trapezoid</a>: a trapezoid where the four sides are <a href="/wiki/Tangent" title="Tangent">tangents</a> to an <a href="/wiki/Inscribed_circle" title="Inscribed circle" class="mw-redirect">inscribed circle</a>.</li>
+<li><a href="/wiki/Tangential_quadrilateral" title="Tangential quadrilateral">Tangential quadrilateral</a>: the four sides are tangents to an inscribed circle. A convex quadrilateral is tangential if and only if opposite sides have equal sums.</li>
+<li><a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">Cyclic quadrilateral</a>: the four vertices lie on a <a href="/wiki/Circumscribed_circle" title="Circumscribed circle">circumscribed circle</a>. A convex quadrilateral is cyclic if and only if opposite angles sum to 180°.</li>
+<li><a href="/wiki/Bicentric_quadrilateral" title="Bicentric quadrilateral">Bicentric quadrilateral</a>: it is both tangential and cyclic.</li>
+<li><a href="/wiki/Orthodiagonal_quadrilateral" title="Orthodiagonal quadrilateral">Orthodiagonal quadrilateral</a>: the diagonals cross at <a href="/wiki/Right_angle" title="Right angle">right angles</a>.</li>
+<li><a href="/wiki/Equidiagonal_quadrilateral" title="Equidiagonal quadrilateral">Equidiagonal quadrilateral</a>: the diagonals are of equal length.</li>
+<li><a href="/wiki/Ex-tangential_quadrilateral" title="Ex-tangential quadrilateral">Ex-tangential quadrilateral</a>: the four extensions of the sides are tangent to an <a href="/wiki/Excircle" title="Excircle" class="mw-redirect">excircle</a>.</li></ul>
+<p><a href="/wiki/File:Quadrilaterals.svg" class="image"><img alt="Quadrilaterals.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Quadrilaterals.svg/661px-Quadrilaterals.svg.png" width="661" height="320" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Quadrilaterals.svg/992px-Quadrilaterals.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Quadrilaterals.svg/1322px-Quadrilaterals.svg.png 2x" data-file-width="661" data-file-height="320" /></a>
+</p>
+<h2><span class="mw-headline" id="More_quadrilaterals">More quadrilaterals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=3" title="Edit section: More quadrilaterals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>An <b>equilic quadrilateral</b> has two opposite equal sides that, when extended, meet at 60°.</li>
+<li>A <b>Watt quadrilateral</b> is a quadrilateral with a pair of opposite sides of equal length.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+<li>A <b>quadric quadrilateral</b> is a convex quadrilateral whose four vertices all lie on the perimeter of a square.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+<li>A geometric chevron (dart or arrowhead) is a <a href="/wiki/Concave_polygon" title="Concave polygon" class="mw-redirect">concave</a> quadrilateral with bilateral symmetry like a kite, but one interior angle is reflex.</li>
+<li>A self-intersecting quadrilateral is called variously a <b>cross-quadrilateral</b>, <b>crossed quadrilateral</b>, <b><a href="/wiki/Butterfly" title="Butterfly">butterfly</a> quadrilateral</b> or <b><a href="/wiki/Bow-tie" title="Bow-tie" class="mw-redirect">bow-tie</a> quadrilateral</b>. A special case of crossed quadrilaterals are the <a href="/wiki/Antiparallelogram" title="Antiparallelogram">antiparallelograms</a>, crossed quadrilaterals in which (like a <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a>) each pair of nonadjacent sides has equal length. The diagonals of a crossed or concave quadrilateral do not intersect inside the shape.</li>
+<li>A non-planar quadrilateral is called a <b>skew quadrilateral</b>. Formulas to compute its dihedral angles from the edge lengths and the angle between two adjacent edges were derived for work on the properties of molecules such as <a href="/wiki/Cyclobutane" title="Cyclobutane">cyclobutane</a> that contain a "puckered" ring of four atoms.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> See <a href="/wiki/Skew_polygon" title="Skew polygon">skew polygon</a> for more. Historically the term <b>gauche quadrilateral</b> was also used to mean a skew quadrilateral.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> A skew quadrilateral together with its diagonals form a (possibly non-regular) <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedron</a>, and conversely every skew quadrilateral comes from a tetrahedron where a pair of opposite <a href="/wiki/Edge_(geometry)" title="Edge (geometry)">edges</a> is removed.</li></ul>
+<h2><span class="mw-headline" id="Special_line_segments">Special line segments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=4" title="Edit section: Special line segments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The two <i>diagonals</i> of a convex quadrilateral are the <a href="/wiki/Line_segment" title="Line segment">line segments</a> that connect opposite vertices.
+</p><p>The two <i>bimedians</i> of a convex quadrilateral are the line segments that connect the midpoints of opposite sides.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> They intersect at the "vertex centroid" of the quadrilateral (see <a href="/wiki/Quadrilateral#Remarkable_points_and_lines_in_a_convex_quadrilateral" title="Quadrilateral">Remarkable points</a> below).
+</p><p>The four <i>maltitudes</i> of a convex quadrilateral are the perpendiculars to a side through the midpoint of the opposite side.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup>
+.
+</p>
+<h2><span class="mw-headline" id="Area_of_a_convex_quadrilateral">Area of a convex quadrilateral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=5" title="Edit section: Area of a convex quadrilateral">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are various general formulas for the <a href="/wiki/Area" title="Area">area</a> <i>K</i> of a convex quadrilateral.
+</p>
+<h3><span class="mw-headline" id="Trigonometric_formulas">Trigonometric formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=6" title="Edit section: Trigonometric formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The area can be expressed in trigonometric terms as
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2} pq \cdot \sin \theta," src="//upload.wikimedia.org/math/9/c/3/9c3eb4c42f71ffdcc536ab2efdc83322.png" /></dd></dl>
+<p>where the lengths of the diagonals are <i>p</i> and <i>q</i> and the angle between them is <i>θ</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> In the case of an orthodiagonal quadrilateral (e.g. rhombus, square, and kite), this formula reduces to <img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{2}pq" src="//upload.wikimedia.org/math/7/a/3/7a35cc964b829940a63fc65a33d30690.png" /> since <i>θ</i> is 90°.
+</p><p>The area can be also expressed in terms of bimedians as 
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = mn \cdot \sin \varphi," src="//upload.wikimedia.org/math/b/c/0/bc0f37e3bc213ed0a34ae409d7592fa2.png" /></dd></dl>
+<p>where the lengths of the bimedians are <i>m</i> and <i>n</i> and the angle between them is <i>φ</i>.
+</p><p><a href="/wiki/Bretschneider%27s_formula" title="Bretschneider&#39;s formula">Bretschneider's formula</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> expresses the area in terms of the sides and two opposite angles:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\begin{align}&#10;K &amp;= \sqrt{(s-a)(s-b)(s-c)(s-d) - \tfrac{1}{2} abcd \; [ 1 + \cos (A + C) ]} \\&#10;&amp;= \sqrt{(s-a)(s-b)(s-c)(s-d) - abcd \left[ \cos^2 \left( \tfrac{A + C}{2} \right) \right]}&#10;\end{align}" src="//upload.wikimedia.org/math/6/4/5/6455e072036f8d530178a36a07a75c20.png" /></dd></dl>
+<p>where the sides in sequence are <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i>, where <i>s</i> is the semiperimeter, and <i>A</i> and <i>C</i> are two (in fact, any two) opposite angles.  This reduces to <a href="/wiki/Brahmagupta%27s_formula" title="Brahmagupta&#39;s formula">Brahmagupta's formula</a> for the area of a cyclic quadrilateral when <i>A</i>+<i>C</i> = 180°.
+</p><p>Another area formula in terms of the sides and angles, with angle <i>C</i> being between sides <i>b</i> and <i>c</i>, and <i>A</i> being between sides <i>a</i> and <i>d</i>, is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2}ad \cdot \sin{A} + \tfrac{1}{2}bc \cdot \sin{C}." src="//upload.wikimedia.org/math/d/5/b/d5bcfe4014fbfb2dcd3c02846f090da8.png" /></dd></dl>
+<p>In the case of a cyclic quadrilateral, the latter formula becomes <img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2}(ad+bc)\sin{A}." src="//upload.wikimedia.org/math/7/c/1/7c14a73063071b4540ea88975ba89ba8.png" />
+</p><p>In a parallelogram, where both pairs of opposite sides and angles are equal, this formula reduces to <img class="mwe-math-fallback-image-inline tex" alt="K=ab \cdot \sin{A}." src="//upload.wikimedia.org/math/b/6/f/b6f266b3377f75161951718845c51416.png" />
+</p><p>Alternatively, we can write the area in terms of the sides and the intersection angle <i>θ</i> of the diagonals, so long as this angle is not 90°:<sup id="cite_ref-Mitchell_12-0" class="reference"><a href="#cite_note-Mitchell-12"><span>[</span>12<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \frac{|\tan \theta|}{4} \cdot \left| a^2 + c^2 - b^2 - d^2 \right|." src="//upload.wikimedia.org/math/8/a/c/8acbbbe16909efdc13f6ffa9104958ce.png" /></dd></dl>
+<p>In the case of a parallelogram, the latter formula becomes <img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2}|\tan \theta|\cdot \left| a^2 - b^2 \right|." src="//upload.wikimedia.org/math/d/1/c/d1c3d7770857dd36598e997a5b7a37be.png" />
+</p><p>Another area formula including the sides <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> is<sup id="cite_ref-Josefsson4_13-0" class="reference"><a href="#cite_note-Josefsson4-13"><span>[</span>13<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{4}\sqrt{(2(a^2+c^2)-4x^2)(2(b^2+d^2)-4x^2)}\sin{\varphi}" src="//upload.wikimedia.org/math/7/e/a/7ea91240590f494e9683dc6e1c13c7df.png" /></dd></dl>
+<p>where <i>x</i> is the distance between the midpoints of the diagonals and <i>φ</i> is the angle between the <a href="/wiki/Quadrilateral#Special_line_segments" title="Quadrilateral">bimedians</a>.
+</p>
+<h3><span class="mw-headline" id="Non-trigonometric_formulas">Non-trigonometric formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=7" title="Edit section: Non-trigonometric formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following two formulas express the area in terms of the sides <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i>, the semiperimeter <i>s</i>, and the diagonals <i>p</i>, <i>q</i>:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \sqrt{(s-a)(s-b)(s-c)(s-d) - \tfrac{1}{4}(ac+bd+pq)(ac+bd-pq)}," src="//upload.wikimedia.org/math/2/6/d/26df342a5ea55165801c757c980f4c1a.png" /> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></dd></dl>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{4} \sqrt{4p^{2}q^{2}- \left( a^{2}+c^{2}-b^{2}-d^{2} \right) ^{2}}." src="//upload.wikimedia.org/math/0/a/0/0a0a0c0e29b2e5e3e46852d3694f72e9.png" /> <sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></dd></dl>
+<p>The first reduces to Brahmagupta's formula in the cyclic quadrilateral case, since then <i>pq</i> = <i>ac</i> + <i>bd</i>.
+</p><p>The area can also be expressed in terms of the bimedians <i>m</i>, <i>n</i> and the diagonals <i>p</i>, <i>q</i>:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{2}\sqrt{(m+n+p)(m+n-p)(m+n+q)(m+n-q)}," src="//upload.wikimedia.org/math/0/a/c/0accb8958df2ea8b2126ee1868037292.png" /> <sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></dd></dl>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{2}\sqrt{p^2q^2-(m^2-n^2)^2}." src="//upload.wikimedia.org/math/6/b/d/6bd8fe82433260132dee44f6b0fa2b17.png" /> <sup id="cite_ref-Josefsson3_17-0" class="reference"><a href="#cite_note-Josefsson3-17"><span>[</span>17<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:Thm. 7</sup></dd></dl>
+<p>In fact, any three of the four values <i>m</i>, <i>n</i>, <i>p</i>, and <i>q</i> suffice for determination of the area, since in any quadrilateral the four values are related by <img class="mwe-math-fallback-image-inline tex" alt="p^2+q^2=2(m^2+n^2)." src="//upload.wikimedia.org/math/c/8/b/c8b11d0e8a2f0502b596d152dccc1a84.png" /><sup id="cite_ref-Altshiller-Court_18-0" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p. 126</sup> The corresponding expressions are:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>&#93;</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{2}\sqrt{[(m+n)^2-p^2]\cdot[p^2-(m-n)^2]}," src="//upload.wikimedia.org/math/3/7/7/37775674def134c8c7d52dad084f95a3.png" /> </dd></dl>
+<p>if the lengths of two bimedians and one diagonal are given, and<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>&#93;</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{4}\sqrt{[(p+q)^2-4m^2]\cdot[4m^2-(p-q)^2]}," src="//upload.wikimedia.org/math/c/1/0/c109deab173ab54b17240ecec29b16db.png" /> </dd></dl>
+<p>if the lengths of two diagonals and one bimedian are given.
+</p>
+<h3><span class="mw-headline" id="Vector_formulas">Vector formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=8" title="Edit section: Vector formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The area of a quadrilateral <i>ABCD</i> can be calculated using <a href="/wiki/Vector_(geometric)" title="Vector (geometric)" class="mw-redirect">vectors</a>. Let vectors <b>AC</b> and <b>BD</b> form the diagonals from <i>A</i> to <i>C</i> and from <i>B</i> to <i>D</i>. The area of the quadrilateral is then
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2} |\mathbf{AC}\times\mathbf{BD}|," src="//upload.wikimedia.org/math/d/f/3/df34acb698fa4d1e0b1a5d6f03d85abb.png" /></dd></dl>
+<p>which is half the magnitude of the <a href="/wiki/Cross_product" title="Cross product">cross product</a> of vectors <b>AC</b> and <b>BD</b>. In two-dimensional Euclidean space, expressing vector <b>AC</b> as a <a href="/wiki/Euclidean_vector#In_Cartesian_space" title="Euclidean vector">free vector in Cartesian space</a> equal to (<b><i>x</i><sub>1</sub>,<i>y</i><sub>1</sub></b>) and <b>BD</b> as (<b><i>x</i><sub>2</sub>,<i>y</i><sub>2</sub></b>), this can be rewritten as:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K = \tfrac{1}{2} |x_1 y_2 - x_2 y_1|." src="//upload.wikimedia.org/math/f/c/0/fc0ce5efaeb506d465744bf803714621.png" /></dd></dl>
+<h2><span class="mw-headline" id="Diagonals">Diagonals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=9" title="Edit section: Diagonals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Properties_of_the_diagonals_in_some_quadrilaterals">Properties of the diagonals in some quadrilaterals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=10" title="Edit section: Properties of the diagonals in some quadrilaterals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the following table it is listed if the diagonals in some of the most basic quadrilaterals bisect each other, if their diagonals are <a href="/wiki/Perpendicular" title="Perpendicular">perpendicular</a>, and if their diagonals have equal length.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> The list applies to the most general cases, and excludes named subsets.
+</p>
+<table class="wikitable">
+
+<tr>
+<th> Quadrilateral </th>
+<th> Bisecting diagonals </th>
+<th> Perpendicular diagonals </th>
+<th> Equal diagonals
+</th></tr>
+<tr>
+<th> <a href="/wiki/Trapezoid" title="Trapezoid">Trapezoid</a>
+</th>
+<td> No </td>
+<td> <i>See note 1</i> </td>
+<td> No
+</td></tr>
+<tr>
+<th> <a href="/wiki/Isosceles_trapezoid" title="Isosceles trapezoid">Isosceles trapezoid</a>
+</th>
+<td> No </td>
+<td> <i>See note 1</i> </td>
+<td> Yes
+</td></tr>
+<tr>
+<th> <a href="/wiki/Parallelogram" title="Parallelogram">Parallelogram</a>
+</th>
+<td> Yes </td>
+<td> No </td>
+<td> No
+</td></tr>
+<tr>
+<th> <a href="/wiki/Kite_(geometry)" title="Kite (geometry)">Kite</a>
+</th>
+<td> <i>See note 2</i> </td>
+<td> Yes </td>
+<td> <i>See note 2</i>
+</td></tr>
+<tr>
+<th> <a href="/wiki/Rectangle" title="Rectangle">Rectangle</a>
+</th>
+<td> Yes </td>
+<td> No </td>
+<td> Yes
+</td></tr>
+<tr>
+<th> <a href="/wiki/Rhombus" title="Rhombus">Rhombus</a>
+</th>
+<td> Yes </td>
+<td> Yes </td>
+<td> No
+</td></tr>
+<tr>
+<th> <a href="/wiki/Square" title="Square">Square</a>
+</th>
+<td> Yes </td>
+<td> Yes </td>
+<td> Yes
+</td></tr></table>
+<p><i>Note 1: The most general trapezoids and isosceles trapezoids do not have perpendicular diagonals, but there are infinite numbers of (non-similar) trapezoids and isosceles trapezoids that do have perpendicular diagonals and are not any other named quadrilateral.</i>
+</p><p><i>Note 2: In a kite, one diagonal bisects the other.  The most general kite has unequal diagonals, but there is an infinite number of (non-similar) kites in which the diagonals are equal in length (and the kites are not any other named quadrilateral).</i>
+</p>
+<h3><span class="mw-headline" id="Length_of_the_diagonals">Length of the diagonals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=11" title="Edit section: Length of the diagonals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The length of the diagonals in a convex quadrilateral <i>ABCD</i> can be calculated using the <a href="/wiki/Law_of_cosines" title="Law of cosines">law of cosines</a>. Thus
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="p=\sqrt{a^2+b^2-2ab\cos{B}}=\sqrt{c^2+d^2-2cd\cos{D}}" src="//upload.wikimedia.org/math/f/0/6/f06a6d38d1b769ccc1409a21e075c3f0.png" /></dd></dl>
+<p>and
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="q=\sqrt{a^2+d^2-2ad\cos{A}}=\sqrt{b^2+c^2-2bc\cos{C}}." src="//upload.wikimedia.org/math/5/6/3/5635287c32b9e8ecafbd6360335e76fd.png" /></dd></dl>
+<p>Other, more symmetric formulas for the length of the diagonals, are<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="p=\sqrt{\frac{(ac+bd)(ad+bc)-2abcd(\cos{B}+\cos{D})}{ab+cd}}" src="//upload.wikimedia.org/math/7/d/0/7d0461d14c7e0e38b72583be7eba919f.png" /></dd></dl>
+<p>and
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="q=\sqrt{\frac{(ab+cd)(ac+bd)-2abcd(\cos{A}+\cos{C})}{ad+bc}}." src="//upload.wikimedia.org/math/8/d/b/8dbdb6c496df102dd161de52679ceba4.png" /></dd></dl>
+<h3><span class="mw-headline" id="Generalizations_of_the_parallelogram_law_and_Ptolemy.27s_theorem">Generalizations of the parallelogram law and Ptolemy's theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=12" title="Edit section: Generalizations of the parallelogram law and Ptolemy&#039;s theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In any convex quadrilateral <i>ABCD</i>, the sum of the squares of the four sides is equal to the sum of the squares of the two diagonals plus four times the square of the line segment connecting the midpoints of the diagonals. Thus
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" a^2 + b^2 + c^2 + d^2 = p^2 + q^2 + 4x^2 " src="//upload.wikimedia.org/math/b/b/1/bb19d42d7bedceade761689cec862ecb.png" /></dd></dl>
+<p>where <i>x</i> is the distance between the midpoints of the diagonals.<sup id="cite_ref-Altshiller-Court_18-1" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.126</sup> This is sometimes known as <i>Euler's quadrilateral theorem</i> and is a generalization of the <a href="/wiki/Parallelogram_law" title="Parallelogram law">parallelogram law</a>.
+</p><p>The German mathematician <a href="/wiki/Carl_Anton_Bretschneider" title="Carl Anton Bretschneider">Carl Anton Bretschneider</a> derived in 1842 the following generalization of <a href="/wiki/Ptolemy%27s_theorem" title="Ptolemy&#39;s theorem">Ptolemy's theorem</a>, regarding the product of the diagonals in a convex quadrilateral<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" p^2q^2=a^2c^2+b^2d^2-2abcd\cos{(A+C)}." src="//upload.wikimedia.org/math/e/5/0/e50fd998b1d864ce87f9d80ba56d15ad.png" /></dd></dl>
+<p>This relation can be considered to be a <a href="/wiki/Law_of_cosines" title="Law of cosines">law of cosines</a> for a quadrilateral. In a <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic quadrilateral</a>, where <i>A</i> + <i>C</i> = 180°, it reduces to <i>pq = ac + bd</i>. Since cos (<i>A</i> + <i>C</i>) ≥ &#8722;1, it also gives a proof of Ptolemy's inequality.
+</p>
+<h3><span class="mw-headline" id="Other_metric_relations">Other metric relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=13" title="Edit section: Other metric relations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If <i>X</i> and <i>Y</i> are the feet of the normals from <i>B</i> and <i>D</i> to the diagonal <i>AC</i> = <i>p</i> in a convex quadrilateral <i>ABCD</i> with sides <i>a</i> = <i>AB</i>, <i>b</i> = <i>BC</i>, <i>c</i> = <i>CD</i>, <i>d</i> = <i>DA</i>, then<sup id="cite_ref-Josefsson_22-0" class="reference"><a href="#cite_note-Josefsson-22"><span>[</span>22<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.14</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="XY=\frac{|a^2+c^2-b^2-d^2|}{2p}." src="//upload.wikimedia.org/math/0/d/5/0d50998fa3ca4654eb57cfa2ed329d82.png" /></dd></dl>
+<p>In a convex quadrilateral <i>ABCD</i> with sides <i>a</i> = <i>AB</i>, <i>b</i> = <i>BC</i>, <i>c</i> = <i>CD</i>, <i>d</i> = <i>DA</i>, and where the diagonals intersect at <i>E</i>,
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" efgh(a+c+b+d)(a+c-b-d) = (agh+cef+beh+dfg)(agh+cef-beh-dfg)" src="//upload.wikimedia.org/math/9/2/c/92c415c7f133c5fb38156bdb81585767.png" /></dd></dl>
+<p>where <i>e</i> = <i>AE</i>, <i>f</i> = <i>BE</i>, <i>g</i> = <i>CE</i>, and <i>h</i> = <i>DE</i>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup>
+</p><p>The shape of a convex quadrilateral is fully determined by the lengths of its sides in sequence and of one diagonal between two specified vertices.  The two diagonals <i>p, q</i> and the four side lengths <i>a, b, c, d</i> of a quadrilateral are related<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> by the <a href="/wiki/Distance_geometry#Cayley.E2.80.93Menger_determinants" title="Distance geometry">Cayley-Menger</a> <a href="/wiki/Determinant" title="Determinant">determinant</a>, as follows:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" \det \begin{bmatrix} &#10;   0 &amp; a^2 &amp; p^2 &amp; d^2 &amp; 1 \\&#10; a^2 &amp;   0 &amp; b^2 &amp; q^2 &amp; 1 \\&#10; p^2 &amp; b^2 &amp;   0 &amp; c^2 &amp; 1 \\&#10; d^2 &amp; q^2 &amp; c^2 &amp;   0 &amp; 1 \\&#10;   1 &amp;   1 &amp;   1 &amp; 1   &amp; 0&#10;\end{bmatrix} = 0. " src="//upload.wikimedia.org/math/d/9/1/d915bf8260674d6d747aabbceef02726.png" /></dd></dl>
+<h2><span class="mw-headline" id="Bimedians">Bimedians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=14" title="Edit section: Bimedians">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Varignon_theorem_convex.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Varignon_theorem_convex.png/300px-Varignon_theorem_convex.png" width="300" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Varignon_theorem_convex.png/450px-Varignon_theorem_convex.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Varignon_theorem_convex.png/600px-Varignon_theorem_convex.png 2x" data-file-width="706" data-file-height="477" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Varignon_theorem_convex.png" class="internal" title="Enlarge"></a></div>The Varignon  parallelogram <i>EFGH</i></div></div></div>
+<p>The <a href="/wiki/Quadrilateral#Special_line_segments" title="Quadrilateral">bimedians</a> of a quadrilateral are the line segments connecting the <a href="/wiki/Midpoint" title="Midpoint">midpoints</a> of the opposite sides.
+The midpoints of the sides of any quadrilateral (convex, concave or crossed) are the vertices of a <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a> called the <a href="/wiki/Varignon%27s_theorem" title="Varignon&#39;s theorem">Varignon parallelogram</a>. It has the following properties:
+</p>
+<ul><li>Each pair of opposite sides of the Varignon parallelogram are parallel to a diagonal in the original quadrilateral.</li>
+<li>A side of the Varignon parallelogram is half as long as the diagonal in the original quadrilateral it is parallel to.</li>
+<li>The area of the Varignon parallelogram equals half the area of the original quadrilateral. This is true in convex, concave and crossed quadrilaterals provided the area of the latter is defined to be the difference of the areas of the two triangles it is composed of.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></li>
+<li>The <a href="/wiki/Perimeter" title="Perimeter">perimeter</a> of the Varignon parallelogram equals the sum of the diagonals of the original quadrilateral.</li></ul>
+<p>The diagonals of the Varignon parallelogram are the bimedians of the original quadrilateral.
+</p><p>The two bimedians in a quadrilateral and the line segment joining the midpoints of the diagonals in that quadrilateral are <a href="/wiki/Concurrent_lines" title="Concurrent lines">concurrent</a> and are all bisected by their point of intersection.<sup id="cite_ref-Altshiller-Court_18-2" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.125</sup>
+</p><p>In a convex quadrilateral with sides <i>a</i>, <i>b</i>, <i>c</i> and <i>d</i>, the length of the bimedian that connects the midpoints of the sides <i>a</i> and <i>c</i> is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="m=\tfrac{1}{2}\sqrt{-a^2+b^2-c^2+d^2+p^2+q^2}" src="//upload.wikimedia.org/math/7/b/0/7b0c0604e084bbe40248e5c061694b61.png" /></dd></dl>
+<p>where <i>p</i> and <i>q</i> are the length of the diagonals.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup> The length of the bimedian that connects the midpoints of the sides <i>b</i> and <i>d</i> is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="n=\tfrac{1}{2}\sqrt{a^2-b^2+c^2-d^2+p^2+q^2}." src="//upload.wikimedia.org/math/3/e/b/3eb956b870a3be3d22324b54bc7a3272.png" /></dd></dl>
+<p>Hence<sup id="cite_ref-Altshiller-Court_18-3" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.126</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\displaystyle p^2+q^2=2(m^2+n^2)." src="//upload.wikimedia.org/math/c/c/7/cc794649177563061502dadf707e87ad.png" /></dd></dl>
+<p>This is also a <a href="/wiki/Corollary" title="Corollary">corollary</a> to the <a href="/wiki/Parallelogram_law" title="Parallelogram law">parallelogram law</a> applied in the Varignon parallelogram.
+</p><p>The lengths of the bimedians can also be expressed in terms of two opposite sides and the distance <i>x</i> between the midpoints of the diagonals. This is possible when using Euler's quadrilateral theorem in the above formulas. Whence<sup id="cite_ref-Josefsson3_17-1" class="reference"><a href="#cite_note-Josefsson3-17"><span>[</span>17<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="m=\tfrac{1}{2}\sqrt{2(b^2+d^2)-4x^2}" src="//upload.wikimedia.org/math/0/0/7/0070ff9c23d45b4381853caa55f1e167.png" /></dd></dl>
+<p>and
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="n=\tfrac{1}{2}\sqrt{2(a^2+c^2)-4x^2}." src="//upload.wikimedia.org/math/3/1/1/311224a05364ac181c2077fe3c02451b.png" /></dd></dl>
+<p>Note that the two opposite sides in these formulas are not the two that the bimedian connects.
+</p><p>In a convex quadrilateral, there is the following <a href="/wiki/Duality_(mathematics)" title="Duality (mathematics)">dual</a> connection between the bimedians and the diagonals:<sup id="cite_ref-Josefsson_22-1" class="reference"><a href="#cite_note-Josefsson-22"><span>[</span>22<span>]</span></a></sup>
+</p>
+<ul><li> The two bimedians have equal length <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the two diagonals are <a href="/wiki/Perpendicular" title="Perpendicular">perpendicular</a>.</li>
+<li> The two bimedians are perpendicular if and only if the two diagonals have equal length.</li></ul>
+<h2><span class="mw-headline" id="Trigonometric_identities">Trigonometric identities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=15" title="Edit section: Trigonometric identities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The four angles of a simple quadrilateral <i>ABCD</i> satisfy the following identities:<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\sin{A}+\sin{B}+\sin{C}+\sin{D}=4\sin{\frac{A+B}{2}}\sin{\frac{A+C}{2}}\sin{\frac{A+D}{2}}" src="//upload.wikimedia.org/math/c/6/0/c6060b9b03effbec1a0cd879064fbcc9.png" /></dd></dl>
+<p>and
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\tan{A}\tan{B}-\tan{C}\tan{D}}{\tan{A}\tan{C}-\tan{B}\tan{D}}=\frac{\tan{(A+C)}}{\tan{(A+B)}}." src="//upload.wikimedia.org/math/a/b/1/ab111ac5d1a093cbd770adb9f13a9193.png" /></dd></dl>
+<p>Also,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\tan{A}+\tan{B}+\tan{C}+\tan{D}}{\cot{A}+\cot{B}+\cot{C}+\cot{D}}=\tan{A}\tan{B}\tan{C}\tan{D}." src="//upload.wikimedia.org/math/3/3/f/33f3d3d6052279e020e8ceac72db7afe.png" /></dd></dl>
+<p>In the last two formulas, no angle is allowed to be a <a href="/wiki/Right_angle" title="Right angle">right angle</a>, since tan&#160;90° is not defined.
+</p>
+<h2><span class="mw-headline" id="Inequalities">Inequalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=16" title="Edit section: Inequalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Area">Area</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=17" title="Edit section: Area">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If a convex quadrilateral has the consecutive sides <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> and the diagonals <i>p</i>, <i>q</i>, then its area <i>K</i> satisfies<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{4}(a+c)(b+d)" src="//upload.wikimedia.org/math/b/7/7/b775976119ee391362ec64edfeb8ec40.png" /> with equality only for a <a href="/wiki/Rectangle" title="Rectangle">rectangle</a>.</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{4}(a^2+b^2+c^2+d^2)" src="//upload.wikimedia.org/math/6/7/e/67e3b9bd5e04796cfec7a0fb6f692562.png" /> with equality only for a <a href="/wiki/Square_(geometry)" title="Square (geometry)" class="mw-redirect">square</a>.</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{4}(p^2+q^2)" src="//upload.wikimedia.org/math/5/7/5/5750df90b16509c778a63a38e43f0ac4.png" /> with equality only if the diagonals are perpendicular and equal.</dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{2}\sqrt{(a^2+c^2)(b^2+d^2)}" src="//upload.wikimedia.org/math/c/5/a/c5a6293ce2ba6aa9c5ccec9b79188180.png" /> with equality only for a rectangle.<sup id="cite_ref-Josefsson4_13-1" class="reference"><a href="#cite_note-Josefsson4-13"><span>[</span>13<span>]</span></a></sup></dd></dl>
+<p>From <a href="/wiki/Bretschneider%27s_formula" title="Bretschneider&#39;s formula">Bretschneider's formula</a> it directly follows that the area of a quadrilateral satisfies
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K \le \sqrt{(s-a)(s-b)(s-c)(s-d)}" src="//upload.wikimedia.org/math/e/d/3/ed344648b82b1a5067b5a10b49def857.png" /></dd></dl>
+<p>with equality <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the quadrilateral is <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic</a> or degenerate such that one side is equal to the sum of the other three (it has collapsed into a <a href="/wiki/Line_segment" title="Line segment">line segment</a>, so the area is zero).
+</p><p>The area of any quadrilateral also satisfies the inequality<sup id="cite_ref-Alsina_30-0" class="reference"><a href="#cite_note-Alsina-30"><span>[</span>30<span>]</span></a></sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\displaystyle K\le \tfrac{1}{2}\sqrt[3]{(ab+cd)(ac+bd)(ad+bc)}." src="//upload.wikimedia.org/math/5/b/0/5b0fd4da3a6dbd6a69daefbae6ab3aac.png" /></dd></dl>
+<p>Denoting the perimeter as <i>L</i>, we have<sup id="cite_ref-Alsina_30-1" class="reference"><a href="#cite_note-Alsina-30"><span>[</span>30<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.114</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{16}L^2," src="//upload.wikimedia.org/math/9/f/e/9fe5ebc122c97447f40705e773d2b0f9.png" /></dd></dl>
+<p>with equality only in the case of a square.
+</p><p>The area of a convex quadrilateral also satisfies
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K \le \tfrac{1}{2}pq" src="//upload.wikimedia.org/math/e/d/e/eded01fdfd4fc90843de988e0bca36e3.png" /></dd></dl>
+<p>for diagonal lengths <i>p</i> and <i>q</i>, with equality if and only if the diagonals are perpendicular.
+</p>
+<h3><span class="mw-headline" id="Diagonals_and_bimedians">Diagonals and bimedians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=18" title="Edit section: Diagonals and bimedians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A corollary to Euler's quadrilateral theorem is the inequality
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" a^2 + b^2 + c^2 + d^2 \ge p^2 + q^2 " src="//upload.wikimedia.org/math/c/4/e/c4e04282cbedb9d9174ac2509747e236.png" /></dd></dl>
+<p>where equality holds if and only if the quadrilateral is a <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a>.
+</p><p><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a> also generalized <a href="/wiki/Ptolemy%27s_theorem" title="Ptolemy&#39;s theorem">Ptolemy's theorem</a>, which is an equality in a <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic quadrilateral</a>, into an inequality for a convex quadrilateral. It states that
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt=" pq \le ac + bd " src="//upload.wikimedia.org/math/0/e/f/0ef1d76d22675065bf3d31607d9cb92e.png" /></dd></dl>
+<p>where there is equality <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the quadrilateral is cyclic.<sup id="cite_ref-Altshiller-Court_18-4" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.128–129</sup> This is often called <a href="/wiki/Ptolemy%27s_inequality" title="Ptolemy&#39;s inequality" class="mw-redirect">Ptolemy's inequality</a>.
+</p><p>In any convex quadrilateral the bimedians <i>m, n</i> and the diagonals <i>p, q</i> are related by the inequality
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="pq \leq m^2+n^2," src="//upload.wikimedia.org/math/f/b/d/fbd0bf6565f6b79e62f25d458be6d4b3.png" /></dd></dl>
+<p>with equality holding if and only if the diagonals are equal.<sup id="cite_ref-J2014_31-0" class="reference"><a href="#cite_note-J2014-31"><span>[</span>31<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:Prop.1</sup> This follows directly from the quadrilateral identity <img class="mwe-math-fallback-image-inline tex" alt="m^2+n^2=\frac{1}{2}(p^2+q^2)." src="//upload.wikimedia.org/math/8/b/4/8b429729a763d163efc75b506ad4bea5.png" />
+</p>
+<h3><span class="mw-headline" id="Sides">Sides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=19" title="Edit section: Sides">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The sides <i>a</i>, <i>b</i>, <i>c</i>, and <i>d</i> of any quadrilateral satisfy<sup id="cite_ref-Crux_32-0" class="reference"><a href="#cite_note-Crux-32"><span>[</span>32<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.228,#275</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="a^2+b^2+c^2 &gt; \frac{d^2}{3}" src="//upload.wikimedia.org/math/e/b/7/eb7171ca4907a15180f9293ac4902d01.png" /></dd></dl>
+<p>and<sup id="cite_ref-Crux_32-1" class="reference"><a href="#cite_note-Crux-32"><span>[</span>32<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.234,#466</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="a^4+b^4+c^4 \geq \frac{d^4}{27}." src="//upload.wikimedia.org/math/5/0/6/50643e89c0a26856705847cc75850851.png" /></dd></dl>
+<h2><span class="mw-headline" id="Maximum_and_minimum_properties">Maximum and minimum properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=20" title="Edit section: Maximum and minimum properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among all quadrilaterals with a given <a href="/wiki/Perimeter" title="Perimeter">perimeter</a>, the one with the largest area is the <a href="/wiki/Square_(geometry)" title="Square (geometry)" class="mw-redirect">square</a>. This is called the <i><a href="/wiki/Isoperimetric_inequality" title="Isoperimetric inequality">isoperimetric theorem</a> for quadrilaterals</i>. It is a direct consequence of the area inequality<sup id="cite_ref-Alsina_30-2" class="reference"><a href="#cite_note-Alsina-30"><span>[</span>30<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.114</sup>
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K\le \tfrac{1}{16}L^2" src="//upload.wikimedia.org/math/a/8/c/a8ce9f3ab8338348fc39e8463fa8d86c.png" /></dd></dl>
+<p>where <i>K</i> is the area of a convex quadrilateral with perimeter <i>L</i>. Equality holds <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the quadrilateral is a square. The dual theorem states that of all quadrilaterals with a given area, the square has the shortest perimeter.
+</p><p>The quadrilateral with given side lengths that has the <a href="/wiki/Maxima_and_minima" title="Maxima and minima">maximum</a> area is the <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic quadrilateral</a>.<sup id="cite_ref-Peter_33-0" class="reference"><a href="#cite_note-Peter-33"><span>[</span>33<span>]</span></a></sup>
+</p><p>Of all convex quadrilaterals with given diagonals, the <a href="/wiki/Orthodiagonal_quadrilateral" title="Orthodiagonal quadrilateral">orthodiagonal quadrilateral</a> has the largest area.<sup id="cite_ref-Alsina_30-3" class="reference"><a href="#cite_note-Alsina-30"><span>[</span>30<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.119</sup> This is a direct consequence of the fact that the area of a convex quadrilateral satisfies
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="K=\tfrac{1}{2}pq\sin{\theta}\le \tfrac{1}{2}pq," src="//upload.wikimedia.org/math/0/f/5/0f50b89f100f27990f88516f211ba509.png" /></dd></dl>
+<p>where <i>θ</i> is the angle between the diagonals <i>p</i> and <i>q</i>. Equality holds if and only if <i>θ</i> = 90°.
+</p><p>If <i>P</i> is an interior point in a convex quadrilateral <i>ABCD</i>, then
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="AP+BP+CP+DP\ge AC+BD." src="//upload.wikimedia.org/math/5/a/6/5a676ea9a783992790a62ec622766a46.png" /></dd></dl>
+<p>From this inequality it follows that the point inside a quadrilateral that <a href="/wiki/Maxima_and_minima" title="Maxima and minima">minimizes</a> the sum of distances to the <a href="/wiki/Vertex_(geometry)" title="Vertex (geometry)">vertices</a> is the intersection of the diagonals. Hence that point is the <a href="/wiki/Fermat_point" title="Fermat point">Fermat point</a> of a convex quadrilateral.<sup id="cite_ref-autogenerated1_34-0" class="reference"><a href="#cite_note-autogenerated1-34"><span>[</span>34<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.120</sup>
+</p>
+<h2><span class="mw-headline" id="Remarkable_points_and_lines_in_a_convex_quadrilateral">Remarkable points and lines in a convex quadrilateral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=21" title="Edit section: Remarkable points and lines in a convex quadrilateral">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The centre of a quadrilateral can be defined in several different ways. The "vertex centroid" comes from considering the quadrilateral as being empty but having equal masses at its vertices. The "side centroid" comes from considering the sides to have constant mass per unit length. The usual centre, called just <a href="/wiki/Centroid" title="Centroid">centroid</a> (centre of area) comes from considering the surface of the quadrilateral as having constant density. These three points are in general not all the same point.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> 
+</p><p>The "vertex centroid" is the intersection of the two <a href="/wiki/Quadrilateral#Special_line_segments" title="Quadrilateral">bimedians</a>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup> As with any polygon, the <i>x</i> and <i>y</i> coordinates of the vertex centroid are the <a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic means</a> of the <i>x</i> and <i>y</i> coordinates of the vertices.
+</p><p>The "area centroid" of quadrilateral <i>ABCD</i> can be constructed in the following way. Let <i>G<sub>a</sub></i>, <i>G<sub>b</sub></i>, <i>G<sub>c</sub></i>, <i>G<sub>d</sub></i> be the centroids of triangles <i>BCD</i>, <i>ACD</i>, <i>ABD</i>, <i>ABC</i> respectively. Then the "area centroid" is the intersection of the lines <i>G<sub>a</sub>G<sub>c</sub></i> and <i>G<sub>b</sub>G<sub>d</sub></i>.<sup id="cite_ref-Myakishev_37-0" class="reference"><a href="#cite_note-Myakishev-37"><span>[</span>37<span>]</span></a></sup> 
+</p><p>In a general convex quadrilateral <i>ABCD</i>, there are no natural analogies to the <a href="/wiki/Circumcenter" title="Circumcenter" class="mw-redirect">circumcenter</a> and <a href="/wiki/Orthocenter" title="Orthocenter" class="mw-redirect">orthocenter</a> of a <a href="/wiki/Triangle" title="Triangle">triangle</a>. But two such points can be constructed in the following way. Let <i>O<sub>a</sub></i>, <i>O<sub>b</sub></i>, <i>O<sub>c</sub></i>, <i>O<sub>d</sub></i> be the circumcenters of triangles <i>BCD</i>, <i>ACD</i>, <i>ABD</i>, <i>ABC</i> respectively; and denote by <i>H<sub>a</sub></i>, <i>H<sub>b</sub></i>, <i>H<sub>c</sub></i>, <i>H<sub>d</sub></i> the orthocenters in the same triangles. Then the intersection of the lines <i>O<sub>a</sub>O<sub>c</sub></i> and <i>O<sub>b</sub>O<sub>d</sub></i> is called the <i>quasicircumcenter</i>; and the intersection of the lines <i>H<sub>a</sub>H<sub>c</sub></i> and <i>H<sub>b</sub>H<sub>d</sub></i> is called the <i>quasiorthocenter</i> of the convex quadrilateral.<sup id="cite_ref-Myakishev_37-1" class="reference"><a href="#cite_note-Myakishev-37"><span>[</span>37<span>]</span></a></sup> These points can be used to define an <a href="/wiki/Euler_line" title="Euler line">Euler line</a> of a quadrilateral. In a convex quadrilateral, the quasiorthocenter <i>H</i>, the "area centroid" <i>G</i>, and the quasicircumcenter <i>O</i> are <a href="/wiki/Collinear" title="Collinear" class="mw-redirect">collinear</a> in this order, and <i>HG</i> = 2<i>GO</i>.<sup id="cite_ref-Myakishev_37-2" class="reference"><a href="#cite_note-Myakishev-37"><span>[</span>37<span>]</span></a></sup>
+</p><p>There can also be defined a <i>quasinine-point center</i> <i>E</i> as the intersection of the lines <i>E<sub>a</sub>E<sub>c</sub></i> and <i>E<sub>b</sub>E<sub>d</sub></i>, where <i>E<sub>a</sub></i>, <i>E<sub>b</sub></i>, <i>E<sub>c</sub></i>, <i>E<sub>d</sub></i> are the <a href="/wiki/Nine-point_circle" title="Nine-point circle">nine-point centers</a> of triangles <i>BCD</i>, <i>ACD</i>, <i>ABD</i>, <i>ABC</i> respectively. Then <i>E</i> is the <a href="/wiki/Midpoint" title="Midpoint">midpoint</a> of <i>OH</i>.<sup id="cite_ref-Myakishev_37-3" class="reference"><a href="#cite_note-Myakishev-37"><span>[</span>37<span>]</span></a></sup>
+</p><p>Another remarkable line in a convex quadrilateral is the <a href="/wiki/Newton_line" title="Newton line">Newton line</a>.
+</p>
+<h2><span class="mw-headline" id="Other_properties_of_convex_quadrilaterals">Other properties of convex quadrilaterals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=22" title="Edit section: Other properties of convex quadrilaterals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Let exterior squares be drawn on all sides of a quadrilateral. The segments connecting the <a href="/wiki/Centre_(geometry)#Symmetric_objects" title="Centre (geometry)">centers</a> of opposite squares are (a) equal in length, and (b) <a href="/wiki/Perpendicular" title="Perpendicular">perpendicular</a>. Thus these centers are the vertices of an <a href="/wiki/Orthodiagonal_quadrilateral" title="Orthodiagonal quadrilateral">orthodiagonal quadrilateral</a>. This is called <a href="/wiki/Van_Aubel%27s_theorem" title="Van Aubel&#39;s theorem">Van Aubel's theorem</a>.</li>
+<li>The internal <a href="/wiki/Angle_bisector" title="Angle bisector" class="mw-redirect">angle bisectors</a> of a convex quadrilateral either form a <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic quadrilateral</a><sup id="cite_ref-Altshiller-Court_18-5" class="reference"><a href="#cite_note-Altshiller-Court-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:p.127</sup> or they are <a href="/wiki/Concurrent_lines" title="Concurrent lines">concurrent</a>. In the latter case the quadrilateral is a <a href="/wiki/Tangential_quadrilateral" title="Tangential quadrilateral">tangential quadrilateral</a>.</li>
+<li>For any simple quadrilateral with given edge lengths, there is a <a href="/wiki/Cyclic_quadrilateral" title="Cyclic quadrilateral">cyclic quadrilateral</a> with the same edge lengths.<sup id="cite_ref-Peter_33-1" class="reference"><a href="#cite_note-Peter-33"><span>[</span>33<span>]</span></a></sup></li>
+<li>The four smaller triangles formed by the diagonals and sides of a convex quadrilateral have the property that the product of the areas of two opposite triangles equals the product of the areas of the other two triangles.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></li></ul>
+<ul><li>In quadrilateral <i>ABCD</i>, if the <a href="/wiki/Bisection#Of_angles" title="Bisection">angle bisectors</a> of <i>A</i> and <i>C</i> meet on diagonal <i>BD</i>, then the angle bisectors of <i>B</i> and <i>D</i> meet on diagonal <i>AC</i>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=23" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Taxonomy_(general)" title="Taxonomy (general)">taxonomy</a> of quadrilaterals is illustrated by the following graph. Lower forms are special cases of higher forms. Note that "trapezoid" here is referring to the North American definition (the British equivalent is a trapezium), and "kite" excludes the <i>concave kite</i> (<i>arrowhead</i> or <i>dart</i>). Inclusive definitions are used throughout.
+</p>
+<dl><dd><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Quadrilateral_hierarchy_svg.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Quadrilateral_hierarchy_svg.svg/220px-Quadrilateral_hierarchy_svg.svg.png" width="220" height="269" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Quadrilateral_hierarchy_svg.svg/330px-Quadrilateral_hierarchy_svg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Quadrilateral_hierarchy_svg.svg/440px-Quadrilateral_hierarchy_svg.svg.png 2x" data-file-width="819" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Quadrilateral_hierarchy_svg.svg" class="internal" title="Enlarge"></a></div>Taxonomic hierarchy of quadrilaterals. Lower forms are special cases of the higher forms they are connected to.</div></div></div></dd></dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Complete_quadrangle" title="Complete quadrangle">Complete quadrangle</a></li>
+<li><a href="/wiki/Perpendicular_bisector_construction_of_a_quadrilateral" title="Perpendicular bisector construction of a quadrilateral">Perpendicular bisector construction of a quadrilateral</a></li>
+<li><a href="/wiki/Saccheri_quadrilateral" title="Saccheri quadrilateral">Saccheri quadrilateral</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mysite.mweb.co.za/residents/profmd/stars.pdf">Stars: A Second Look</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cimt.plymouth.ac.uk/resources/topics/art002.pdf">http://www.cimt.plymouth.ac.uk/resources/topics/art002.pdf</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cleavebooks.co.uk/scol/calrect.htm">http://www.cleavebooks.co.uk/scol/calrect.htm</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">G. Keady, P. Scales and S. Z. Németh, "Watt Linkages and Quadrilaterals", <i>The Mathematical Gazette</i> Vol. 88, No. 513 (Nov., 2004), pp. 475–492.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">A. K. Jobbings, "Quadric Quadrilaterals", <i>The Mathematical Gazette</i> Vol. 81, No. 491 (Jul., 1997), pp. 220–224.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">M.P. Barnett and J.F. Capitani, <i>Modular chemical geometry and symbolic calculation</i>,
+International Journal of Quantum Chemistry, 106 (1) 215–227, 2006.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">William Rowan Hamilton, <i><a rel="nofollow" class="external text" href="http://www.maths.tcd.ie/pub/HistMath/People/Hamilton/Gauche/Gauche1.pdf">On Some Results Obtained by the Quaternion Analysis Respecting the Inscription of "Gauche" Polygons in Surfaces of the Second Order</a></i>, Proceedings of the Royal Irish Academy, 4 (1850), pp. 380–387.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">E.W. Weisstein. <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Bimedian.html">"Bimedian"</a>. <i>MathWorld</i> – A Wolfram Web Resource.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.au=E.W.+Weisstein&amp;rft.aulast=E.W.+Weisstein&amp;rft.btitle=Bimedian&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FBimedian.html&amp;rft.pub=%27%27MathWorld%27%27+%E2%80%93+A+Wolfram+Web+Resource&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">E.W. Weisstein. <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Maltitude.html">"Maltitude"</a>. <i>MathWorld</i> – A Wolfram Web Resource.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.au=E.W.+Weisstein&amp;rft.aulast=E.W.+Weisstein&amp;rft.btitle=Maltitude&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FMaltitude.html&amp;rft.pub=%27%27MathWorld%27%27+%E2%80%93+A+Wolfram+Web+Resource&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Harries, J. "Area of a quadrilateral," <i>Mathematical Gazette</i> 86, July 2002, 310–311.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">R. A. Johnson, <i>Advanced Euclidean Geometry</i>, 2007, Dover Publ., p. 82.</span>
+</li>
+<li id="cite_note-Mitchell-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mitchell_12-0">^</a></b></span> <span class="reference-text">Mitchell, Douglas W., "The area of a quadrilateral," <i>Mathematical Gazette</i> 93, July 2009, 306–309.</span>
+</li>
+<li id="cite_note-Josefsson4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Josefsson4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Josefsson4_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFJosefsson2013" class="citation">Josefsson, Martin (2013), <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2013volume13/FG201304.pdf">"Five Proofs of an Area Characterization of Rectangles"</a>, <i>Forum Geometricorum</i> <b>13</b>: 17–21</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.atitle=Five+Proofs+of+an+Area+Characterization+of+Rectangles&amp;rft.aufirst=Martin&amp;rft.au=Josefsson%2C+Martin&amp;rft.aulast=Josefsson&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fforumgeom.fau.edu%2FFG2013volume13%2FFG201304.pdf&amp;rft.jtitle=Forum+Geometricorum&amp;rft.pages=17-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">J. L. Coolidge, "A historically interesting formula for the area of a quadrilateral", <i>American Mathematical Monthly</i>, 46 (1939) 345–347.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">E.W. Weisstein. <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/BretschneidersFormula.html">"Bretschneider's formula"</a>. <i>MathWorld</i> – A Wolfram Web Resource.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.au=E.W.+Weisstein&amp;rft.aulast=E.W.+Weisstein&amp;rft.btitle=Bretschneider%27s+formula&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FBretschneidersFormula.html&amp;rft.pub=%27%27MathWorld%27%27+%E2%80%93+A+Wolfram+Web+Resource&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Archibald, R. C., "The Area of a Quadrilateral", <i>American Mathematical Monthly</i>, 29 (1922) pp. 29–36.</span>
+</li>
+<li id="cite_note-Josefsson3-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Josefsson3_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Josefsson3_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFJosefsson2011" class="citation">Josefsson, Martin (2011), <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2011volume11/FG201116.pdf">"The Area of a Bicentric Quadrilateral"</a>, <i>Forum Geometricorum</i> <b>11</b>: 155–164</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.atitle=The+Area+of+a+Bicentric+Quadrilateral&amp;rft.aufirst=Martin&amp;rft.au=Josefsson%2C+Martin&amp;rft.aulast=Josefsson&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fforumgeom.fau.edu%2FFG2011volume11%2FFG201116.pdf&amp;rft.jtitle=Forum+Geometricorum&amp;rft.pages=155-164&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-Altshiller-Court-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Altshiller-Court_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Altshiller-Court_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Altshiller-Court_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Altshiller-Court_18-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Altshiller-Court_18-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Altshiller-Court_18-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Altshiller-Court, Nathan, <i>College Geometry</i>, Dover Publ., 2007.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Jennifer Kahle, Geometry: Basic ideas, <a rel="nofollow" class="external autonumber" href="http://www.math.okstate.edu/geoset/Projects/Ideas/QuadDiags.htm">[1]</a>, accessed 28 December 2012.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Rashid, M. A. &amp; Ajibade, A. O., "Two conditions for a quadrilateral to be cyclic expressed in terms of the lengths of its sides", <i>Int. J. Math. Educ. Sci. Technol.</i>, vol. 34 (2003) no. 5, pp. 739–799.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Andreescu, Titu &amp; Andrica, Dorian, <i>Complex Numbers from A to...Z</i>, Birkhäuser, 2006, pp. 207–209.</span>
+</li>
+<li id="cite_note-Josefsson-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Josefsson_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Josefsson_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFJosefsson2012" class="citation">Josefsson, Martin (2012), <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2012volume12/FG201202.pdf">"Characterizations of Orthodiagonal Quadrilaterals"</a>, <i>Forum Geometricorum</i> <b>12</b>: 13–25</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.atitle=Characterizations+of+Orthodiagonal+Quadrilaterals&amp;rft.aufirst=Martin&amp;rft.au=Josefsson%2C+Martin&amp;rft.aulast=Josefsson&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fforumgeom.fau.edu%2FFG2012volume12%2FFG201202.pdf&amp;rft.jtitle=Forum+Geometricorum&amp;rft.pages=13-25&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span id="CITEREFHoehn2011" class="citation">Hoehn, Larry (2011), <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2011volume11/FG201122.pdf">"A New Formula Concerning the Diagonals and Sides of a Quadrilateral"</a>, <i>Forum Geometricorum</i> <b>11</b>: 211–212</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.atitle=A+New+Formula+Concerning+the+Diagonals+and+Sides+of+a+Quadrilateral&amp;rft.aufirst=Larry&amp;rft.au=Hoehn%2C+Larry&amp;rft.aulast=Hoehn&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fforumgeom.fau.edu%2FFG2011volume11%2FFG201122.pdf&amp;rft.jtitle=Forum+Geometricorum&amp;rft.pages=211-212&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web">E.W. Weisstein. <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Quadrilateral.html">"Quadrilateral"</a>. <i>MathWorld</i> - A Wolfram Web Resource.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.au=E.W.+Weisstein&amp;rft.aulast=E.W.+Weisstein&amp;rft.btitle=Quadrilateral&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FQuadrilateral.html&amp;rft.pub=%27%27MathWorld%27%27+-+A+Wolfram+Web+Resource&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">H. S. M. Coxeter and S. L. Greitzer, Geometry Revisited, MAA, 1967, pp. 52-53.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.artofproblemsolving.com/Forum/viewtopic.php?t=363253">Mateescu Constantin, Answer to <i>Inequality Of Diagonal</i></a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">C. V. Durell &amp; A. Robson, <i>Advanced Trigonometry</i>, Dover, 2003, p. 267.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><i>MathPro Press</i>, "Original Problems Proposed by Stanley Rabinowitz 1963–2005", p. 23, <a rel="nofollow" class="external autonumber" href="http://www.mathpropress.com/archive/RabinowitzProblems1963-2005.pdf">[2]</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">O. Bottema, <i>Geometric Inequalities</i>, Wolters–Noordhoff Publishing, The Netherlands, 1969, pp. 129, 132.</span>
+</li>
+<li id="cite_note-Alsina-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Alsina_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Alsina_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Alsina_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Alsina_30-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFAlsinaNelsen2009" class="citation">Alsina, Claudi; Nelsen, Roger (2009), <i>When Less is More: Visualizing Basic Inequalities</i>, Mathematical Association of America, p.&#160;68</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.au=Alsina%2C+Claudi&amp;rft.aufirst=Claudi&amp;rft.aulast=Alsina&amp;rft.au=Nelsen%2C+Roger&amp;rft.btitle=When+Less+is+More%3A+Visualizing+Basic+Inequalities&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pages=68&amp;rft.pub=Mathematical+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-J2014-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-J2014_31-0">^</a></b></span> <span class="reference-text">Josefsson, Martin, "Properties of equidiagonal quadrilaterals", <i>Forum Geometricorum</i>, 14 (2014), 129-144.  <a rel="nofollow" class="external autonumber" href="http://forumgeom.fau.edu/FG2014volume14/FG201412index.html">[3]</a> </span>
+</li>
+<li id="cite_note-Crux-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Crux_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Crux_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Inequalities proposed in “Crux Mathematicorum”</i>, <a rel="nofollow" class="external autonumber" href="http://www.imomath.com/othercomp/Journ/ineq.pdf">[4]</a>.</span>
+</li>
+<li id="cite_note-Peter-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peter_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peter_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Thomas Peter, "Maximizing the Area of a Quadrilateral", <i>The College Mathematics Journal</i>, Vol. 34, No. 4 (September 2003), pp. 315–316.</span>
+</li>
+<li id="cite_note-autogenerated1-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-autogenerated1_34-0">^</a></b></span> <span class="reference-text">Alsina, Claudi and Nelsen, Roger, <i>Charming Proofs. A Journey Into Elegant Mathematics</i>, Mathematical Association of America, 2010, pp. 114, 119, 120, 261.</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">King, James, <i>Two Centers of Mass of a Quadrilateral</i>, <a rel="nofollow" class="external autonumber" href="http://www.math.washington.edu/~king/java/gsp/center-mass-quad.html">[5]</a>, Accessed 2012-04-15.</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Honsberger, Ross, <i>Episodes in Nineteenth and Twentieth Century Euclidean Geometry</i>, Math. Assoc. Amer., 1995, pp. 35–41.</span>
+</li>
+<li id="cite_note-Myakishev-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Myakishev_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Myakishev_37-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Myakishev_37-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Myakishev_37-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFMyakishev2006" class="citation">Myakishev, Alexei (2006), <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2006volume6/FG200634.pdf">"On Two Remarkable Lines Related to a Quadrilateral"</a>, <i>Forum Geometricorum</i> <b>6</b>: 289–295</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuadrilateral&amp;rft.atitle=On+Two+Remarkable+Lines+Related+to+a+Quadrilateral&amp;rft.aufirst=Alexei&amp;rft.aulast=Myakishev&amp;rft.au=Myakishev%2C+Alexei&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fforumgeom.fau.edu%2FFG2006volume6%2FFG200634.pdf&amp;rft.jtitle=Forum+Geometricorum&amp;rft.pages=289-295&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span>.</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Martin Josefsson, <a rel="nofollow" class="external text" href="http://forumgeom.fau.edu/FG2013volume13/FG201305.pdf">"Characterizations of Trapezoids"</a>, <i>Forum  Geometricorum</i> 13 (2013) 23–35.</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Leversha, Gerry, "A property of the diagonals of a cyclic quadrilateral", <i>Mathematical Gazette</i> 93, March 2009, 116–118.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quadrilateral&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Tetragons" class="extiw" title="commons:Category:Tetragons">Tetragons</a></b></i>.</td></tr></table>
+<ul><li><span class="citation mathworld" id="Reference-Mathworld-Quadrilateral"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/Quadrilateral.html">"Quadrilateral"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.chrisvantienhoven.nl/mathematics/encyclopedia.html">Encyclopedia of Quadri-Figures</a> by Chris Van Tienhoven</li>
+<li><a rel="nofollow" class="external text" href="http://www.vias.org/comp_geometry/geom_quad_general.html">Compendium Geometry</a> Analytic Geometry of Quadrilaterals</li>
+<li><a rel="nofollow" class="external text" href="http://www.cut-the-knot.org/Curriculum/Geometry/PerpBisectQuadri.shtml">Quadrilaterals Formed by Perpendicular Bisectors</a>, <a rel="nofollow" class="external text" href="http://www.cut-the-knot.org/Curriculum/Geometry/ProjectiveQuadri.shtml">Projective Collinearity</a> and  <a rel="nofollow" class="external text" href="http://www.cut-the-knot.org/Curriculum/Geometry/Quadrilaterals.shtml">Interactive Classification</a> of Quadrilaterals from <a href="/wiki/Cut-the-knot" title="Cut-the-knot" class="mw-redirect">cut-the-knot</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mathopenref.com/tocs/quadrilateraltoc.html">Definitions and examples of quadrilaterals</a> and <a rel="nofollow" class="external text" href="http://www.mathopenref.com/tetragon.html">Definition and properties of tetragons</a> from Mathopenref</li>
+<li><a rel="nofollow" class="external text" href="http://dynamicmathematicslearning.com/quad-tree-web.html">A (dynamic) Hierarchical Quadrilateral Tree</a> at <a rel="nofollow" class="external text" href="http://dynamicmathematicslearning.com/JavaGSPLinks.htm">Dynamic Geometry Sketches</a></li>
+<li><a rel="nofollow" class="external text" href="http://mysite.mweb.co.za/residents/profmd/quadclassify.pdf">An extended classification of quadrilaterals</a> at <a rel="nofollow" class="external text" href="http://mysite.mweb.co.za/residents/profmd/homepage4.html">Dynamic Math Learning Homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://comic.socksandpuppets.com/view.php?date=2008-02-08">Quadrilateral Venn Diagram</a> Quadrilaterals expressed in the form of a Venn diagram, where the areas are also the shape of the quadrilateral they describe.</li>
+<li><a rel="nofollow" class="external text" href="http://mzone.mweb.co.za/residents/profmd/classify.pdf">The role and function of a hierarchical classification of quadrilaterals</a> by Michael de Villiers</li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Polygons" title="Template:Polygons"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Polygons" title="Template talk:Polygons"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Polygons&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%"><a href="/wiki/Regular_polygon" title="Regular polygon">Regular polygons</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Listed by number of sides</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">1–10 sides</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Monogon" title="Monogon" class="mw-redirect">Monogon</a></li>
+<li> <a href="/wiki/Digon" title="Digon" class="mw-redirect">Digon</a></li>
+<li> <a href="/wiki/Equilateral_triangle" title="Equilateral triangle">Equilateral triangle</a></li>
+<li> <a href="/wiki/Square" title="Square">Square</a></li>
+<li> <a href="/wiki/Pentagon" title="Pentagon">Pentagon</a></li>
+<li> <a href="/wiki/Hexagon" title="Hexagon">Hexagon</a></li>
+<li> <a href="/wiki/Heptagon" title="Heptagon">Heptagon</a></li>
+<li> <a href="/wiki/Octagon" title="Octagon">Octagon</a></li>
+<li> <a href="/wiki/Nonagon" title="Nonagon">Nonagon (Enneagon)</a></li>
+<li> <a href="/wiki/Decagon" title="Decagon">Decagon</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">11–20 sides</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Hendecagon" title="Hendecagon">Hendecagon</a></li>
+<li> <a href="/wiki/Dodecagon" title="Dodecagon">Dodecagon</a></li>
+<li> <a href="/wiki/Tridecagon" title="Tridecagon">Tridecagon</a></li>
+<li> <a href="/wiki/Tetradecagon" title="Tetradecagon">Tetradecagon</a></li>
+<li> <a href="/wiki/Pentadecagon" title="Pentadecagon">Pentadecagon</a></li>
+<li> <a href="/wiki/Hexadecagon" title="Hexadecagon">Hexadecagon</a></li>
+<li> <a href="/wiki/Heptadecagon" title="Heptadecagon">Heptadecagon</a></li>
+<li> <a href="/wiki/Octadecagon" title="Octadecagon">Octadecagon</a></li>
+<li> <a href="/wiki/Enneadecagon" title="Enneadecagon">Enneadecagon</a></li>
+<li> <a href="/wiki/Icosagon" title="Icosagon">Icosagon</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">24, 30–100 sides</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Icositetragon" title="Icositetragon">Icositetragon</a></li>
+<li> <a href="/wiki/Triacontagon" title="Triacontagon">Triacontagon</a></li>
+<li> <a href="/wiki/Tetracontagon" title="Tetracontagon">Tetracontagon</a></li>
+<li> <a href="/wiki/Pentacontagon" title="Pentacontagon">Pentacontagon</a></li>
+<li> <a href="/wiki/Hexacontagon" title="Hexacontagon">Hexacontagon</a></li>
+<li> <a href="/wiki/Heptacontagon" title="Heptacontagon">Heptacontagon</a></li>
+<li> <a href="/wiki/Octacontagon" title="Octacontagon">Octacontagon</a></li>
+<li> <a href="/wiki/Enneacontagon" title="Enneacontagon">Enneacontagon</a></li>
+<li> <a href="/wiki/Hectogon" title="Hectogon">Hectogon</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">Others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/257-gon" title="257-gon">257-gon</a></li>
+<li> <a href="/wiki/Chiliagon" title="Chiliagon">Chiliagon</a></li>
+<li> <a href="/wiki/Myriagon" title="Myriagon">Myriagon</a></li>
+<li> <a href="/wiki/65537-gon" title="65537-gon">65537-gon</a></li>
+<li> <a href="/wiki/Megagon" title="Megagon">Megagon</a></li>
+<li> <a href="/wiki/Apeirogon" title="Apeirogon">Apeirogon</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/Star_polygon" title="Star polygon">Star polygons</a><br/>(5–12 sides)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Pentagram" title="Pentagram">Pentagram</a></li>
+<li> <a href="/wiki/Hexagram" title="Hexagram">Hexagram</a></li>
+<li> <a href="/wiki/Heptagram" title="Heptagram">Heptagram</a></li>
+<li> <a href="/wiki/Octagram" title="Octagram">Octagram</a></li>
+<li> <a href="/wiki/Enneagram_(geometry)" title="Enneagram (geometry)">Enneagram</a></li>
+<li> <a href="/wiki/Decagram_(geometry)" title="Decagram (geometry)">Decagram</a></li>
+<li> <a href="/wiki/Hendecagram" title="Hendecagram">Hendecagram</a></li>
+<li> <a href="/wiki/Dodecagram" title="Dodecagram">Dodecagram</a></li></ul>
+</div></td></tr></table></td></tr></table>

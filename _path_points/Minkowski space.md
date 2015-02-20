@@ -1,0 +1,407 @@
+﻿---
+lastrevid: 647628006
+pageid: 230488
+canonicalurl: http://en.wikipedia.org/wiki/Minkowski_space
+title: Minkowski space
+editurl: http://en.wikipedia.org/w/index.php?title=Minkowski_space&action=edit
+length: 18897
+contentmodel: wikitext
+pagelanguage: en
+touched: 2015-02-19T04:48:50Z
+ns: 0
+fullurl: http://en.wikipedia.org/wiki/Minkowski_space
+---
+
+<div class="hatnote">For spacetime graphics, see <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Minkowski diagram</a>.&#32;&#32;For Minkowski space associated to a number field, see <a href="/wiki/Minkowski_space_(number_field)" title="Minkowski space (number field)">Minkowski space (number field)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><span class="mbox-text-span"><table class="collapsible" style="width:95%; background:transparent;">
+<tr><th style="text-align:left; padding:0.2em 2px 0.2em 0;"> This article has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Minkowski_space&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Minkowski_space" title="Talk:Minkowski space">talk page</a></b>.</span></th></tr>
+<tr><td><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div></td><td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Minkowski_space&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(November 2009)</i></small><span class="hide-when-compact"></span></span></td></tr></table><table class="metadata plainlinks ambox ambox-style ambox-Context" role="presentation"><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><span class="mbox-text-span">This article <b>provides insufficient context for those unfamiliar with the subject</b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Minkowski_space&amp;action=edit">improve the article</a> with a <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">good introductory style</a>.</span>  <small><i>(March 2013)</i></small><span class="hide-when-compact"></span></span></td></tr></table>
+</td></tr></table><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Special_relativity" title="Category:Special relativity">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Special_relativity" title="Special relativity">Special relativity</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:World_line.svg" class="image" title="The world line: a diagrammatic representation of spacetime"><img alt="The world line: a diagrammatic representation of spacetime" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/World_line.svg/200px-World_line.svg.png" width="200" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/World_line.svg/300px-World_line.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/World_line.svg/400px-World_line.svg.png 2x" data-file-width="481" data-file-height="491" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+<ul><li> <a href="/wiki/Introduction_to_special_relativity" title="Introduction to special relativity">Introduction to special relativity</a></li>
+<li> <a href="/wiki/Principle_of_relativity" title="Principle of relativity">Principle of relativity</a></li>
+<li> <a href="/wiki/Theory_of_relativity" title="Theory of relativity">Theory of relativity</a></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Foundations</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.25em; padding-right:0.25em;">
+<ul><li> <a href="/wiki/Kinematics" title="Kinematics">Relative motion</a></li>
+<li> <a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">Inertial frame of reference</a></li>
+<li> <a href="/wiki/Speed_of_light" title="Speed of light">Speed of light</a></li>
+<li> <a href="/wiki/Maxwell%27s_equations" title="Maxwell&#39;s equations">Maxwell's equations</a></li>
+<li> <a href="/wiki/Lorentz_transformation" title="Lorentz transformation">Lorentz transformation</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Consequences</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.25em; padding-right:0.25em;">
+<ul><li> <a href="/wiki/Time_dilation" title="Time dilation">Time dilation</a></li>
+<li> <a href="/wiki/Mass_in_special_relativity" title="Mass in special relativity">Relativistic mass</a></li>
+<li> <a href="/wiki/Mass%E2%80%93energy_equivalence" title="Mass–energy equivalence">Mass–energy equivalence</a></li>
+<li> <a href="/wiki/Length_contraction" title="Length contraction">Length contraction</a></li>
+<li> <a href="/wiki/Relativity_of_simultaneity" title="Relativity of simultaneity">Relativity of simultaneity</a></li>
+<li> <a href="/wiki/Relativistic_Doppler_effect" title="Relativistic Doppler effect">Relativistic Doppler effect</a></li>
+<li> <a href="/wiki/Thomas_precession" title="Thomas precession">Thomas precession</a></li>
+<li> <a href="/wiki/Relativistic_disk" title="Relativistic disk">Relativistic disk</a></li>
+<li> <a href="/wiki/Bell%27s_spaceship_paradox" title="Bell&#39;s spaceship paradox">Bell's spaceship paradox</a></li>
+<li> <a href="/wiki/Ehrenfest_paradox" title="Ehrenfest paradox">Ehrenfest paradox</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><div class="hlist"><ul><li><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></li><li><a href="/wiki/Dynamics_(mechanics)" title="Dynamics (mechanics)">Dynamics</a></li></ul></div></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.25em; padding-right:0.25em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tr><th style="padding:0.1em;background:#e9e9ff; font-weight:normal;">
+Spacetime</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em">
+<ul><li> <strong class="selflink">Minkowski spacetime</strong></li>
+<li> <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Spacetime (Minkowski) diagrams</a></li>
+<li> <div class="hlist"><ul><li><a href="/wiki/World_line" title="World line">World line</a></li><li><a href="/wiki/Light_cone" title="Light cone">Light cone</a></li></ul></div></td></li></ul>
+</tr><tr><th style="padding:0.1em;background:#e9e9ff; font-weight:normal;">
+Dynamics</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em">
+<div class="hlist">
+<ul><li> <a href="/wiki/Proper_time" title="Proper time">Proper time</a></li>
+<li> <a href="/wiki/Invariant_mass" title="Invariant mass">Proper mass</a></li>
+<li> <a href="/wiki/Four-momentum" title="Four-momentum">4-momentum</a></li></ul>
+</div></td>
+</tr></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><div class="hlist"><ul><li><a href="/wiki/History_of_special_relativity" title="History of special relativity">History</a></li><li>Precursors</li></ul></div></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.25em; padding-right:0.25em;">
+<ul><li> <a href="/wiki/Galilean_invariance" title="Galilean invariance">Galilean relativity</a></li>
+<li> <a href="/wiki/Galilean_transformation" title="Galilean transformation">Galilean transformation</a></li>
+<li> <a href="/wiki/Aether_theories" title="Aether theories">Aether theories</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">People</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.25em; padding-right:0.25em;;border-bottom:1px solid #aaa;">
+<ul><li> <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a></li>
+<li> <a href="/wiki/Arnold_Sommerfeld" title="Arnold Sommerfeld">Sommerfeld</a></li>
+<li> <a href="/wiki/Albert_A._Michelson" title="Albert A. Michelson">Michelson</a></li>
+<li> <a href="/wiki/Edward_W._Morley" title="Edward W. Morley">Morley</a></li>
+<li> <a href="/wiki/George_FitzGerald" title="George FitzGerald" class="mw-redirect">FitzGerald</a></li>
+<li> <a href="/wiki/Gustav_Herglotz" title="Gustav Herglotz">Herglotz</a></li>
+<li> <a href="/wiki/Hendrik_Lorentz" title="Hendrik Lorentz">Lorentz</a></li>
+<li> <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li> <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Minkowski</a></li>
+<li> <a href="/wiki/Hippolyte_Fizeau" title="Hippolyte Fizeau">Fizeau</a></li>
+<li> <a href="/wiki/Max_Abraham" title="Max Abraham">Abraham</a></li>
+<li> <a href="/wiki/Max_Born" title="Max Born">Born</a></li>
+<li> <a href="/wiki/Max_Planck" title="Max Planck">Planck</a></li>
+<li> <a href="/wiki/Max_von_Laue" title="Max von Laue">von Laue</a></li>
+<li> <a href="/wiki/Paul_Ehrenfest" title="Paul Ehrenfest">Ehrenfest</a></li>
+<li> <a href="/wiki/Richard_C._Tolman" title="Richard C. Tolman">Tolman</a></li>
+<li> <a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac</a></div></div></td></li></ul>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:0; padding:0; font-weight:normal;">
+<div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em"><a href="/wiki/Special_relativity_(alternative_formulations)" title="Special relativity (alternative formulations)">Alternative formulations<br/>of special relativity</a></div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Special_relativity_sidebar" title="Template:Special relativity sidebar"><span title="View this template">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Special_relativity_sidebar" title="Template talk:Special relativity sidebar"><span title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Special_relativity_sidebar&amp;action=edit"><span title="Edit this template">e</span></a></li></ul></div></td></tr></table>
+<p>In <a href="/wiki/Mathematical_physics" title="Mathematical physics">mathematical physics</a>, <b>Minkowski space</b> or <b>Minkowski spacetime</b> (named after the mathematician <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Hermann Minkowski</a>) is the <a href="/wiki/Space_(mathematics)" title="Space (mathematics)">mathematical space setting</a> in which <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein's</a> theory of <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a> is most conveniently formulated. In this setting the three ordinary dimensions of <a href="/wiki/Space" title="Space">space</a> are combined with a single dimension of <a href="/wiki/Time" title="Time">time</a> to form a four-dimensional <a href="/wiki/Manifold" title="Manifold">manifold</a> for representing a <a href="/wiki/Spacetime" title="Spacetime">spacetime</a>.
+</p><p>In <a href="/wiki/Theoretical_physics" title="Theoretical physics">theoretical physics</a>, Minkowski space is often contrasted with <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>. While a Euclidean space has only <a href="/wiki/Spacelike" title="Spacelike" class="mw-redirect">spacelike</a> dimensions, a Minkowski space also has one timelike dimension. The <a href="/wiki/Isometry_group" title="Isometry group">isometry group</a> of a Euclidean space is the <a href="/wiki/Euclidean_group" title="Euclidean group">Euclidean group</a> and for a Minkowski space it is the <a href="/wiki/Poincar%C3%A9_group" title="Poincaré group">Poincaré group</a>.
+</p><p>The spacetime interval between two <a href="/wiki/Event_(relativity)" title="Event (relativity)">events</a> in Minkowski space is either <a href="/wiki/Spacetime#Space-like_interval" title="Spacetime">space-like</a>, <a href="/wiki/Spacetime#Light-like_interval" title="Spacetime">light-like</a> ('null') or <a href="/wiki/Spacetime#Time-like_interval" title="Spacetime">time-like</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Structure"><span class="tocnumber">2</span> <span class="toctext">Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#The_Minkowski_inner_product"><span class="tocnumber">2.1</span> <span class="toctext">The Minkowski inner product</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Standard_basis"><span class="tocnumber">2.2</span> <span class="toctext">Standard basis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Alternative_definition"><span class="tocnumber">3</span> <span class="toctext">Alternative definition</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Lorentz_transformations_and_symmetry"><span class="tocnumber">4</span> <span class="toctext">Lorentz transformations and symmetry</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Causal_structure"><span class="tocnumber">5</span> <span class="toctext">Causal structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Causality_relations"><span class="tocnumber">5.1</span> <span class="toctext">Causality relations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Reversed_triangle_inequality"><span class="tocnumber">6</span> <span class="toctext">Reversed triangle inequality</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Locally_flat_spacetime"><span class="tocnumber">7</span> <span class="toctext">Locally flat spacetime</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1905, with the publication in 1906, it was noted by <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a> that, by taking time to be the imaginary part of the fourth <a href="/wiki/Spacetime" title="Spacetime">spacetime</a> coordinate √<span style="text-decoration:overline;">−1</span>&#160;<i><a href="/wiki/Speed_of_light" title="Speed of light">c</a><a href="/wiki/Time" title="Time">t</a></i>, a <a href="/wiki/Lorentz_transformation" title="Lorentz transformation">Lorentz transformation</a> can be regarded as a rotation of coordinates in a four-dimensional Euclidean space with three real coordinates representing space, and one <a href="/wiki/Imaginary_time" title="Imaginary time">imaginary coordinate</a>, representing time, as the fourth dimension. Since the space is then a <a href="/wiki/Pseudo-Euclidean_space" title="Pseudo-Euclidean space">pseudo-Euclidean space</a>, the rotation is a representation of a <a href="/wiki/Lorentz_transformation#Hyperbolic_rotation_of_coordinates" title="Lorentz transformation">hyperbolic rotation</a>, although Poincaré did not give this interpretation, his purpose being only to explain the Lorentz transformation in terms of the familiar Euclidean rotation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup>
+This idea was elaborated by <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Hermann Minkowski</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> who used it to restate the <a href="/wiki/Maxwell_equations" title="Maxwell equations" class="mw-redirect">Maxwell equations</a> in four dimensions, showing directly their invariance under the Lorentz transformation. He further reformulated in four dimensions the then-recent theory of special relativity of <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a>. From this he concluded that time and space should be treated equally, and so arose his concept of events taking place in a unified four-dimensional space-time continuum. In a further development,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> he gave an alternative formulation of this idea that did not use the imaginary time coordinate, but represented the four variables (<i>x</i>,&#160;<i>y</i>,&#160;<i>z</i>,&#160;<i>t</i>) of space and time in coordinate form in a four dimensional <a href="/wiki/Affine_space" title="Affine space">affine space</a>. Points in this space correspond to events in space-time. In this space, there is a defined <a href="/wiki/Light-cone" title="Light-cone" class="mw-redirect">light-cone</a> associated with each point (see diagram above), and events not on the light-cone are classified by their relation to the apex as <i>space-like</i> or <i>time-like</i>. It is principally this view of space-time that is current nowadays, although the older view involving imaginary time has also influenced special relativity. Minkowski, aware of the fundamental restatement of the theory which he had made, said:
+</p>
+<blockquote>The views of space and time which I wish to lay before you have sprung from the soil of experimental physics, and therein lies their strength. They are radical. Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, and only a kind of union of the two will preserve an independent reality. – Hermann Minkowski, 1908</blockquote>
+<p>For further historical information see references Galison (1979), Corry (1997), Walter (1999).
+</p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=2" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Formally, Minkowski space is a four-dimensional <a href="/wiki/Real_number" title="Real number">real</a> <a href="/wiki/Vector_space" title="Vector space">vector space</a> equipped with a nondegenerate, symmetric <a href="/wiki/Bilinear_form" title="Bilinear form">bilinear form</a> with <a href="/wiki/Metric_signature" title="Metric signature">signature</a> <tt>(&#8722;,+,+,+)</tt> (Some may also prefer the alternative signature <tt>(+,&#8722;,&#8722;,&#8722;)</tt>; in general, mathematicians and general relativists prefer the former while particle physicists tend to use the latter.) In other words, Minkowski space is a <a href="/wiki/Pseudo-Euclidean_space" title="Pseudo-Euclidean space">pseudo-Euclidean space</a> with <span class="nowrap"><i>n</i> = 4</span> and <span class="nowrap"><i>n</i> &#8722; <i>k</i> = 1</span> (in a broader definition any <span class="nowrap"><i>n</i> &gt; 1</span> is allowed). Elements of Minkowski space are called <i>events</i> or <a href="/wiki/Four-vector" title="Four-vector">four-vectors</a>. Minkowski space is often denoted <b>R</b><sup>1,3</sup> to emphasize the signature, although it is also denoted <i>M</i><sup>4</sup> or simply <i>M</i>. It is perhaps the simplest example of a <a href="/wiki/Pseudo-Riemannian_manifold" title="Pseudo-Riemannian manifold">pseudo-Riemannian manifold</a>.
+</p>
+<h3><span class="mw-headline" id="The_Minkowski_inner_product">The Minkowski inner product</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=3" title="Edit section: The Minkowski inner product">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This inner product is similar to the usual Euclidean <a href="/wiki/Inner_product" title="Inner product" class="mw-redirect">inner product</a>, but is used to describe a different geometry; the geometry is usually associated with relativity. Let <i>M</i> be a 4-dimensional real vector space. The Minkowski inner product is a map <span class="nowrap">η: <i>M</i> &#215; <i>M</i> → <b>R</b></span> (i.e. given any two vectors <i>v</i>, <i>w</i> in <i>M</i> we define η(<i>v</i>,<i>w</i>) as a real number) which satisfies properties (1), (2), and (3) listed here, as well as property (4) given below:
+</p>
+<dl><dd><table>
+
+<tr valign="top">
+<td>1.</td>
+<td width="25%"><i>bilinear</i>
+</td>
+<td>η(<i>au</i>+<i>v</i>, <i>w</i>) = <i>a</i>η(<i>u</i>,<i>w</i>) + η(<i>v</i>,<i>w</i>)
+<p>for all <i>a</i> ∈ <b>R</b> and <i>u</i>, <i>v</i>, <i>w</i> in <i>M</i>.
+</p>
+</td></tr>
+<tr valign="top">
+<td>2.</td>
+<td><i>symmetric</i>
+</td>
+<td>η(<i>v</i>,<i>w</i>) = η(<i>w</i>,<i>v</i>)
+<p>for all <i>v</i>, <i>w</i> ∈ <i>M</i>.
+</p>
+</td></tr>
+<tr valign="top">
+<td>3.</td>
+<td><i>nondegenerate</i>
+</td>
+<td>if η(<i>v</i>,<i>w</i>) = 0 for all <i>w</i> ∈ <i>M</i> then <i>v</i> = 0.
+</td></tr></table></dd></dl>
+<p>Note that this is not an inner product in the usual sense, since it is not <a href="/wiki/Definite_bilinear_form" title="Definite bilinear form" class="mw-redirect">positive-definite</a>, i.e. the <a href="/wiki/Quadratic_form" title="Quadratic form">quadratic form</a> η(<i>v</i>,<i>v</i>) need not be positive for nonzero <i>v</i>. The positive-definite condition has been replaced by the weaker condition of nondegeneracy (every positive-definite form is nondegenerate but not vice versa). The inner product is said to be <i>indefinite</i>. These <a href="/wiki/Misnomer" title="Misnomer">misnomers</a>, "Minkowski inner product" and "Minkowski metric," conflict with the standard meanings of <a href="/wiki/Inner_product" title="Inner product" class="mw-redirect">inner product</a> and <a href="/wiki/Metric_(mathematics)" title="Metric (mathematics)">metric</a> in pure mathematics; as with many other misnomers, the usage of these terms is due to similarity to the mathematical structure.
+</p><p>Just as in <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>, two vectors <i>v</i> and <i>w</i> are said to be <i><a href="/wiki/Orthogonal" title="Orthogonal" class="mw-redirect">orthogonal</a></i> if η(<i>v</i>,<i>w</i>) = 0.  Minkowski space differs by including <a href="/wiki/Hyperbolic-orthogonal" title="Hyperbolic-orthogonal" class="mw-redirect">hyperbolic-orthogonal</a> events in case <i>v</i> and <i>w</i> span a plane where η takes negative values. This difference is clarified by comparing the Euclidean structure of the ordinary <a href="/wiki/Complex_number" title="Complex number">complex number</a> plane to the structure of the plane of <a href="/wiki/Split-complex_number" title="Split-complex number">split-complex numbers</a>.  The <b>Minkowski norm</b> of a vector <i>v</i> is defined by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\|v\| = \sqrt{|\eta(v,v)|}." src="//upload.wikimedia.org/math/7/6/b/76bf390d5a79ea7ab2bd9dae83742433.png" /></dd></dl>
+<p>This is not a <a href="/wiki/Norm_(mathematics)" title="Norm (mathematics)">norm</a> in the usual sense because it fails to be <a href="/wiki/Subadditive" title="Subadditive" class="mw-redirect">subadditive</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>&#93;</sup>, but it does define a useful generalization of the notion of length to Minkowski space.  In particular, a vector <i>v</i> is called a <i><a href="/wiki/Unit_vector" title="Unit vector">unit vector</a></i> if ||<i>v</i>|| = 1 (i.e., <span class="nowrap">η(<i>v</i>,<i>v</i>) = ±1</span>). A <a href="/wiki/Basis_(linear_algebra)" title="Basis (linear algebra)">basis</a> for <i>M</i> consisting of mutually orthogonal unit vectors is called an <i><a href="/wiki/Orthonormal_basis" title="Orthonormal basis">orthonormal basis</a></i>.
+</p><p>By the <a href="/wiki/Gram%E2%80%93Schmidt_process" title="Gram–Schmidt process">Gram&#8211;Schmidt process</a>, any inner product space satisfying conditions (1), (2), and (3) above always has an orthonormal basis. Furthermore, the number of positive and negative unit vectors in any such basis is a fixed pair of numbers, equal to the <i>signature</i> of the inner product.  This is <a href="/wiki/Sylvester%27s_law_of_inertia" title="Sylvester&#39;s law of inertia">Sylvester's law of inertia</a>.
+</p><p>Then the fourth condition on η can be stated:
+</p>
+<dl><dd><table>
+
+<tr valign="top">
+<td>4.</td>
+<td width="25%"><i>signature</i>
+</td>
+<td>The bilinear form η has signature <tt>(&#8722;,+,+,+)</tt> or <tt>(+,&#8722;,&#8722;,&#8722;)</tt>.
+</td></tr></table></dd></dl>
+<p>Which signature is used is a matter of convention. Both are fairly common. See <a href="/wiki/Sign_convention" title="Sign convention">sign convention</a>.
+</p>
+<h3><span class="mw-headline" id="Standard_basis">Standard basis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=4" title="Edit section: Standard basis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A standard basis for Minkowski space is a set of four mutually orthogonal vectors {<i>e</i><sub>0</sub>,<i>e</i><sub>1</sub>,<i>e</i><sub>2</sub>,<i>e</i><sub>3</sub>} such that
+</p>
+<dl><dd>&#8722;(<i>e</i><sub>0</sub>)<sup>2</sup> = (<i>e</i><sub>1</sub>)<sup>2</sup> = (<i>e</i><sub>2</sub>)<sup>2</sup> = (<i>e</i><sub>3</sub>)<sup>2</sup> = 1</dd></dl>
+<p>These conditions can be written compactly in the following form:
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\langle e_\mu, e_\nu \rangle = \eta_{\mu \nu} " src="//upload.wikimedia.org/math/b/0/2/b02ca5eedbfd0382ad808bc748759a7f.png" /></dd></dl>
+<p>where μ and ν run over the values (0, 1, 2, 3) and the matrix η is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\eta = \begin{pmatrix}-1&amp;0&amp;0&amp;0\\0&amp;1&amp;0&amp;0\\0&amp;0&amp;1&amp;0\\0&amp;0&amp;0&amp;1\end{pmatrix}" src="//upload.wikimedia.org/math/b/9/e/b9e01c89a9cb9eb65f905bea9305b3ac.png" /> .</dd></dl>
+<p>(As was previously noted, sometimes the opposite sign convention is preferred.)
+</p><p>This <a href="/wiki/Tensor" title="Tensor">tensor</a> is frequently called the "Minkowski tensor".  Relative to a standard basis, the components of a vector <i>v</i> are written (<i>v</i><sup>0</sup>,<i>v</i><sup>1</sup>,<i>v</i><sup>2</sup>,<i>v</i><sup>3</sup>) and we use the <a href="/wiki/Einstein_notation" title="Einstein notation">Einstein notation</a> to write <i>v</i> = <i>v</i><sup>μ</sup><i>e</i><sub>μ</sub>. The component <i>v</i><sup>0</sup> is called the <b>timelike component</b> of <i>v</i> while the other three components are called the <b>spatial components</b>.
+</p><p>In terms of components, the inner product between two vectors <i>v</i> and <i>w</i> is given by
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\langle v, w \rangle = \eta_{\mu \nu} v^\mu w^\nu = - v^0 w^0 + v^1 w^1 + v^2 w^2 + v^3 w^3 " src="//upload.wikimedia.org/math/7/4/1/74101519f30389c0804d3b1d75666ae8.png" /></dd></dl>
+<p>and the norm-squared of a vector <i>v</i> is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="v^2 = \eta_{\mu \nu} v^\mu v^\nu = - (v^0)^2 + (v^1)^2 + (v^2)^2 + (v^3)^2" src="//upload.wikimedia.org/math/4/d/9/4d95f743eae932683a2be80e1d6d3544.png" /></dd></dl>
+<h2><span class="mw-headline" id="Alternative_definition">Alternative definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=5" title="Edit section: Alternative definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The section above defines Minkowski space as a <a href="/wiki/Vector_space" title="Vector space">vector space</a>. There is an alternative definition of Minkowski space as an <a href="/wiki/Affine_space" title="Affine space">affine space</a> which views Minkowski space as a <a href="/wiki/Homogeneous_space" title="Homogeneous space">homogeneous space</a> of the <a href="/wiki/Poincar%C3%A9_group" title="Poincaré group">Poincaré group</a> with the <a href="/wiki/Lorentz_group" title="Lorentz group">Lorentz group</a> as the <a href="/wiki/Group_action" title="Group action">stabilizer</a>. See <a href="/wiki/Erlangen_program" title="Erlangen program">Erlangen program</a>.
+</p><p>Note also that the term "Minkowski space" is also used for analogues in any dimension: if <i>n</i>≥2, <i>n</i>-dimensional Minkowski space is a vector space or affine space of real dimension <i>n</i> on which there is an inner product or <a href="/wiki/Pseudo-Riemannian_metric" title="Pseudo-Riemannian metric" class="mw-redirect">pseudo-Riemannian metric</a> of signature (<i>n</i>−1,1), i.e., in the above terminology, <i>n</i>−1 "pluses" and one "minus".
+</p>
+<h2><span class="mw-headline" id="Lorentz_transformations_and_symmetry">Lorentz transformations and symmetry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=6" title="Edit section: Lorentz transformations and symmetry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Standard_conf.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Standard_conf.png/300px-Standard_conf.png" width="300" height="258" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/9/90/Standard_conf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/90/Standard_conf.png 2x" data-file-width="390" data-file-height="335" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Standard_conf.png" class="internal" title="Enlarge"></a></div>Standard configuration of coordinate systems for Lorentz transformations.</div></div></div>
+<p>The <a href="/wiki/Poincar%C3%A9_group" title="Poincaré group">Poincaré group</a> is the group of all isometries of Minkowski spacetime including boosts, rotations, and translations. The <a href="/wiki/Lorentz_group" title="Lorentz group">Lorentz group</a> is the subgroup of isometries which leave the origin fixed and includes the boosts and rotations; members of this subgroup are called <a href="/wiki/Lorentz_transformation" title="Lorentz transformation">Lorentz transformations</a>. Among the simplest Lorentz transformations is a <a href="/wiki/Lorentz_boost" title="Lorentz boost" class="mw-redirect">Lorentz boost</a>. The archetypal Lorentz boost is
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="&#10;\begin{bmatrix}&#10;U&#39;_0 \\ U&#39;_1 \\ U&#39;_2 \\ U&#39;_3&#10;\end{bmatrix}&#10;=&#10;\begin{bmatrix}&#10;\gamma&amp;-\beta \gamma&amp;0&amp;0\\&#10;-\beta \gamma&amp;\gamma&amp;0&amp;0\\&#10;0&amp;0&amp;1&amp;0\\&#10;0&amp;0&amp;0&amp;1\\&#10;\end{bmatrix}&#10;\begin{bmatrix}&#10;U_0 \\ U_1 \\ U_2 \\ U_3&#10;\end{bmatrix}\ &#10;" src="//upload.wikimedia.org/math/f/0/6/f068c400142b76ed2e7997bad77e336c.png" /></dd></dl>
+<p>where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\gamma = { 1 \over \sqrt{1 - {v^2 \over c^2}} }" src="//upload.wikimedia.org/math/1/5/c/15c9e9280265f6c1ec8c5536af2c501c.png" /></dd></dl>
+<p>is the <a href="/wiki/Lorentz_factor" title="Lorentz factor">Lorentz factor</a>, and
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="\beta = { v \over c} \,." src="//upload.wikimedia.org/math/8/4/d/84d7884d39ae55a692b3ecd3f7acd94c.png" /></dd></dl>
+<p>All <a href="/wiki/Four-vector" title="Four-vector">four-vectors</a> in Minkowski space transform according to the same formula under <a href="/wiki/Lorentz_transformation" title="Lorentz transformation">Lorentz transformations</a>. <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Minkowski diagrams</a> illustrate Lorentz transformations.
+</p>
+<h2><span class="mw-headline" id="Causal_structure">Causal structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=7" title="Edit section: Causal structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Causal_structure" title="Causal structure">Causal structure</a></div>
+<p>Vectors are classified according to the sign of η(<i>v</i>,<i>v</i>). When the standard signature (&#8722;,+,+,+) is used, a vector <i>v</i> is:
+</p>
+<dl><dd><table cellpadding="2">
+
+<tr>
+<td><i>Timelike</i>
+</td>
+<td>if η(<i>v</i>,<i>v</i>) &lt; 0
+</td></tr>
+<tr>
+<td><i>Spacelike</i>
+</td>
+<td>if η(<i>v</i>,<i>v</i>) &gt; 0
+</td></tr>
+<tr>
+<td><i>Null</i> (or <i>lightlike</i>)
+</td>
+<td>if η(<i>v</i>,<i>v</i>) = 0
+</td></tr></table></dd></dl>
+<p>This terminology comes from the use of Minkowski space in the <a href="/wiki/Theory_of_relativity" title="Theory of relativity">theory of relativity</a>. The set of all null vectors at an event of Minkowski space constitutes the <a href="/wiki/Light_cone" title="Light cone">light cone</a> of that event. Note that all these notions are independent of the frame of reference.  Given a timelike vector <i>v</i>, there is a <a href="/wiki/Worldline" title="Worldline" class="mw-redirect">worldline</a> of constant velocity associated with it. The set {<i>w</i>&#160;: η(<i>w</i>,<i>v</i>) = 0 } corresponds to the <b>simultaneous hyperplane</b> at the origin of this worldline. Minkowski space exhibits <a href="/wiki/Relativity_of_simultaneity" title="Relativity of simultaneity">relativity of simultaneity</a> since this <a href="/wiki/Hyperplane" title="Hyperplane">hyperplane</a> depends on <i>v</i>. In the plane spanned by <i>v</i> and such a <i>w</i> in the hyperplane, the relation of <i>w</i> to <i>v</i> is <a href="/wiki/Hyperbolic-orthogonal" title="Hyperbolic-orthogonal" class="mw-redirect">hyperbolic-orthogonal</a>.
+</p><p>Once a direction of time is chosen, timelike and null vectors can be further decomposed into various classes. For timelike vectors we have
+</p>
+<ol><li> <i>future directed timelike</i> vectors whose first component is positive, and</li>
+<li> <i>past directed timelike</i> vectors whose first component is negative.</li></ol>
+<p>Null vectors fall into three classes:
+</p>
+<ol><li> the <i>zero vector</i>, whose components in any basis are <tt>(0,0,0,0)</tt>,</li>
+<li> <i>future directed null</i> vectors whose first component is positive, and</li>
+<li> <i>past directed null</i> vectors whose first component is negative.</li></ol>
+<p>Together with spacelike vectors there are 6 classes in all.
+</p><p>An <a href="/wiki/Orthonormal" title="Orthonormal" class="mw-redirect">orthonormal</a> basis for Minkowski space necessarily consists of one timelike and three spacelike unit vectors. If one wishes to work with non-orthonormal bases it is possible to have other combinations of vectors. For example, one can easily construct a (non-orthonormal) basis consisting entirely of null vectors, called a <b>null basis</b>.  Over the reals, if two null vectors are orthogonal (zero inner product), then they must be proportional.  However, allowing complex numbers, one can obtain a <a href="/w/index.php?title=Null_tetrad&amp;action=edit&amp;redlink=1" class="new" title="Null tetrad (page does not exist)">null tetrad</a> which is a basis consisting of null vectors, some of which are orthogonal to each other.
+</p><p><a href="/wiki/Vector_field" title="Vector field">Vector fields</a> are called timelike, spacelike or null if the associated vectors are timelike, spacelike or null at each point where the field is defined.
+</p>
+<h3><span class="mw-headline" id="Causality_relations">Causality relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=8" title="Edit section: Causality relations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Let <i>x</i>, <i>y</i> ∈ <i>M</i>. We say that
+</p>
+<ol><li><i>x</i> <i><b>chronologically precedes</b></i> <i>y</i> if <i>y</i> &#8722; <i>x</i> is future directed timelike.</li>
+<li><i>x</i> <i><b>causally precedes</b></i> <i>y</i> if <i>y</i> &#8722; <i>x</i> is future directed null or future directed timelike</li></ol>
+<h2><span class="mw-headline" id="Reversed_triangle_inequality">Reversed triangle inequality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=9" title="Edit section: Reversed triangle inequality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If <i>v</i> and <i>w</i> are two equally directed timelike four-vectors, then
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="|v+w| \ge |v|+|w|," src="//upload.wikimedia.org/math/3/e/c/3ec9495a190e7c2ad2a4ad4144400605.png" /></dd></dl>
+<p>where
+</p>
+<dl><dd><img class="mwe-math-fallback-image-inline tex" alt="|v|:=\sqrt{-\eta_{\mu \nu}v^\mu v^\nu}." src="//upload.wikimedia.org/math/7/9/2/792e5456004a5d468aaa5c985cb34a69.png" /></dd></dl>
+<h2><span class="mw-headline" id="Locally_flat_spacetime">Locally flat spacetime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=10" title="Edit section: Locally flat spacetime">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Strictly speaking, the use of the Minkowski space to describe physical systems over finite distances applies only in systems without significant <a href="/wiki/Gravitation" title="Gravitation">gravitation</a>. In the case of significant gravitation, spacetime becomes curved and one must abandon <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a> in favor of the full theory of <a href="/wiki/General_relativity" title="General relativity">general relativity</a>.
+</p><p>Nevertheless, even in such cases, Minkowski space is still a good description in an <a href="/wiki/Local_reference_frame" title="Local reference frame">infinitesimal region</a> surrounding any point (barring gravitational singularities). More abstractly, we say that in the presence of gravity spacetime is described by a curved 4-dimensional <a href="/wiki/Manifold" title="Manifold">manifold</a> for which the <a href="/wiki/Tangent_space" title="Tangent space">tangent space</a> to any point is a 4-dimensional Minkowski space. Thus, the structure of Minkowski space is still essential in the description of general relativity.
+</p><p>In the realm of weak gravity, <a href="/wiki/Spacetime" title="Spacetime">spacetime</a> becomes flat and looks globally, not just locally, like Minkowski space. For this reason Minkowski space is often referred to as <i>flat spacetime</i>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<p></p>
+<tr>
+<td style="width: 33%;text-align: left; vertical-align: top;">
+<ul><li> <a href="/wiki/Biquaternion" title="Biquaternion">Biquaternion</a></li>
+<li> <a href="/wiki/Causal_structure" title="Causal structure">Causal structure</a></li>
+<li> <a href="/wiki/Electromagnetic_tensor" title="Electromagnetic tensor">Electromagnetic tensor</a></li>
+<li> <a href="/wiki/Erlangen_program" title="Erlangen program">Erlangen program</a></li>
+<li> <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a></li>
+<li> <a href="/wiki/Four_vector" title="Four vector" class="mw-redirect">Four vector</a></li>
+<li> <a href="/wiki/Hyperbolic_quaternion" title="Hyperbolic quaternion">Hyperbolic quaternion</a></li>
+<li> <a href="/wiki/Hyperboloid_model" title="Hyperboloid model">Hyperboloid model</a></li>
+<li> <a href="/wiki/Introduction_to_mathematics_of_general_relativity" title="Introduction to mathematics of general relativity" class="mw-redirect">Introduction to mathematics of general relativity</a></li></ul>
+<p></p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li> <a href="/wiki/Lorentzian_manifold" title="Lorentzian manifold" class="mw-redirect">Lorentzian manifold</a></li>
+<li> <a href="/wiki/Metric_tensor" title="Metric tensor">Metric tensor</a></li>
+<li> <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Minkowski diagram</a></li>
+<li> <a href="/wiki/Relativistic_heat_conduction" title="Relativistic heat conduction">Relativistic heat conduction</a></li>
+<li> <a href="/wiki/Georg_Bernhard_Riemann" title="Georg Bernhard Riemann" class="mw-redirect">Georg Bernhard Riemann</a></li>
+<li> <a href="/wiki/Speed_of_light" title="Speed of light">Speed of light</a></li>
+<li> <a href="/wiki/Super_Minkowski_space" title="Super Minkowski space">Super Minkowski space</a></li>
+<li> <a href="/wiki/Unit_hyperbola" title="Unit hyperbola">Unit hyperbola</a></li>
+<li> <a href="/wiki/World_line" title="World line">World line</a></li></ul>
+<p></p>
+</td></tr></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">*<span id="CITEREFPoincar.C3.A9.2C_Henri" class="citation">Poincaré, Henri (1905/6), "<a href="//en.wikisource.org/wiki/fr:Sur_la_dynamique_de_l%E2%80%99%C3%A9lectron_(juillet)" class="extiw" title="s:fr:Sur la dynamique de l’électron (juillet)">Sur la dynamique de l’électron</a>", <i>Rendiconti del Circolo matematico di Palermo</i> <b>21</b>: 129–176, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF03013466">10.1007/BF03013466</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMinkowski+space&amp;rft.atitle=Sur+la+dynamique+de+l%E2%80%99%C3%A9lectron&amp;rft.aulast=Poincar%C3%A9%2C+Henri&amp;rft.au=Poincar%C3%A9%2C+Henri&amp;rft.date=1905%2F6&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF03013466&amp;rft.jtitle=Rendiconti+del+Circolo+matematico+di+Palermo&amp;rft.pages=129-176&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">&#124;date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+<ul><li>Wikisource translation: <a href="//en.wikisource.org/wiki/On_the_Dynamics_of_the_Electron_(July)" class="extiw" title="s:On the Dynamics of the Electron (July)">On the Dynamics of the Electron</a></span></li></ul>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFMinkowski.2C_Hermann" class="citation">Minkowski, Hermann (1907/8), "<a href="//en.wikisource.org/wiki/de:Die_Grundgleichungen_f%C3%BCr_die_elektromagnetischen_Vorg%C3%A4nge_in_bewegten_K%C3%B6rpern" class="extiw" title="s:de:Die Grundgleichungen für die elektromagnetischen Vorgänge in bewegten Körpern">Die Grundgleichungen für die elektromagnetischen Vorgänge in bewegten Körpern</a>", <i>Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse</i>: 53–111</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMinkowski+space&amp;rft.atitle=Die+Grundgleichungen+f%C3%BCr+die+elektromagnetischen+Vorg%C3%A4nge+in+bewegten+K%C3%B6rpern&amp;rft.aulast=Minkowski%2C+Hermann&amp;rft.au=Minkowski%2C+Hermann&amp;rft.date=1907%2F8&amp;rft.genre=article&amp;rft.jtitle=Nachrichten+von+der+Gesellschaft+der+Wissenschaften+zu+G%C3%B6ttingen%2C+Mathematisch-Physikalische+Klasse&amp;rft.pages=53-111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">&#124;date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+<ul><li>Wikisource translation: <a href="//en.wikisource.org/wiki/The_Fundamental_Equations_for_Electromagnetic_Processes_in_Moving_Bodies" class="extiw" title="s:The Fundamental Equations for Electromagnetic Processes in Moving Bodies">The Fundamental Equations for Electromagnetic Processes in Moving Bodies</a>.</span></li></ul>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span id="CITEREFMinkowski.2C_Hermann" class="citation">Minkowski, Hermann (1908/9), "<a href="//en.wikisource.org/wiki/de:Raum_und_Zeit_(Minkowski)" class="extiw" title="s:de:Raum und Zeit (Minkowski)">Raum und Zeit</a>", <i>Physikalische Zeitschrift</i> <b>10</b>: 75–88</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMinkowski+space&amp;rft.atitle=Raum+und+Zeit&amp;rft.aulast=Minkowski%2C+Hermann&amp;rft.au=Minkowski%2C+Hermann&amp;rft.date=1908%2F9&amp;rft.genre=article&amp;rft.jtitle=Physikalische+Zeitschrift&amp;rft.pages=75-88&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">&#124;date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+<ul><li>Various English translations on Wikisource: <a href="//en.wikisource.org/wiki/Space_and_Time" class="extiw" title="s:Space and Time">Space and Time</a></span></li></ul>
+</li>
+</ol></div>
+<ul><li> Galison P L: <i>Minkowski's Space-Time: from visual thinking to the absolute world</i>, Historical Studies in the Physical Sciences (R McCormach <i>et al.</i> eds) Johns Hopkins Univ.Press, vol.10 1979 85-121</li>
+<li> Corry L: <i>Hermann Minkowski and the postulate of relativity</i>, Arch. Hist. Exact Sci. 51 1997 273-314</li>
+<li> Francesco Catoni, Dino Boccaletti, &amp; Roberto Cannata (2008) <i>Mathematics of Minkowski Space</i>, <a href="/wiki/Birkh%C3%A4user_Verlag" title="Birkhäuser Verlag" class="mw-redirect">Birkhäuser Verlag</a>, Basel.</li>
+<li> <span class="citation book">Naber, Gregory L. (1992). <i>The Geometry of Minkowski Spacetime</i>. New York: Springer-Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-97848-8" title="Special:BookSources/0-387-97848-8">0-387-97848-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMinkowski+space&amp;rft.aufirst=Gregory+L.&amp;rft.aulast=Naber&amp;rft.au=Naber%2C+Gregory+L.&amp;rft.btitle=The+Geometry+of+Minkowski+Spacetime&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-387-97848-8&amp;rft.place=New+York&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li> <a href="/wiki/Roger_Penrose" title="Roger Penrose">Roger Penrose</a> (2005) <i>Road to Reality&#160;: A Complete Guide to the Laws of the Universe</i>, chapter 18 "Minkowskian geometry", <a href="/wiki/Alfred_A._Knopf" title="Alfred A. Knopf">Alfred A. Knopf</a> <a href="/wiki/Special:BookSources/9780679454434" class="internal mw-magiclink-isbn">ISBN 9780679454434</a> . </li>
+<li> Shaw, Ronald (1982) <i>Linear Algebra and Group Representations</i>, § 6.6 "Minkowski space", § 6.7,8 "Canonical forms", pp 221&#8211;42, <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a> <a href="/wiki/Special:BookSources/0126392013" class="internal mw-magiclink-isbn">ISBN 0-12-639201-3</a> .</li>
+<li> <span class="citation book">Walter, Scott (1999). <a rel="nofollow" class="external text" href="http://henripoincarepapers.univ-lorraine.fr/walter/papers/mmm.xml">"Minkowski, Mathematicians, and the Mathematical Theory of Relativity"</a>.  In Goenner, Hubert <i>et al.</i> (ed.). <i>The Expanding Worlds of General Relativity</i>. Boston: Birkhäuser. pp.&#160;45&#8211;86. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8176-4060-6" title="Special:BookSources/0-8176-4060-6">0-8176-4060-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMinkowski+space&amp;rft.atitle=Minkowski%2C+Mathematicians%2C+and+the+Mathematical+Theory+of+Relativity&amp;rft.aufirst=Scott&amp;rft.aulast=Walter&amp;rft.au=Walter%2C+Scott&amp;rft.btitle=The+Expanding+Worlds+of+General+Relativity&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fhenripoincarepapers.univ-lorraine.fr%2Fwalter%2Fpapers%2Fmmm.xml&amp;rft.isbn=0-8176-4060-6&amp;rft.pages=45-86&amp;rft.place=Boston&amp;rft.pub=Birkh%C3%A4user&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Minkowski_space&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> Media related to <a href="//commons.wikimedia.org/wiki/Category:Minkowski_diagrams" class="extiw" title="commons:Category:Minkowski diagrams">Minkowski diagrams</a> at Wikimedia Commons
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=C2VMO7pcWhg">Animation clip</a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a> visualizing Minkowski space in the context of special relativity.</li></ul>
+<table class="navbox" style="border-spacing:0"><tr><td style="padding:2px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tr><th scope="col" class="navbox-title" colspan="3" style="text-align: center;)"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Relativity" title="Template:Relativity"><span title="View this template" style="text-align: center;);;background:none transparent;border:none;">v</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Relativity" title="Template talk:Relativity"><span title="Discuss this template" style="text-align: center;);;background:none transparent;border:none;">t</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Relativity&amp;action=edit"><span title="Edit this template" style="text-align: center;);;background:none transparent;border:none;">e</span></a></li></ul></div><div style="font-size:110%"><a href="/wiki/Theory_of_relativity" title="Theory of relativity">Relativity</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;)"><a href="/wiki/Special_relativity" title="Special relativity">Special<br>relativity</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Background</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Principle_of_relativity" title="Principle of relativity">Principle of relativity</a></li>
+<li> <a href="/wiki/Introduction_to_special_relativity" title="Introduction to special relativity">Introduction to special relativity</a></li>
+<li> <a href="/wiki/Special_relativity" title="Special relativity">Special relativity</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Foundations</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Kinematics" title="Kinematics">Relative motion</a></li>
+<li> <a href="/wiki/Frame_of_reference" title="Frame of reference">Frame of reference</a></li>
+<li> <a href="/wiki/Speed_of_light" title="Speed of light">Speed of light</a></li>
+<li> <a href="/wiki/Maxwell%27s_equations" title="Maxwell&#39;s equations">Maxwell's equations</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Formulation</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Galilean_invariance" title="Galilean invariance">Galilean relativity</a></li>
+<li> <a href="/wiki/Galilean_transformation" title="Galilean transformation">Galilean transformation</a></li>
+<li> <a href="/wiki/Lorentz_transformation" title="Lorentz transformation">Lorentz transformation</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Consequences</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Time_dilation" title="Time dilation">Time dilation</a></li>
+<li> <a href="/wiki/Mass_in_special_relativity" title="Mass in special relativity">Relativistic mass</a></li>
+<li> <a href="/wiki/Mass%E2%80%93energy_equivalence" title="Mass–energy equivalence">Mass–energy equivalence</a></li>
+<li> <a href="/wiki/Length_contraction" title="Length contraction">Length contraction</a></li>
+<li> <a href="/wiki/Relativity_of_simultaneity" title="Relativity of simultaneity">Relativity of simultaneity</a></li>
+<li> <a href="/wiki/Relativistic_Doppler_effect" title="Relativistic Doppler effect">Relativistic Doppler effect</a></li>
+<li> <a href="/wiki/Thomas_precession" title="Thomas precession">Thomas precession</a></li>
+<li> <a href="/wiki/Relativistic_disk" title="Relativistic disk">Relativistic disks</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;"><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <strong class="selflink">Minkowski spacetime</strong></li>
+<li> <a href="/wiki/World_line" title="World line">World line</a></li>
+<li> <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Spacetime diagrams</a></li>
+<li> <a href="/wiki/Light_cone" title="Light cone">Light cone</a></li></ul>
+</div></td></tr></table><div></div></td><td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Spacetime_curvature.png" class="image"><img alt="Spacetime curvature.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spacetime_curvature.png/200px-Spacetime_curvature.png" width="200" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spacetime_curvature.png/300px-Spacetime_curvature.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spacetime_curvature.png/400px-Spacetime_curvature.png 2x" data-file-width="660" data-file-height="291" /></a></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;)"><a href="/wiki/General_relativity" title="General relativity">General<br>relativity</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Background</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Introduction_to_general_relativity" title="Introduction to general relativity">Introduction</a></li>
+<li> <a href="/wiki/Mathematics_of_general_relativity" title="Mathematics of general relativity">Mathematical formulation</a></li>
+<li> <a href="/wiki/General_relativity_resources" title="General relativity resources" class="mw-redirect">Resources</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Fundamental<br>concepts</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Special_relativity" title="Special relativity">Special relativity</a></li>
+<li> <a href="/wiki/Equivalence_principle" title="Equivalence principle">Equivalence principle</a></li>
+<li> <a href="/wiki/World_line" title="World line">World line</a></li>
+<li> <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian geometry</a></li>
+<li> <a href="/wiki/Minkowski_diagram" title="Minkowski diagram">Minkowski diagram</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Phenomena</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Two-body_problem_in_general_relativity" title="Two-body problem in general relativity">Two-body problem</a></li>
+<li> <a href="/wiki/Gravitational_lens" title="Gravitational lens">Lenses</a></li>
+<li> <a href="/wiki/Gravitational_wave" title="Gravitational wave">Waves</a></li>
+<li> <a href="/wiki/Frame-dragging" title="Frame-dragging">Frame-dragging</a></li>
+<li> <a href="/wiki/Geodetic_effect" title="Geodetic effect">Geodetic effect</a></li>
+<li> <a href="/wiki/Event_horizon" title="Event horizon">Event horizon</a></li>
+<li> <a href="/wiki/Gravitational_singularity" title="Gravitational singularity">Singularity</a></li>
+<li> <a href="/wiki/Black_hole" title="Black hole">Black hole</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Equations</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Linearized_gravity" title="Linearized gravity">Linearized gravity</a></li>
+<li> <a href="/wiki/Parameterized_post-Newtonian_formalism" title="Parameterized post-Newtonian formalism">Post-Newtonian formalism</a></li>
+<li> <a href="/wiki/Einstein_field_equations" title="Einstein field equations">Einstein field equations</a></li>
+<li> <a href="/wiki/Geodesics_in_general_relativity" title="Geodesics in general relativity">Geodesic equation</a></li>
+<li> <a href="/wiki/Friedmann_equations" title="Friedmann equations">Friedmann equations</a></li>
+<li> <a href="/wiki/ADM_formalism" title="ADM formalism">ADM formalism</a></li>
+<li> <a href="/wiki/BSSN_formalism" title="BSSN formalism">BSSN formalism</a></li>
+<li> <a href="/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Einstein_equation" title="Hamilton–Jacobi–Einstein equation">Hamilton–Jacobi–Einstein equation</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;">Advanced<br>theories</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Kaluza%E2%80%93Klein_theory" title="Kaluza–Klein theory">Kaluza–Klein</a></li>
+<li> <a href="/wiki/Quantum_gravity" title="Quantum gravity">Quantum gravity</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: center;)"><div style="padding:0em 0.75em;"><a href="/wiki/Exact_solutions_in_general_relativity" title="Exact solutions in general relativity">Solutions</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Schwarzschild_metric" title="Schwarzschild metric">Schwarzschild</a> </li>
+<li> <a href="/wiki/Reissner%E2%80%93Nordstr%C3%B6m_metric" title="Reissner–Nordström metric">Reissner–Nordström</a></li>
+<li> <a href="/wiki/G%C3%B6del_metric" title="Gödel metric">Gödel</a><br/><a href="/wiki/Kerr_metric" title="Kerr metric">Kerr</a></li>
+<li> <a href="/wiki/Kerr%E2%80%93Newman_metric" title="Kerr–Newman metric">Kerr–Newman</a></li>
+<li> <a href="/wiki/Kasner_metric" title="Kasner metric">Kasner</a></li>
+<li> <a href="/wiki/Taub%E2%80%93NUT_space" title="Taub–NUT space">Taub–NUT</a></li>
+<li> <a href="/wiki/Milne_model" title="Milne model">Milne</a></li>
+<li> <a href="/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric" title="Friedmann–Lemaître–Robertson–Walker metric">Robertson–Walker</a></li>
+<li> <a href="/wiki/Pp-wave_spacetime" title="Pp-wave spacetime">pp-wave</a></li>
+<li> <a href="/wiki/Van_Stockum_dust" title="Van Stockum dust">van Stockum dust</a></li></ul>
+</div></td></tr></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;)">Scientists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li> <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a></li>
+<li> <a href="/wiki/Hendrik_Lorentz" title="Hendrik Lorentz">Lorentz</a></li>
+<li> <a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li> <a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li> <a href="/wiki/Karl_Schwarzschild" title="Karl Schwarzschild">Schwarzschild</a></li>
+<li> <a href="/wiki/Willem_de_Sitter" title="Willem de Sitter">de Sitter</a></li>
+<li> <a href="/wiki/Hans_Reissner" title="Hans Reissner">Reissner</a></li>
+<li> <a href="/wiki/Gunnar_Nordstr%C3%B6m" title="Gunnar Nordström">Nordström</a></li>
+<li> <a href="/wiki/Hermann_Weyl" title="Hermann Weyl">Weyl</a></li>
+<li> <a href="/wiki/Arthur_Eddington" title="Arthur Eddington">Eddington</a></li>
+<li> <a href="/wiki/Alexander_Friedmann" title="Alexander Friedmann">Friedmann</a></li>
+<li> <a href="/wiki/Edward_Arthur_Milne" title="Edward Arthur Milne">Milne</a></li>
+<li> <a href="/wiki/Fritz_Zwicky" title="Fritz Zwicky">Zwicky</a></li>
+<li> <a href="/wiki/Georges_Lema%C3%AEtre" title="Georges Lemaître">Lemaître</a></li>
+<li> <a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Gödel</a></li>
+<li> <a href="/wiki/John_Archibald_Wheeler" title="John Archibald Wheeler">Wheeler</a></li>
+<li> <a href="/wiki/Howard_P._Robertson" title="Howard P. Robertson">Robertson</a></li>
+<li> <a href="/wiki/James_M._Bardeen" title="James M. Bardeen">Bardeen</a></li>
+<li> <a href="/wiki/Arthur_Geoffrey_Walker" title="Arthur Geoffrey Walker">Walker</a></li>
+<li> <a href="/wiki/Roy_Kerr" title="Roy Kerr">Kerr</a></li>
+<li> <a href="/wiki/Subrahmanyan_Chandrasekhar" title="Subrahmanyan Chandrasekhar">Chandrasekhar</a></li>
+<li> <a href="/wiki/J%C3%BCrgen_Ehlers" title="Jürgen Ehlers">Ehlers</a></li>
+<li> <a href="/wiki/Roger_Penrose" title="Roger Penrose">Penrose</a></li>
+<li> <a href="/wiki/Stephen_Hawking" title="Stephen Hawking">Hawking</a></li>
+<li> <a href="/wiki/Joseph_Hooton_Taylor,_Jr." title="Joseph Hooton Taylor, Jr.">Taylor</a></li>
+<li> <a href="/wiki/Russell_Alan_Hulse" title="Russell Alan Hulse">Hulse</a></li>
+<li> <a href="/wiki/Willem_Jacob_van_Stockum" title="Willem Jacob van Stockum">Stockum</a></li>
+<li> <a href="/wiki/Abraham_H._Taub" title="Abraham H. Taub">Taub</a></li>
+<li> <a href="/wiki/Ezra_T._Newman" title="Ezra T. Newman">Newman</a></li>
+<li> <a href="/wiki/Shing-Tung_Yau" title="Shing-Tung Yau">Yau</a></li>
+<li> <a href="/wiki/Kip_Thorne" title="Kip Thorne">Thorne</a></li>
+<li> <a href="/wiki/Contributors_to_general_relativity" title="Contributors to general relativity"><i>others</i></a></li></ul>
+</div></td></tr></table></td></tr></table>
